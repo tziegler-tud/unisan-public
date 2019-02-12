@@ -1,0 +1,96 @@
+@import 'color-rules.less';
+@import 'variables.less';
+
+#no-js-dash {
+  display: none;
+  padding: 2em 5em;
+  background-color: @content-bg-color;
+
+  position: relative;
+  top: 0;
+
+}
+
+#no-js-dash #no-js-text {
+
+  color: @akzent-color;
+  font-size: 100%;
+
+  text-align: center;
+}
+
+.no-js #no-js-dash {
+  display: block;
+}
+
+
+.no-js .nav {
+  height: auto;
+}
+
+.no-js .nav-image {
+  height: @navbar-height;
+}
+
+.no-js .menu-button {
+  display: none;
+}
+
+.no-js .nav-fixed {
+  position: relative !important;
+
+}
+
+.no-js #wrapper {
+  margin-top: 0;
+}
+
+.no-js #menu {
+  position: relative  !important;
+  width: 100%;
+
+  top:3px;
+  left:0;
+
+  margin: 3px 0;
+
+
+  background-color: @nav-bg-color;
+  color: @nav-font-color;
+
+
+
+}
+
+.no-js #menu .menu-entries-icons {
+//  display: none;
+
+}
+
+.no-js #menu .menu-entries ul li {
+  flex: 1 80%;
+}
+
+
+.no-js .infobar {
+  display: none;
+}
+
+.no-js .floating-button {
+  display: none;
+}
+
+
+/* alignment from common.less */
+
+.no-js .sec-label {
+
+  top: 0px !important;
+  height: 100vh;
+
+}
+
+.no-js .sec-label .active {
+  background-color: inherit;
+  color: inherit;
+}

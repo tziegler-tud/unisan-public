@@ -1,0 +1,10 @@
+#wrapper {
+  width: 100%;
+}
+#content {
+  width: 80%;
+}
+.mock-div {
+  width: 100%;
+  height: 400px;
+}

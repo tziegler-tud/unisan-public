@@ -1,0 +1,47 @@
+<!--
+    ***********************************
+    ** js libs
+    *********************************** -->
+
+    <script src="lib/jquery/jquery-3.3.1.js"></script>
+    <script src="lib/jquery-ui-1.12.1/jquery-ui.js"></script>
+    <script src="lib/hammer/hammer.min.js"></script>
+    <script src="lib/lidl/core/lidl-0.1b.js"></script>
+    <script src="lib/lidl/imagebox/lidl-imagebox.js"></script>
+    <script src="lib/other/countTo.js"></script>
+    <script src="lib/waypoints/jquery.waypoints.min.js"></script>
+
+    <script src="lib/lidl/default-navigation/nav.js"></script>
+    <script src="lib/lidl/default-navigation/navObject.js"></script>
+    <script src="lib/lidl/default-navigation/navBar.js"></script>
+    <script src="lib/lidl/default-navigation/menu.js"></script>
+
+    <!--
+   ***********************************
+   ** js files
+   *********************************** -->
+
+
+    <script src="src/js/init.js"></script>
+    <script src="src/js/common.js"></script>
+
+    <!--
+      ***********************************
+      ** css libs
+      *********************************** -->
+
+    <link rel="stylesheet" type="text/css" href="lib/hamburgers/hamburgers.css" />
+    <link rel="stylesheet" type="text/css" href="lib/lidl/imagebox/imagebox-less.css" />
+
+
+    <!--
+      ***********************************
+      ** css files
+      *********************************** -->
+    <link rel="stylesheet" type="text/css" href="src/css/preloader.css"/>
+    <link rel="stylesheet" type="text/css" href="src/css/lssc_loader.css" />
+    <!--
+     ***********************************
+     ** no js fallback
+     *********************************** -->
+    <noscript><link rel="stylesheet" type="text/css" href="src/css/no-js.css" /></noscript>

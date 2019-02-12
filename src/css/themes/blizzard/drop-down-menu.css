@@ -1,0 +1,29 @@
+.theme-blizzard .nav {
+
+    background-color: white;
+    color: #000631;
+    border-bottom: 1px solid #000631;
+
+
+}
+
+
+
+.theme-blizzard .drop-down-menu li:hover {
+    color: #002557;
+    cursor: pointer;
+
+}
+
+.theme-blizzard .drop-down-menu li:hover a {
+    border-bottom: 1px solid #002557;
+
+    -webkit-transition: 500ms ease;
+    -moz-transition: 500ms ease;
+    -o-transition: 500ms ease;
+    transition: 500ms ease;
+}
+
+
+
+/** Bottom level **/

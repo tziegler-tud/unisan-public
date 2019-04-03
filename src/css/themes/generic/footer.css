@@ -8,6 +8,7 @@
   margin: auto;
 }
 #footer-mobile {
+  position: relative;
   width: 100%;
   background-color: #00293c;
   color: #f5f5f5;

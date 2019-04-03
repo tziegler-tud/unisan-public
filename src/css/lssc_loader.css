@@ -264,36 +264,36 @@
   -o-transition: fill 300ms ease;
   transition: fill 300ms ease;
 }
-.nav .menu-active {
-  -webkit-transition: all 300ms cubic-bezier(0.46, 0.03, 0.52, 0.96);
-  -moz-transition: all 300ms cubic-bezier(0.46, 0.03, 0.52, 0.96);
-  -o-transition: all 300ms cubic-bezier(0.46, 0.03, 0.52, 0.96);
-  transition: all 300ms cubic-bezier(0.46, 0.03, 0.52, 0.96);
-}
 @media only screen and (max-width: 50em) {
-  .nav .menu-active {
+  .nav #menu.menu-active {
     width: 100% !important;
   }
 }
 @media only screen and (min-width: 75em) {
-  .nav .menu-active {
+  .nav #menu.menu-active {
     width: 25% !important;
   }
 }
 @media only screen and (min-width: 50em) and (max-width: 75em) and (orientation: landscape) {
-  .nav .menu-active {
+  .nav #menu.menu-active {
     width: 50% !important;
   }
 }
 @media only screen and (max-height: 35em) and (min-width: 75em), only screen and (min-height: 35em) and (max-height: 45em) and (min-width: 75em) {
-  .nav .menu-active {
+  .nav #menu.menu-active {
     width: 50% !important;
   }
 }
 @media only screen and (min-height: 45em) and (max-height: 70em) and (min-width: 75em) {
-  .nav .menu-active {
+  .nav #menu.menu-active {
     width: 25% !important;
   }
+}
+.nav #menu.menu-transition {
+  -webkit-transition: all 300ms cubic-bezier(0.46, 0.03, 0.52, 0.96);
+  -moz-transition: all 300ms cubic-bezier(0.46, 0.03, 0.52, 0.96);
+  -o-transition: all 300ms cubic-bezier(0.46, 0.03, 0.52, 0.96);
+  transition: all 300ms cubic-bezier(0.46, 0.03, 0.52, 0.96);
 }
 /**
 class for big nav bar
@@ -311,6 +311,22 @@ class for big nav bar
   -o-transition: 500ms ease;
   transition: 500ms ease;
 }
+/* no js fallbacks */
+.no-js .nav {
+  height: auto;
+}
+.no-js .nav-image {
+  height: 75px;
+}
+.no-js .menu-button {
+  display: none;
+}
+.no-js .nav-fixed {
+  position: relative !important;
+}
+.no-js #menu .menu-entries ul li {
+  flex: 1 80%;
+}
 body {
   padding: 0;
   margin: 0;
@@ -322,6 +338,11 @@ body {
 a {
   text-decoration: none;
   color: inherit;
+}
+#top {
+  position: absolute;
+  top: 0;
+  left: 0;
 }
 #wrapper {
   position: relative;
@@ -375,9 +396,10 @@ button {
   display: inline-block;
   font-size: 100%;
   vertical-align: bottom;
-  padding: 0.5em;
+  padding: 0.6em 0.5em;
   text-decoration: none;
   border-radius: 10%;
+  line-height: 0;
 }
 .floating-button a svg {
   color: white;
@@ -396,6 +418,12 @@ button {
 }
 .btn-fixed {
   position: absolute;
+  top: 4.8em !important;
+}
+@media only screen and (min-width: 75em), only screen and (min-width: 50em) and (max-width: 75em) and (orientation: landscape) {
+  .btn-fixed {
+    top: 1.8em !important;
+  }
 }
 .floating-image {
   width: 30%;
@@ -1059,6 +1087,7 @@ special classes
   margin: auto;
 }
 #footer-mobile {
+  position: relative;
   width: 100%;
   background-color: #00293c;
   color: #f5f5f5;
@@ -1219,11 +1248,28 @@ special classes
   height: 400px;
 }
 #no-js-dash {
+  z-index: 10;
   display: none;
+  width: 100%;
+  overflow: hidden;
   padding: 2em 5em;
   background-color: #f5f5f5;
-  position: relative;
   top: 0;
+  position: fixed;
+  height: auto;
+  /*
+  animation-name: example;
+  animation-duration: 10s;
+  animation-iteration-count: 1;
+*/
+}
+@keyframes example {
+  from {
+    height: 0;
+  }
+  to {
+    height: auto;
+  }
 }
 #no-js-dash #no-js-text {
   color: #c31d34;
@@ -1232,18 +1278,6 @@ special classes
 }
 .no-js #no-js-dash {
   display: block;
-}
-.no-js .nav {
-  height: auto;
-}
-.no-js .nav-image {
-  height: 75px;
-}
-.no-js .menu-button {
-  display: none;
-}
-.no-js .nav-fixed {
-  position: relative !important;
 }
 .no-js #wrapper {
   margin-top: 0;
@@ -1257,9 +1291,6 @@ special classes
   background-color: #00293c;
   color: #f5f5f5;
 }
-.no-js #menu .menu-entries ul li {
-  flex: 1 80%;
-}
 .no-js .infobar {
   display: none;
 }
@@ -1268,7 +1299,7 @@ special classes
 }
 /* alignment from common.less */
 .no-js .sec-label {
-  top: 0px !important;
+  top: 0 !important;
   height: 100vh;
 }
 .no-js .sec-label .active {

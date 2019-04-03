@@ -31,6 +31,19 @@ Ids
 
 }
 
+#content-top {
+  position: relative;
+  width: 100%;
+
+}
+
+
+#top-spacer {
+  height: 100vh;
+  width: 100%;
+
+}
+
 /**
 Toggle Views
  */
@@ -41,14 +54,26 @@ Toggle Views
 
   height: 90vh;
   min-height: 700px;
-  @media @desktop {
-    display: inherit;
+  font-size: 100%;
 
+  @media @desktop, @tablet-landscape {
+    display: inherit;
+  }
+
+  @media @desktop-wide {
+    font-size: 80%;
+  }
+
+  @media @desktop-regular {
+    font-size: 80%;
   }
 
   @media @tablet-landscape {
-    display: inherit;
-    font-size: 80%;
+    font-size: 70%
+  }
+
+  @media @tablet-landscape-narrow {
+    font-size: 60%;
   }
 
   @media @phone,@tablet-portrait {
@@ -88,12 +113,6 @@ Classes
 
 }
 
-#content-top {
-    position: relative;
-    width: 100%;
-
-}
-
 
 
 .sec-content {
@@ -110,7 +129,6 @@ Classes
   width: 90%;
   margin: 0 5% 0 5%;
   font-size: 90%;
-
 
   @media @desktop {
     width:40%;
@@ -567,11 +585,19 @@ Alignment
     top: 60%;
     left: 30%;
 
+  @media @tablet-landscape {
+    left: 20%;
+  }
+
 }
 
 .teaser-large .content-top .text-overlay-inner{
   bottom: 20%;
   left: 30%;
+
+  @media @tablet-landscape {
+    left: 20%;
+  }
 }
 
 .text-overlay-inner {
@@ -596,26 +622,24 @@ Alignment
 
 .text-overlay .overlay-title {
 
-    text-decoration: none;
-    color: inherit;
-
-    border: 1px solid @imageoverlay-font-color;
+    text-decoration:  none;
+    border:           1px solid @imageoverlay-font-color;
 
 
-    padding: 10px;
+    padding:          10px;
 
-    display: block;
-    float: left;
-    clear: left;
+    display:          block;
+    float:            left;
+    clear:            left;
 
-    max-width: 90%;
+    max-width:        90%;
 
-    font-size: 300%;
-    color: @imageoverlay-font-color;
+    font-size:        300%;
+    color:            @imageoverlay-font-color;
 
 
-    background-position: 100% 0;
-    background-size: 200% 100%;
+    background-position:  100% 0;
+    background-size:      200% 100%;
 
 
 
@@ -642,19 +666,39 @@ Alignment
 }
 
 .text-overlay .overlay-content {
+
   display: none;
+  background: none;
+  border: 0;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 1em 2em 2em 2em;
+
+  // Using inset box-shadow instead of border for sizing simplicity
+  box-shadow: inset 0 0 0 2px transparent;
+  color: transparent;
+  font-size: 110%;
+
+
+  // Required, since we're setting absolute on pseudo-elements
+  position: relative;
+  vertical-align: middle;
+
+  &::before,
+  &::after {
+    box-sizing: inherit;
+    content: '';
+    position: absolute;
+    //width: 100%;
+    //height: 100%;
+  }
 
     @media @desktop,@tablet-landscape  {
-      max-width: 90%;
-
       display: block;
+      max-width: 90%;
       float: left;
       clear: left;
-
-
-      font-size: 150%;
-
-      color: @imageoverlay-font-color;
+      //color: @imageoverlay-font-color;
     }
 
 
@@ -686,37 +730,6 @@ Alignment
 
     .transition(250ms);
 
-}
-
-
-
-
-.teaser-large .overlay-content {
-  display: block;
-  background: none;
-  border: 0;
-  box-sizing: border-box;
-  margin: 0;
-  padding: 2em 2em 1em 2em;
-
-  // Using inset box-shadow instead of border for sizing simplicity
-  box-shadow: inset 0 0 0 2px transparent;
-  color: transparent;
-  font-size: 110%;
-
-
-  // Required, since we're setting absolute on pseudo-elements
-  position: relative;
-  vertical-align: middle;
-
-  &::before,
-  &::after {
-    box-sizing: inherit;
-    content: '';
-    position: absolute;
-    //width: 100%;
-    //height: 100%;
-  }
 }
 
 
@@ -780,11 +793,6 @@ Alignment
             width 0.25s ease-out 0.25s, // And then exanding width
             height 0.25s ease-out; // And finally height
   }
-}
-
-
-.content-top .overlay-content {
-  padding: 1em 2em 2em 2em;
 }
 
 .content-top .draw::after {

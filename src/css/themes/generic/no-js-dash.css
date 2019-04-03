@@ -1,9 +1,26 @@
 #no-js-dash {
+  z-index: 10;
   display: none;
+  width: 100%;
+  overflow: hidden;
   padding: 2em 5em;
   background-color: #f5f5f5;
-  position: relative;
   top: 0;
+  position: fixed;
+  height: auto;
+  /*
+  animation-name: example;
+  animation-duration: 10s;
+  animation-iteration-count: 1;
+*/
+}
+@keyframes example {
+  from {
+    height: 0;
+  }
+  to {
+    height: auto;
+  }
 }
 #no-js-dash #no-js-text {
   color: #c31d34;
@@ -12,18 +29,6 @@
 }
 .no-js #no-js-dash {
   display: block;
-}
-.no-js .nav {
-  height: auto;
-}
-.no-js .nav-image {
-  height: 75px;
-}
-.no-js .menu-button {
-  display: none;
-}
-.no-js .nav-fixed {
-  position: relative !important;
 }
 .no-js #wrapper {
   margin-top: 0;
@@ -37,9 +42,6 @@
   background-color: #00293c;
   color: #f5f5f5;
 }
-.no-js #menu .menu-entries ul li {
-  flex: 1 80%;
-}
 .no-js .infobar {
   display: none;
 }
@@ -48,7 +50,7 @@
 }
 /* alignment from common.less */
 .no-js .sec-label {
-  top: 0px !important;
+  top: 0 !important;
   height: 100vh;
 }
 .no-js .sec-label .active {

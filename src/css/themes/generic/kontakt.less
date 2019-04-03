@@ -165,10 +165,15 @@
               border:           1px solid #AAA;
 
               .person-part {
-                flex:           0 0 50%;
+                flex:           0 0 100%;
                 float:          left;
                 position:       relative;
+
+                @media @desktop, @tablet-landscape {
+                  flex:           0 0 50%;
+                }
               }
+
 
               .person-image {
 
@@ -182,9 +187,16 @@
 
               .person-details {
 
-                &>.wrapper {
+                display: flex;
+                flex-flow: column wrap;
 
-                  position:     absolute;
+                &>.spacer {
+                  flex: 1 0 auto;
+                }
+
+                &>.wrapper {
+                  flex: 0 0 auto;
+                  position:     relative;
                   bottom:       0;
 
                 }
@@ -238,6 +250,22 @@
 
       }
 
+
+    }
+  }
+
+}
+
+/* no js fallbacks */
+
+.no-js {
+  .contact-list-container {
+    .contact-list {
+      li.expanding.collapsed{
+        .contact-details {
+            max-height: unset !important;
+        }
+      }
 
     }
   }

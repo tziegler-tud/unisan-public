@@ -37,6 +37,7 @@
         var FloatingButtonState = {};
         var btnId = 'btn-jmptop';
         this.button = null;
+        var lockState = false;
 
 
         var setUp = function (s) {
@@ -51,6 +52,7 @@
         };
 
         FloatingButtonState.setState = function(newstate) {
+            if(lockState){return};
             if(this.button == null){
                 setUp(btnId);
             }
@@ -76,6 +78,9 @@
                 setUp(btnId);
             }
             button.classList.add('btn-fixed');
+            this.setState(true);
+            lockState = true;
+
         };
 
 
@@ -84,6 +89,7 @@
                 setUp(btnId);
             }
             button.classList.remove('btn-fixed');
+            lockState = false;
         };
 
         return FloatingButtonState;
@@ -120,7 +126,7 @@
         var items = [];
         var self = this;
 
-        this.parent = document.getElementById(id)
+        this.parent = document.getElementById(id);
         this.itemArray = $(this.parent).find('a');
         this.activeItem = 1;
 

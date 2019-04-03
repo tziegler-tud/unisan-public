@@ -11,6 +11,14 @@ Ids
   width: 100%;
   padding: 0 0 100px 0;
 }
+#content-top {
+  position: relative;
+  width: 100%;
+}
+#top-spacer {
+  height: 100vh;
+  width: 100%;
+}
 /**
 Toggle Views
  */
@@ -18,16 +26,31 @@ Toggle Views
   display: none;
   height: 90vh;
   min-height: 700px;
+  font-size: 100%;
 }
-@media only screen and (min-width: 75em) {
+@media only screen and (min-width: 75em), only screen and (min-width: 50em) and (max-width: 75em) and (orientation: landscape) {
   .teaser-large {
     display: inherit;
   }
 }
+@media only screen and (min-width: 85em) and (max-width: 95em) {
+  .teaser-large {
+    font-size: 80%;
+  }
+}
+@media only screen and (min-width: 75em) and (max-width: 85em) {
+  .teaser-large {
+    font-size: 80%;
+  }
+}
 @media only screen and (min-width: 50em) and (max-width: 75em) and (orientation: landscape) {
   .teaser-large {
-    display: inherit;
-    font-size: 80%;
+    font-size: 70%;
+  }
+}
+@media only screen and (min-width: 50em) and (max-width: 60em) {
+  .teaser-large {
+    font-size: 60%;
   }
 }
 @media only screen and (max-width: 50em), only screen and (min-width: 50em) and (max-width: 75em) and (orientation: portrait) {
@@ -54,10 +77,6 @@ Toggle Views
 Classes
  */
 .content-page {
-  width: 100%;
-}
-#content-top {
-  position: relative;
   width: 100%;
 }
 .sec-content {
@@ -376,9 +395,19 @@ Alignment
   top: 60%;
   left: 30%;
 }
+@media only screen and (min-width: 50em) and (max-width: 75em) and (orientation: landscape) {
+  .teaser-large .content-bottom .text-overlay-inner {
+    left: 20%;
+  }
+}
 .teaser-large .content-top .text-overlay-inner {
   bottom: 20%;
   left: 30%;
+}
+@media only screen and (min-width: 50em) and (max-width: 75em) and (orientation: landscape) {
+  .teaser-large .content-top .text-overlay-inner {
+    left: 20%;
+  }
 }
 .text-overlay-inner {
   position: absolute;
@@ -395,7 +424,6 @@ Alignment
 }
 .text-overlay .overlay-title {
   text-decoration: none;
-  color: inherit;
   border: 1px solid #ffffff;
   padding: 10px;
   display: block;
@@ -418,15 +446,29 @@ Alignment
 }
 .text-overlay .overlay-content {
   display: none;
+  background: none;
+  border: 0;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 1em 2em 2em 2em;
+  box-shadow: inset 0 0 0 2px transparent;
+  color: transparent;
+  font-size: 110%;
+  position: relative;
+  vertical-align: middle;
+}
+.text-overlay .overlay-content::before,
+.text-overlay .overlay-content::after {
+  box-sizing: inherit;
+  content: '';
+  position: absolute;
 }
 @media only screen and (min-width: 75em), only screen and (min-width: 50em) and (max-width: 75em) and (orientation: landscape) {
   .text-overlay .overlay-content {
-    max-width: 90%;
     display: block;
+    max-width: 90%;
     float: left;
     clear: left;
-    font-size: 150%;
-    color: #ffffff;
   }
 }
 .image-gallery img {
@@ -444,25 +486,6 @@ Alignment
   -moz-transition: 250ms ease;
   -o-transition: 250ms ease;
   transition: 250ms ease;
-}
-.teaser-large .overlay-content {
-  display: block;
-  background: none;
-  border: 0;
-  box-sizing: border-box;
-  margin: 0;
-  padding: 2em 2em 1em 2em;
-  box-shadow: inset 0 0 0 2px transparent;
-  color: transparent;
-  font-size: 110%;
-  position: relative;
-  vertical-align: middle;
-}
-.teaser-large .overlay-content::before,
-.teaser-large .overlay-content::after {
-  box-sizing: inherit;
-  content: '';
-  position: absolute;
 }
 .draw {
   transition: color 0.25s;
@@ -499,9 +522,6 @@ Alignment
   border-bottom-color: #fffcf5;
   border-left-color: #fffcf5;
   transition: border-color 0s ease-out, width 0.25s ease-out 0.25s, height 0.25s ease-out;
-}
-.content-top .overlay-content {
-  padding: 1em 2em 2em 2em;
 }
 .content-top .draw::after {
   display: block;

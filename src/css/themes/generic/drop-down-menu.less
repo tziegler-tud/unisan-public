@@ -311,31 +311,36 @@
         .transition(fill,300ms);
       }
     }
+
+    &.menu-active {
+
+
+      @media @phone {
+        width:      100% !important;
+      }
+
+      @media @desktop {
+        width:      25% !important;
+      }
+      @media @tablet-landscape {
+        width:      50% !important;
+      }
+
+      @media @desktop-short,@desktop-medium {
+        width:      50% !important;
+      }
+
+      @media @desktop-tall {
+        width:      25% !important;
+      }
+    }
+
+    &.menu-transition {
+      .transition(all, 300ms, cubic-bezier(.46,.03,.52,.96));
+    }
   }
 
-  .menu-active {
 
-    .transition(all, 300ms, cubic-bezier(.46,.03,.52,.96));
-
-    @media @phone {
-      width:      100% !important;
-    }
-
-    @media @desktop {
-      width:      25% !important;
-    }
-    @media @tablet-landscape {
-      width:      50% !important;
-    }
-
-    @media @desktop-short,@desktop-medium {
-      width:      50% !important;
-    }
-
-    @media @desktop-tall {
-      width:      25% !important;
-    }
-  }
 }
 
 /**
@@ -359,6 +364,36 @@ class for big nav bar
   /*border-bottom: 1px solid #ff9900;*/
 
   .transition(500ms);
+}
+
+
+
+/* no js fallbacks */
+
+.no-js .nav {
+  height: auto;
+}
+
+.no-js .nav-image {
+  height: @navbar-height;
+}
+
+.no-js .menu-button {
+  display: none;
+}
+
+.no-js .nav-fixed {
+  position: relative !important;
+
+}
+
+.no-js #menu .menu-entries-icons {
+  //  display: none;
+
+}
+
+.no-js #menu .menu-entries ul li {
+  flex: 1 80%;
 }
 
 

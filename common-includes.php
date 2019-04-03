@@ -12,7 +12,7 @@
     <script src="lib/waypoints/jquery.waypoints.min.js"></script>
 
     <script src="lib/lidl/default-navigation/nav.js"></script>
-    <script src="lib/lidl/default-navigation/navObject.js"></script>
+    <script src="lib/lidl/default-navigation/navComponent.js"></script>
     <script src="lib/lidl/default-navigation/navBar.js"></script>
     <script src="lib/lidl/default-navigation/menu.js"></script>
 

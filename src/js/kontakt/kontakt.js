@@ -29,7 +29,7 @@
 
 
         this.setExpandingHeight = function(){
-            var obj = this.ref.getElementsByClassName("contact-details")[0];
+            var obj = ref.getElementsByClassName("contact-details")[0];
             var tar = obj.getElementsByClassName("contact-details-container")[0];
             lidl.assertHTMLElement(obj);
             lidl.assertHTMLElement(tar);
@@ -68,11 +68,6 @@
 
         };
 
-        this.addResizeHandler = function(){
-            this.ref.addEventListener('load', this.setExpandingHeight());
-            this.ref.addEventListener('resize', this.setExpandingHeight());
-        };
-
         return this;
     };
 
@@ -92,8 +87,8 @@
         for (var i = 0; i < this.listItemArray.length; i++) {
             var item = listItemArray[i];
             item.addClickEvent(listItemArray);
-            item.setExpandingHeight(this.ref);
-            item.addResizeHandler();
+            item.setExpandingHeight();
+            contact.initResizeListener(item);
         }
         return true;
     };
@@ -153,6 +148,10 @@
            }
        }
        return true;
+   };
+
+   contact.initResizeListener = function(item){
+     window.addEventListener("resize", item.setExpandingHeight)
    };
 
     return contact;

@@ -13,8 +13,9 @@
          ***********************************
          ** specific js libs
          *********************************** -->
-
-       <script src="src/js/index/init.js"></script>
+         <script src="src/js/index/init.js"></script>
+          <script src="src/js/index/index.js"></script>
+     
 
 
        <!--
@@ -34,7 +35,6 @@
 
 <div id="wrapper" class="content-wrapper">
     <section id="content-top" class="">
-
         <div id="teaser-large" class="teaser-large split-vertically split-v2 image-gallery gallery-border">
             <div id="top-left" class="split-part heightOfParent">
                 <div class="gallery-inner border-bottom">
@@ -131,90 +131,96 @@
 
     </section>
 
-    <section id="sec1" class="color-generic">
-        <div id="seidabei">
 
-            <div id="content1" class="sec-content content-page split-vertically">
+    <div id="content-wrapper">
+        <div id="top-spacer"></div>
 
-                <div id="content1-left" class="split-part sec-content-part sec-content-text">
-                    <div id="content1-heading" class="content-heading">
-                        <h2>Aktiv beim Studentischen Sanitätsdienst in Dresden</h2>
+        <section id="sec1" class="color-light">
+            <div id="seidabei">
+
+                <div id="content1" class="sec-content content-page split-vertically">
+
+                    <div id="content1-left" class="split-part sec-content-part sec-content-text">
+                        <div id="content1-heading" class="content-heading">
+                            <h2>Aktiv beim Studentischen Sanitätsdienst in Dresden</h2>
+                        </div>
+                        <div id="content1-text" class="content-text">
+
+                            Du willst neben deinem Studium anderen Menschen helfen, interessierst dich für Notfallmedizin und möchtest neue Leute kennenlernen?
+                            <h3>Dein Platz bei uns:</h3>
+                            <ul class="bullet-list">
+                                <li>Medizinische Absicherung von Veranstaltungen</li>
+                                <li>Seminarleiter in unseren Kursen</li>
+                                <li>Organisator in einem unserer Projekte</li>
+                                <li>Interne Ausbildung unserer Mitglieder</li>
+                            </ul>
+
+                        </div>
+                        <a id="content1-link" class="content-link" href="team.php">Mehr erfahren</a>
+
                     </div>
-                    <div id="content1-text" class="content-text">
-
-                        Du willst neben deinem Studium anderen Menschen helfen, interessierst dich für Notfallmedizin und möchtest neue Leute kennenlernen?
-                        <h3>Dein Platz bei uns:</h3>
-                        <ul class="bullet-list">
-                            <li>Medizinische Absicherung von Veranstaltungen</li>
-                            <li>Seminarleiter in unseren Kursen</li>
-                            <li>Organisator in einem unserer Projekte</li>
-                            <li>Interne Ausbildung unserer Mitglieder</li>
-                        </ul>
+                    <div id="content1-right" class="split-part sec-content-part sec-content-img">
+                        <img src="images/index/content/1.jpg" alt="Versorgung eines Verletzten während einer Übung">
 
                     </div>
-                    <a id="content1-link" class="content-link" href="team.php">Mehr erfahren</a>
 
+                    <div class="clear"></div>
                 </div>
-                <div id="content1-right" class="split-part sec-content-part sec-content-img">
-                    <img src="images/index/content/1.jpg" alt="Versorgung eines Verletzten während einer Übung">
-
-                </div>
-
-                <div class="clear"></div>
             </div>
-        </div>
 
-    </section>
+        </section>
 
 
-    <section id="sec2" class="sec-middle">
-        <div id="kurse">
-           <div id="content2" class="sec-content content-page color-generic-v2 split-vertically">
-               <div id="content2-right" class="split-part sec-content-part sec-content-text force-right">
-                   <div id="content2-heading" class="content-heading">
-                       <h2>Seminare für Studenten und Mitarbeiter der TU Dresden</h2>
+        <section id="sec2" class="sec-middle">
+            <div id="kurse">
+               <div id="content2" class="sec-content content-page color-generic-v2 split-vertically">
+                   <div id="content2-right" class="split-part sec-content-part sec-content-text force-right">
+                       <div id="content2-heading" class="content-heading">
+                           <h2>Seminare für Studenten und Mitarbeiter der TU Dresden</h2>
+                       </div>
+                       <div id="content2-text" class="content-text">
+                           Hochschulgruppen, Fachschaften, Mitarbeiter an Lehrstühlen... Egal woraus eure Gruppe besteht, wir haben genau den richtigen Kurs für euch parat.
+                           <h3>Zauberwort "Flexibilität"</h3>
+                           Sammelt Ideen aus unserem Kursangebot und wendet euch dann mit euren Vorstellungen an uns. Wir verzichten dabei bewusst auf "eingefahrene Gleise" - jedes Seminar wird direkt auf die Zielgruppe zugeschnitten.
+                       </div>
+                       <a id="content2-link" class="content-link" href="kurse.php">Zum Kursangebot</a>
                    </div>
-                   <div id="content2-text" class="content-text">
-                       Hochschulgruppen, Fachschaften, Mitarbeiter an Lehrstühlen... Egal woraus eure Gruppe besteht, wir haben genau den richtigen Kurs für euch parat.
-                       <h3>Zauberwort "Flexibilität"</h3>
-                       Sammelt Ideen aus unserem Kursangebot und wendet euch dann mit euren Vorstellungen an uns. Wir verzichten dabei bewusst auf "eingefahrene Gleise" - jedes Seminar wird direkt auf die Zielgruppe zugeschnitten.
+                   <div id="content2-left" class="split-part sec-content-part sec-content-img">
+                       <img src="images/index/content/2.jpg" alt="Seminarraum mit vielen Teilnehmern und Dozenten">
                    </div>
-                   <a id="content2-link" class="content-link" href="kurse.php">Zum Kursangebot</a>
+                   <div class="clear"></div>
                </div>
-               <div id="content2-left" class="split-part sec-content-part sec-content-img">
-                   <img src="images/index/content/2.jpg" alt="Seminarraum mit vielen Teilnehmern und Dozenten">
-               </div>
-               <div class="clear"></div>
-           </div>
-        </div>
-
-
-   </section>
-    <section id="sec3" class="sec-middle">
-        <div id="sanitaetsdienst">
-            <div id="content2" class="sec-content content-page color-generic split-vertically">
-
-
-                <div id="content2-left" class="split-part sec-content-part sec-content-text">
-                    <div id="content2-heading" class="content-heading">
-                        <h2>Sanitätsdienstliche Absicherung von Veranstaltungen</h2>
-                    </div>
-                    <div id="content2-text" class="content-text">
-                        Sie planen eine Veranstaltung an der TU Dresden? Wir beraten Sie im Vorfeld zu Veranstaltungsort und notwendigen Vorkehrungen. Am Tag der Veranstaltung sorgen unsere Sanitäter und Sanitäterinnen für die Sicherheit der Teilnehmer.
-                    </div>
-                    <a id="content2-link" class="content-link" href="sanitaetsdienst.php">Mehr erfahren</a>
-                </div>
-                <div id="content2-right" class="split-part sec-content-part sec-content-img">
-                    <img src="images/index/content/3.jpg" alt="Sanitäter läuft auf einer Veranstaltung">
-                </div>
-
-                <div class="clear"></div>
             </div>
-        </div>
-    </section>
+
+
+       </section>
+        <section id="sec3" class="sec-middle">
+            <div id="sanitaetsdienst">
+                <div id="content2" class="sec-content content-page color-generic split-vertically">
+
+
+                    <div id="content2-left" class="split-part sec-content-part sec-content-text">
+                        <div id="content2-heading" class="content-heading">
+                            <h2>Sanitätsdienstliche Absicherung von Veranstaltungen</h2>
+                        </div>
+                        <div id="content2-text" class="content-text">
+                            Sie planen eine Veranstaltung an der TU Dresden? Wir beraten Sie im Vorfeld zu Veranstaltungsort und notwendigen Vorkehrungen. Am Tag der Veranstaltung sorgen unsere Sanitäter und Sanitäterinnen für die Sicherheit der Teilnehmer.
+                        </div>
+                        <a id="content2-link" class="content-link" href="sanitaetsdienst.php">Mehr erfahren</a>
+                    </div>
+                    <div id="content2-right" class="split-part sec-content-part sec-content-img">
+                        <img src="images/index/content/3.jpg" alt="Sanitäter läuft auf einer Veranstaltung">
+                    </div>
+
+                    <div class="clear"></div>
+                </div>
+            </div>
+        </section>
+    </div>
+    <?php include_once("footer.html"); ?>
 </div>
 
-<?php include_once("footer.html"); ?>
+
 <?php include_once("floating_btn.html"); ?>
 
 

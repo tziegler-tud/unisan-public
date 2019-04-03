@@ -1,11 +1,9 @@
 var lidlRTO;
 
-$(document).ready (function () {
+document.addEventListener("DOMContentLoaded", function(event) {
 
     console.log("js active, removing noscript fallback");
     $("body").removeClass("no-js");
-
-
 
     lidlRTO = new lidl.Main();
 
@@ -38,7 +36,7 @@ $(document).ready (function () {
 $(window).on('load',function() {
     console.log("finished loading, hiding preloader");
     var plr = common.preloader();
-    plr.hide();
+    setTimeout(plr.hide,0);
 
 
 
@@ -58,6 +56,7 @@ window.addEventListener('scroll', function() {
     waiting = true;
 
     common.scrollEvent();
+
 
 
     setTimeout(function () {

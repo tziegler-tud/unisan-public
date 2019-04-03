@@ -27,21 +27,6 @@
   font-size: 100%;
   text-align: center;
 }
-.no-js #no-js-dash {
-  display: block;
-}
-.no-js #wrapper {
-  margin-top: 0;
-}
-.no-js #menu {
-  position: relative  !important;
-  width: 100%;
-  top: 3px;
-  left: 0;
-  margin: 3px 0;
-  background-color: #00293c;
-  color: #f5f5f5;
-}
 .no-js .infobar {
   display: none;
 }

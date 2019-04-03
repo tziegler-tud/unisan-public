@@ -523,13 +523,13 @@ button {
 .floating-image-test img {
   width: 100%;
 }
-#btn-jmptop {
+.btn-jmptop {
   bottom: -7em;
   right: 1em;
   z-index: 5;
 }
 @media only screen and (min-width: 75em) {
-  #btn-jmptop {
+  .btn-jmptop {
     right: 3em;
     bottom: -5em;
   }

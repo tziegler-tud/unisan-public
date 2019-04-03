@@ -106,7 +106,6 @@ Classes
  */
 .content-page {
   width: 100%;
-  height: calc(80vh - 75px);
 }
 .sec-content {
   width: 100%;
@@ -631,4 +630,10 @@ no js fallbacks
 .no-js #content-top {
   z-index: 0;
   transform: initial !important;
+}
+/**
+deactivate default jmpToTop-Btn, instead show specific btn for index page...
+ */
+#footer-mobile .btn-jmptop {
+  display: none;
 }

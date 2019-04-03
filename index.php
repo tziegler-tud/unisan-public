@@ -7,6 +7,8 @@
     <title>Studentischer Sanitätsdienst der TU Dresden</title>
     <link rel="shortcut icon" type="image/x-icon" href="icons/favicon.ico">
 
+    <script src="src/js/index/config.js"></script>
+
     <?php include_once("common-includes.php"); ?>
 
        <!--
@@ -40,10 +42,6 @@
 
 </div>
 
-
-
-
-<div id="background"></div>
-
+<?php include_once("floating_btn.html"); ?>
 </body>
 </html>

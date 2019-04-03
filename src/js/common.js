@@ -35,7 +35,7 @@
         var state = false;
         var error = false;
         var FloatingButtonState = {};
-        var btnId = 'btn-jmptop';
+        var btnId = (typeof window.jmpTopBtnId === 'undefined') ? "btn-jmptop" : window.jmpTopBtnId;
         this.button = null;
         var lockState = false;
 
@@ -171,16 +171,18 @@
         }
     };
 
-    common.floatingButtonInit = function(){
-        var s = "footer-mobile";
-        var el = document.getElementById(s);
+    common.floatingButtonInit = function(ref,context, enabled){
+        var el = ref;
+
         try {
             lidl.assertHTMLElement(el,debug);
         }
         catch(err){
-            console.warn("Creation of object " + s + " failed with error message: " + err);
+            console.warn("Creation of object " + el + " failed with error message: " + err);
             return false;
         }
+
+        if (!enabled){return;}
 
         var waypoint = new Waypoint({
             element: el,
@@ -194,6 +196,7 @@
                 }
 
             },
+            context: context,
             offset: '100%'
         })
 
@@ -209,9 +212,15 @@
      */
 
 
-    common.scrollEvent = function (optional){
+    common.scrollEvent = function (ref){
 
-        var scrollTop = window.pageYOffset || (document.documentElement || document.body.parentNode || document.body).scrollTop;
+        var scrollTop = ref.scrollTop;
+
+        if(ref===window){
+            scrollTop = window.pageYOffset || (document.documentElement || document.body.parentNode || document.body).scrollTop;
+        }
+
+
         if(FloatingButtonStateModule.getState()){
             if(scrollTop < 1*window.innerHeight){
                 lidl.debug('console.log("DEBUG// " + "hiding jmpToTop-Btn")',lidl.debugCategory.SCROLL);
@@ -220,7 +229,7 @@
 
         }
         else {
-            if(scrollTop > 1*window.innerHeight){
+            if(scrollTop> 1*window.innerHeight){
                 lidl.debug('console.log("DEBUG// " + "showing jmpToTop-Btn")',lidl.debugCategory.SCROLL);
                 FloatingButtonStateModule.setState(true);
             }
@@ -332,13 +341,14 @@
         );
     };
 
-    common.smoothScrolling = function(){
+    common.smoothScrolling = function(ref){
+        if(ref===window){ref='html,body';}
         document.querySelectorAll('a[href^="#"]').forEach(
             function(item) {
                 item.addEventListener('click', function (e) {
                 e.preventDefault();
                 var href = document.querySelector(this.getAttribute('href'));
-                $('html, body').animate({
+                $(ref).animate({
                     scrollTop:$(href).offset().top - document.getElementById('nav').clientHeight
                 },'slow');
 

@@ -17,17 +17,36 @@ document.addEventListener("DOMContentLoaded", function(event) {
     lidlRTO.objectManager.addObject(nav,token);
 
 
-    common.smoothScrolling();
-    common.floatingButtonInit();
+    var floatingButtonRef = (typeof window.floatingButtonRefId === 'undefined') ? document.getElementById("footer-mobile") : document.getElementById(window.floatingButtonRefId);
+    var floatingButtonContext = (typeof window.floatingButtonContextId === 'undefined') ? window : document.getElementById(window.floatingButtonContextId);
+    var fixEnabled = (typeof window.fixEnabled === 'undefined') ? true : window.fixEnabled;
+    var scrollContainerRef = (typeof window.scrollContainerRefId === 'undefined') ? window : document.getElementById(window.scrollContainerRefId);
+
+    common.smoothScrolling(scrollContainerRef);
+    common.floatingButtonInit(floatingButtonRef, floatingButtonContext, fixEnabled);
+
+    var waiting = false;
 
 
 
+    scrollContainerRef.addEventListener('scroll', function(e) {
+
+        if (waiting) {
+            return;
+        }
+        waiting = true;
 
 
 
+        common.scrollEvent(scrollContainerRef);
 
 
 
+        setTimeout(function () {
+            waiting = false;
+        }, 100);
+
+    });
 
 
     }
@@ -46,24 +65,7 @@ $(window).on('resize',function(){
 
 });
 
-var waiting = false;
 
-window.addEventListener('scroll', function() {
-
-    if (waiting) {
-        return;
-    }
-    waiting = true;
-
-    common.scrollEvent();
-
-
-
-    setTimeout(function () {
-        waiting = false;
-    }, 100);
-
-});
 
 
 

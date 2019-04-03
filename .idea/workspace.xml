@@ -2,66 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aaaf2f20-d3dc-4eb7-8f99-4d9649c26d78" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/common-includes.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datenschutz.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datenschutz.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/impressum.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/impressum.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/lidl/default-navigation/default-navigation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/lidl/default-navigation/menu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/lidl/default-navigation/nav.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/lidl/default-navigation/navBar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/lidl/default-navigation/navObject.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/lssc_loader_kontakt.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/themes/generic/impressum.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index-bak.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact-form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/core_lidl-0.1a.js.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/core_lidl-0.1a.js.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lib_lidl_core_lidl-0.1a.js.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lib_lidl_core_lidl-0.1a.js.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lidl.Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lidl.Main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lidl.ObjectManager.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lidl.ObjectManager.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lidl.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/lidl.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team/2 (copy).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team/3 (copy).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team/IMG_9557.JPG" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/kontakt.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kontakt.php" beforeDir="false" afterPath="$PROJECT_DIR$/kontakt.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kurse.html" beforeDir="false" afterPath="$PROJECT_DIR$/kurse.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kurse.php" beforeDir="false" afterPath="$PROJECT_DIR$/kurse.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/lidl/core/lidl-0.1a.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/lidl/core/lidl-0.1b.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/lidl/imagebox/lidl-imagebox.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/lidl/imagebox/lidl-imagebox.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mitmachen.html" beforeDir="false" afterPath="$PROJECT_DIR$/mitmachen.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mitmachen.php" beforeDir="false" afterPath="$PROJECT_DIR$/mitmachen.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/nav.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sanitaetsdienst.html" beforeDir="false" afterPath="$PROJECT_DIR$/sanitaetsdienst.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sanitaetsdienst.php" beforeDir="false" afterPath="$PROJECT_DIR$/sanitaetsdienst.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_contact.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_contact.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_impressum.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/color-rules.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/color-rules.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/common.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/common.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/contact-new.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/contact.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_kontakt.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/contact.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/kontakt.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/drop-down-menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/drop-down-menu.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/drop-down-menu.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/drop-down-menu.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/footer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/footer.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/footer.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/themes/generic/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/index.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/common.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/contact/ExpandingListItem.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/contact/contact-form.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/kontakt/contact-form.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/contact/contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/kontakt/kontakt.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/contact/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/kontakt/init.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/index/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/index/init.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/init.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/menu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team.php" beforeDir="false" afterPath="$PROJECT_DIR$/team.php" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -78,87 +26,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/kontakt.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="730">
-              <caret line="147" column="67" lean-forward="true" selection-start-line="147" selection-start-column="67" selection-end-line="147" selection-end-column="67" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/lidl/default-navigation/nav.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="635">
-              <caret line="152" column="35" selection-start-line="152" selection-start-column="28" selection-end-line="152" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/lidl/default-navigation/menu.js">
+        <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="684">
-              <caret line="38" column="58" lean-forward="true" selection-start-line="38" selection-start-column="58" selection-end-line="38" selection-end-column="58" />
+              <caret line="38" column="37" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/lidl/core/lidl-0.1b.js">
+        <entry file="file://$PROJECT_DIR$/src/css/themes/generic/index.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3532">
-              <caret line="170" column="77" selection-start-line="170" selection-start-column="8" selection-end-line="170" selection-end-column="77" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/css/themes/generic/kontakt.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="203" column="40" selection-start-line="203" selection-start-column="40" selection-end-line="203" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/css/themes/generic/common.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="712">
-              <caret line="999" column="1" selection-start-line="999" selection-start-column="1" selection-end-line="999" selection-end-column="1" />
+            <state relative-caret-position="4230">
+              <caret line="235" column="3" lean-forward="true" selection-start-line="235" selection-start-column="3" selection-end-line="235" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/js/common.js">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="316" column="39" lean-forward="true" selection-start-line="316" selection-start-column="39" selection-end-line="316" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/css/themes/generic/contact-bak.less">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/js/kontakt/init.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="32" selection-start-column="32" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/js/kontakt/kontakt.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="95" column="36" lean-forward="true" selection-start-line="95" selection-start-column="36" selection-end-line="95" selection-end-column="36" />
+            <state relative-caret-position="18">
+              <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -251,8 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/css/themes/generic/sanitaetsdienst.less" />
-        <option value="$PROJECT_DIR$/src/css/themes/generic/contact.css" />
         <option value="$PROJECT_DIR$/src/css/lssc_loader_contact.less" />
         <option value="$PROJECT_DIR$/src/js/contact.js" />
         <option value="$PROJECT_DIR$/src/js/contact/ExpandingListItem.js" />
@@ -267,7 +154,6 @@
         <option value="$PROJECT_DIR$/kurse.html" />
         <option value="$PROJECT_DIR$/sanitaetsdienst.html" />
         <option value="$PROJECT_DIR$/src/css/themes/generic/footer.less" />
-        <option value="$PROJECT_DIR$/footer.html" />
         <option value="$PROJECT_DIR$/src/css/themes/generic/impressum.less" />
         <option value="$PROJECT_DIR$/datenschutz.html" />
         <option value="$PROJECT_DIR$/src/css/themes/generic/color-rules.less" />
@@ -282,9 +168,7 @@
         <option value="$PROJECT_DIR$/lib/lidl/default-navigation/navObject.js" />
         <option value="$PROJECT_DIR$/lib/lidl/default-navigation/menu.js" />
         <option value="$PROJECT_DIR$/nav.html" />
-        <option value="$PROJECT_DIR$/src/css/themes/generic/index.less" />
         <option value="$PROJECT_DIR$/lib/lidl/default-navigation/navBar.js" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/team.html" />
         <option value="$PROJECT_DIR$/sanitaetsdienst.php" />
         <option value="$PROJECT_DIR$/src/css/themes/generic/drop-down-menu.less" />
@@ -302,6 +186,11 @@
         <option value="$PROJECT_DIR$/kontakt.html" />
         <option value="$PROJECT_DIR$/lib/lidl/default-navigation/nav.js" />
         <option value="$PROJECT_DIR$/src/js/common.js" />
+        <option value="$PROJECT_DIR$/footer.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/../unisan/src/css/themes/generic/index.less" />
+        <option value="$PROJECT_DIR$/src/css/themes/generic/index.less" />
       </list>
     </option>
   </component>
@@ -329,87 +218,44 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="unisan" type="462c0819:PsiDirectoryNode" />
+              <item name="unisan-private" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="unisan" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="unisan" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="unisan" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="lidl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="unisan" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="lidl" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="unisan" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="lidl" type="462c0819:PsiDirectoryNode" />
-              <item name="default-navigation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="unisan" type="462c0819:PsiDirectoryNode" />
+              <item name="unisan-private" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="unisan" type="462c0819:PsiDirectoryNode" />
+              <item name="unisan-private" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="unisan" type="462c0819:PsiDirectoryNode" />
+              <item name="unisan-private" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="unisan" type="462c0819:PsiDirectoryNode" />
+              <item name="unisan-private" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
               <item name="generic" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="unisan" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="unisan" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="kontakt" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -417,25 +263,25 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="6.14.4" />
-    <property name="last_opened_file_path" value="/usr/local/lib/node_modules/less/bin/lessc" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="Less" />
     <property name="nodejs_interpreter_path" value="node" />
-    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/js/contact" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/mitmachen" />
-      <recent name="$PROJECT_DIR$/images/index" />
-      <recent name="$PROJECT_DIR$/src/css/themes/common" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/css" />
       <recent name="$PROJECT_DIR$/src/css/themes/generic" />
       <recent name="$PROJECT_DIR$/src/js/contact" />
       <recent name="$PROJECT_DIR$/lib/waypoints" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/js/contact" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/mitmachen" />
+      <recent name="$PROJECT_DIR$/images/index" />
+      <recent name="$PROJECT_DIR$/src/css/themes/common" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -621,11 +467,12 @@
       <workItem from="1549660213196" duration="2178000" />
       <workItem from="1549821813919" duration="7078000" />
       <workItem from="1550004154382" duration="8127000" />
+      <workItem from="1554317987788" duration="3256000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="786724000" />
+    <option name="totallyTimeSpent" value="789980000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -640,6 +487,7 @@
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="npm" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49376947" visible="true" weight="0.1557377" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.50623053" side_tool="true" weight="0.1577511" />
@@ -651,7 +499,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3291536" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.518559" side_tool="true" weight="0.32829374" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49290392" weight="0.32879582" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49290392" weight="0.32829374" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Thumbnails" order="10" weight="0.3291536" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
@@ -686,26 +534,6 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/js/kontakt/contact-form.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" lean-forward="true" selection-start-column="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/animations.less">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/themes/lssc_loader_impressum.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/variables.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/css/themes/generic/footer.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="863">
@@ -720,13 +548,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
           <caret line="54" column="24" lean-forward="true" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mitmachen.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="89" selection-start-line="23" selection-start-column="89" selection-end-line="23" selection-end-column="89" />
         </state>
       </provider>
     </entry>
@@ -765,13 +586,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="694">
-          <caret line="47" column="48" lean-forward="true" selection-start-line="47" selection-start-column="48" selection-end-line="47" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/js/index/init.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -802,13 +616,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1026">
           <caret line="57" column="43" selection-start-line="57" selection-start-column="43" selection-end-line="57" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/index.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
@@ -888,13 +695,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2466">
-          <caret line="137" column="30" selection-start-line="137" selection-start-column="30" selection-end-line="137" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kontakt.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -909,8 +709,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/contact.css">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/contact.css" />
+    <entry file="file://$PROJECT_DIR$/src/css/fonts.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kontakt.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2646">
+          <caret line="147" column="34" selection-start-line="147" selection-start-column="34" selection-end-line="147" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/lidl/default-navigation/nav.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2736">
+          <caret line="152" column="35" selection-start-line="152" selection-start-column="28" selection-end-line="152" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/lidl/default-navigation/menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="38" column="54" selection-start-line="38" selection-start-column="54" selection-end-line="38" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/lidl/core/lidl-0.1b.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3060">
+          <caret line="170" column="77" selection-start-line="170" selection-start-column="8" selection-end-line="170" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/kontakt.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3654">
+          <caret line="203" selection-start-line="203" selection-end-line="203" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/common.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17982">
+          <caret line="999" column="1" selection-start-line="999" selection-start-column="1" selection-end-line="999" selection-end-column="1" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/css/themes/generic/contact-bak.less">
       <provider selected="true" editor-type-id="text-editor" />
@@ -922,68 +769,86 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/common.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="712">
-          <caret line="999" column="1" selection-start-line="999" selection-start-column="1" selection-end-line="999" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/fonts.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="23" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/kontakt.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="203" column="40" selection-start-line="203" selection-start-column="40" selection-end-line="203" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kontakt.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="730">
-          <caret line="147" column="67" lean-forward="true" selection-start-line="147" selection-start-column="67" selection-end-line="147" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/lidl/core/lidl-0.1b.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3532">
-          <caret line="170" column="77" selection-start-line="170" selection-start-column="8" selection-end-line="170" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/js/kontakt/kontakt.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="95" column="36" lean-forward="true" selection-start-line="95" selection-start-column="36" selection-end-line="95" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/lidl/default-navigation/menu.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="38" column="58" lean-forward="true" selection-start-line="38" selection-start-column="58" selection-end-line="38" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/lidl/default-navigation/nav.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="635">
-          <caret line="152" column="35" selection-start-line="152" selection-start-column="28" selection-end-line="152" selection-end-column="35" />
+        <state relative-caret-position="1710">
+          <caret line="95" column="36" selection-start-line="95" selection-start-column="36" selection-end-line="95" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/js/common.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="377">
-          <caret line="316" column="39" lean-forward="true" selection-start-line="316" selection-start-column="39" selection-end-line="316" selection-end-column="39" />
+          <caret line="318" column="6" selection-start-line="318" selection-start-column="6" selection-end-line="318" selection-end-column="6" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mitmachen.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="89" selection-start-line="23" selection-start-column="89" selection-end-line="23" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-bak.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="63" column="10" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mitmachen.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../unisan/src/css/themes/generic/index.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="38" column="37" selection-start-line="38" selection-start-column="37" selection-end-line="38" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/index.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4230">
+          <caret line="235" column="3" lean-forward="true" selection-start-line="235" selection-start-column="3" selection-end-line="235" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

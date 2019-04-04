@@ -156,9 +156,11 @@ button {
 }
 
 
-#btn-jmptop {
+.btn-jmptop {
     bottom:        -7em;
     right:          1em;
+
+    z-index: 5;
 
     @media @desktop {
         right:      3em;
@@ -691,6 +693,12 @@ a.inline-link {
         position:       sticky !important;
         top:            75px !important;
 
+        .no-js & {
+            top: 0 !important;
+        }
+
+
+
         @media @phone, @tablet-portrait {
             display:    none;
         }
@@ -1009,5 +1017,18 @@ special classes
     -ms-user-select: all;      /* No support yet */
     user-select: all;          /* Likely future */
 }
+
+
+.no-js {
+    #wrapper {
+        margin-top: 0;
+
+    }
+
+    .content-section .sec-labeled-left .sec-label {
+        height: 100vh;
+    }
+}
+
 
 

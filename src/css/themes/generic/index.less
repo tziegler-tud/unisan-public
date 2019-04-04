@@ -7,7 +7,6 @@
 
 body {
 
-
 }
 
 /**
@@ -16,10 +15,21 @@ Ids
 
 
 #wrapper {
-  font-size: 130%;
-    width: 100%;
-    margin: @navbar-height 0 0 0;
-    color: #333;
+
+  @media @desktop, @tablet-landscape {
+    perspective: 1px;
+    transform-style: preserve-3d;
+    height: calc(100vh - 75px);
+    overflow-x: hidden;
+    overflow-y: scroll;
+    background-color: @nav-bg-color;
+  }
+
+  font-size: 100%;
+  width: 100%;
+  margin: 75px 0 0 0;
+  color: #333;
+
 
 
 }
@@ -32,15 +42,41 @@ Ids
 }
 
 #content-top {
-  position: relative;
-  width: 100%;
+
+  font-size: 130%;
+
+
+  @media @desktop, @tablet-landscape {
+    background-color: @nav-bg-color;
+    top: 0;
+    display: flex;
+    flex: 1 0 auto;
+    position: relative;
+    height: 100%;
+
+    transform: translateZ(-1px) scale(2);
+    z-index: -2;
+  }
 
 }
 
+#content-wrapper {
+  font-size: 130%;
+  display: block;
+  position: relative;
+  //background-color: white;
+  z-index: 1;
+}
+
+
+
 
 #top-spacer {
-  height: 100vh;
+  display: none;
+  height: 50vh;
   width: 100%;
+  //00293c
+  background-image: linear-gradient(rgba(0,41,60,0), rgba(0,41,60,1));
 
 }
 
@@ -52,7 +88,7 @@ Toggle Views
 
   display: none;
 
-  height: 90vh;
+ // height: 100vh;
   min-height: 700px;
   font-size: 100%;
 
@@ -108,12 +144,9 @@ Classes
 .content-page {
 
   width: 100%;
-
-
+  //height: calc(80vh - @navbar-height);
 
 }
-
-
 
 .sec-content {
   width: 100%;
@@ -135,10 +168,6 @@ Classes
     font-size: 90%;
 
   }
-
-
-
-
 }
 
 .sec-content-left {
@@ -161,7 +190,6 @@ Classes
 .sec-content-img img {
   width: 100%;
   // border-radius: 50%;
-
 
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 
@@ -543,11 +571,11 @@ Alignment
 }
 
 .gallery-border .border-left {
-    border-left: 20px solid @content-bg-color;
+    border-left: 10px solid @content-bg-color;
 }
 
 .gallery-border .border-bottom {
-    border-bottom: 20px solid @content-bg-color;
+    border-bottom: 10px solid @content-bg-color;
 }
 
 .border-left-bottom {
@@ -827,7 +855,7 @@ Alignment
 }
 
 .color-dark {
-    background-color: #464646;
+    background-color: @col3;
 
     color: #fffcf5;
 }
@@ -887,5 +915,39 @@ Alignment
 #sec1_border_img {
   width: 50vw;
   right: -20vw;
+}
+
+
+/**
+no js fallbacks
+ */
+
+
+.no-js {
+  #wrapper {
+    margin-top: 0;
+    perspective: initial !important;
+    transform-style: initial !important;
+    height: auto !important;
+  }
+
+  #content-top {
+    z-index: 0;
+    transform: initial !important;
+  }
+}
+
+
+
+/**
+deactivate default jmpToTop-Btn, instead show specific btn for index page...
+ */
+
+#footer-mobile .btn-jmptop {
+  display: none;
+}
+
+.btn-jmptop {
+
 }
 

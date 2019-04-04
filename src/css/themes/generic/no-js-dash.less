@@ -1,6 +1,29 @@
 @import 'color-rules.less';
 @import 'variables.less';
 
+@keyframes show-dash {
+  from {
+    bottom: -400px;
+  }
+
+  20% {
+    bottom: 0;
+  }
+
+  80% {
+    bottom: 0;
+  }
+
+  to {
+    bottom: -400px;
+  }
+}
+
+
+.no-js {
+
+}
+
 #no-js-dash {
   z-index: 10;
   display: none;
@@ -8,21 +31,17 @@
   overflow: hidden;
   padding: 2em 5em;
   background-color: @content-bg-color;
-  top: 0;
+  bottom: -400px;
 
   position: fixed;
   height: auto;
-/*
-  animation-name: example;
-  animation-duration: 10s;
+
+
+  animation-name: show-dash;
+  animation-duration: 20s;
   animation-iteration-count: 1;
-*/
+  animation-delay: 1s;
 
-}
-
-@keyframes example {
-  from {height: 0;}
-  to {height: auto;}
 }
 
 #no-js-dash #no-js-text {
@@ -35,31 +54,12 @@
 
 .no-js #no-js-dash {
   display: block;
-}
-
-
-
-
-.no-js #wrapper {
-  margin-top: 0;
-}
-
-.no-js #menu {
-  position: relative  !important;
-  width: 100%;
-
-  top:3px;
-  left:0;
-
-  margin: 3px 0;
-
-
-  background-color: @nav-bg-color;
-  color: @nav-font-color;
 
 
 
 }
+
+
 
 
 .no-js .infobar {

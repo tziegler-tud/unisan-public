@@ -4,7 +4,6 @@
     *********************************** -->
 
     <script src="lib/jquery/jquery-3.3.1.js"></script>
-    <script src="lib/jquery-ui-1.12.1/jquery-ui.js"></script>
     <script src="lib/hammer/hammer.min.js"></script>
     <script src="lib/lidl/core/lidl-0.1b.js"></script>
     <script src="lib/lidl/imagebox/lidl-imagebox.js"></script>

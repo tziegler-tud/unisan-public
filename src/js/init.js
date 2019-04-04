@@ -1,11 +1,9 @@
 var lidlRTO;
 
-$(document).ready (function () {
+document.addEventListener("DOMContentLoaded", function(event) {
 
     console.log("js active, removing noscript fallback");
     $("body").removeClass("no-js");
-
-
 
     lidlRTO = new lidl.Main();
 
@@ -19,17 +17,37 @@ $(document).ready (function () {
     lidlRTO.objectManager.addObject(nav,token);
 
 
-    common.smoothScrolling();
-    common.floatingButtonInit();
+    var floatingButtonRef = (typeof window.floatingButtonRefId === 'undefined') ? document.getElementById("footer-mobile") : document.getElementById(window.floatingButtonRefId);
+    var floatingButtonContext = (typeof window.floatingButtonContextId === 'undefined') ? window : document.getElementById(window.floatingButtonContextId);
+    var fixEnabled = (typeof window.fixEnabled === 'undefined') ? true : window.fixEnabled;
+    var scrollContainerRef = (typeof window.scrollContainerRefId === 'undefined') ? window : document.getElementById(window.scrollContainerRefId);
+
+    common.smoothScrolling(scrollContainerRef);
+    common.floatingButtonInit(floatingButtonRef, floatingButtonContext, fixEnabled);
+    common.generateLinks();
+
+    var waiting = false;
 
 
 
+    scrollContainerRef.addEventListener('scroll', function(e) {
+
+        if (waiting) {
+            return;
+        }
+        waiting = true;
 
 
 
+        common.scrollEvent(scrollContainerRef);
 
 
 
+        setTimeout(function () {
+            waiting = false;
+        }, 100);
+
+    });
 
 
     }
@@ -38,7 +56,7 @@ $(document).ready (function () {
 $(window).on('load',function() {
     console.log("finished loading, hiding preloader");
     var plr = common.preloader();
-    plr.hide();
+    setTimeout(plr.hide,0);
 
 
 
@@ -48,23 +66,7 @@ $(window).on('resize',function(){
 
 });
 
-var waiting = false;
 
-window.addEventListener('scroll', function() {
-
-    if (waiting) {
-        return;
-    }
-    waiting = true;
-
-    common.scrollEvent();
-
-
-    setTimeout(function () {
-        waiting = false;
-    }, 100);
-
-});
 
 
 

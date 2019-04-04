@@ -2,29 +2,57 @@
 Ids
  */
 #wrapper {
-  font-size: 130%;
+  font-size: 100%;
   width: 100%;
   margin: 75px 0 0 0;
   color: #333;
+}
+@media only screen and (min-width: 75em), only screen and (min-width: 50em) and (max-width: 75em) and (orientation: landscape) {
+  #wrapper {
+    perspective: 1px;
+    transform-style: preserve-3d;
+    height: calc(100vh - 75px);
+    overflow-x: hidden;
+    overflow-y: scroll;
+    background-color: #00293c;
+  }
 }
 #slider-wrapper {
   width: 100%;
   padding: 0 0 100px 0;
 }
 #content-top {
+  font-size: 130%;
+}
+@media only screen and (min-width: 75em), only screen and (min-width: 50em) and (max-width: 75em) and (orientation: landscape) {
+  #content-top {
+    background-color: #00293c;
+    top: 0;
+    display: flex;
+    flex: 1 0 auto;
+    position: relative;
+    height: 100%;
+    transform: translateZ(-1px) scale(2);
+    z-index: -2;
+  }
+}
+#content-wrapper {
+  font-size: 130%;
+  display: block;
   position: relative;
-  width: 100%;
+  z-index: 1;
 }
 #top-spacer {
-  height: 100vh;
+  display: none;
+  height: 50vh;
   width: 100%;
+  background-image: linear-gradient(rgba(0, 41, 60, 0), #00293c);
 }
 /**
 Toggle Views
  */
 .teaser-large {
   display: none;
-  height: 90vh;
   min-height: 700px;
   font-size: 100%;
 }
@@ -368,10 +396,10 @@ Alignment
   box-sizing: border-box;
 }
 .gallery-border .border-left {
-  border-left: 20px solid #f5f5f5;
+  border-left: 10px solid #f5f5f5;
 }
 .gallery-border .border-bottom {
-  border-bottom: 20px solid #f5f5f5;
+  border-bottom: 10px solid #f5f5f5;
 }
 .image-overlay {
   position: absolute;
@@ -545,7 +573,7 @@ Alignment
   color: #333;
 }
 .color-dark {
-  background-color: #464646;
+  background-color: #213e54;
   color: #fffcf5;
 }
 .color-blue {
@@ -589,4 +617,23 @@ Alignment
 #sec1_border_img {
   width: 50vw;
   right: -20vw;
+}
+/**
+no js fallbacks
+ */
+.no-js #wrapper {
+  margin-top: 0;
+  perspective: initial !important;
+  transform-style: initial !important;
+  height: auto !important;
+}
+.no-js #content-top {
+  z-index: 0;
+  transform: initial !important;
+}
+/**
+deactivate default jmpToTop-Btn, instead show specific btn for index page...
+ */
+#footer-mobile .btn-jmptop {
+  display: none;
 }

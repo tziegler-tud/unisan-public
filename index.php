@@ -37,7 +37,7 @@
 <?php include_once("nav.html"); ?>
 <div id="wrapper" class="content-wrapper">
 
-<?php include_once("index.html"); ?>
+<?php include_once("index-snippet.html"); ?>
 <?php include_once("footer.html"); ?>
 
 </div>

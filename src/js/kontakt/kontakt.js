@@ -132,23 +132,7 @@
 
        return list[0];
    }
-   contact.generateLinks = function(){
-       var list = document.getElementsByClassName("mail-hidden");
-       for (var i = 0; i < list.length; i++) {
-           var it = list[i];
-           var s = it.dataset.prefix + "@unisan-dresden.de";
-           if(it.classList.contains("mailto")){
-            it.href="mailto:" + s;
-           }
-           else {
-               if(it.classList.contains("itsatrap")){
-                    it.removeAttribute("href");
-               }
-               it.innerHTML = s;
-           }
-       }
-       return true;
-   };
+
 
    contact.initResizeListener = function(item){
      window.addEventListener("resize", item.setExpandingHeight)

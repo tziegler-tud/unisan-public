@@ -356,6 +356,22 @@
     });
     };
 
+    common.generateLinks = function(){
+        var list = document.getElementsByClassName("mail-hidden");
+        for (var i = 0; i < list.length; i++) {
+            var it = list[i];
+            var s = it.dataset.prefix + "@unisan-dresden.de";
+            if(it.classList.contains("mailto")){
+                it.href="mailto:" + s;
+            }
+            if(it.classList.contains("itsatrap")){
+                it.removeAttribute("href");
+            }
+            if(it.classList.contains("text")){it.innerHTML = s;}
+        }
+        return true;
+    };
+
 
 
 

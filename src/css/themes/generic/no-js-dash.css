@@ -1,3 +1,17 @@
+@keyframes show-dash {
+  from {
+    bottom: -400px;
+  }
+  20% {
+    bottom: 0;
+  }
+  80% {
+    bottom: 0;
+  }
+  to {
+    bottom: -400px;
+  }
+}
 #no-js-dash {
   z-index: 10;
   display: none;
@@ -5,27 +19,21 @@
   overflow: hidden;
   padding: 2em 5em;
   background-color: #f5f5f5;
-  top: 0;
+  bottom: -400px;
   position: fixed;
   height: auto;
-  /*
-  animation-name: example;
-  animation-duration: 10s;
+  animation-name: show-dash;
+  animation-duration: 20s;
   animation-iteration-count: 1;
-*/
-}
-@keyframes example {
-  from {
-    height: 0;
-  }
-  to {
-    height: auto;
-  }
+  animation-delay: 1s;
 }
 #no-js-dash #no-js-text {
   color: #c31d34;
   font-size: 100%;
   text-align: center;
+}
+.no-js #no-js-dash {
+  display: block;
 }
 .no-js .infobar {
   display: none;

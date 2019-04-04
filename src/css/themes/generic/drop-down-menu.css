@@ -55,12 +55,6 @@
   float: left;
   height: 100%;
 }
-.nav .nav-static .nav-image::before,
-.nav .nav-static .nav-image::after {
-  display: block;
-  content: "";
-  height: 5%;
-}
 .nav .nav-static .label {
   width: 0;
   height: 100%;

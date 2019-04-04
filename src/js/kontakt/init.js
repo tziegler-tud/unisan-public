@@ -12,7 +12,7 @@ $(window).on('load',function() {
     contact1.initializeEventListeners();
     var contact2 = new window.contact.ContactObject('expanding-list02','contact-entry','collapsed');
     contact2.initializeEventListeners();
-    window.contact.generateLinks();
+
 
 
 });

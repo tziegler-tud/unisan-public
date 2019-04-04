@@ -24,6 +24,7 @@ document.addEventListener("DOMContentLoaded", function(event) {
 
     common.smoothScrolling(scrollContainerRef);
     common.floatingButtonInit(floatingButtonRef, floatingButtonContext, fixEnabled);
+    common.generateLinks();
 
     var waiting = false;
 

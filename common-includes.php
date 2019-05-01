@@ -23,6 +23,8 @@
 
     <script src="src/js/init.js"></script>
     <script src="src/js/common.js"></script>
+    <script src="src/js/footer.js"></script>
+
 
     <!--
       ***********************************

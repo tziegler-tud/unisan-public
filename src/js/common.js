@@ -341,6 +341,8 @@
         );
     };
 
+    //const isVisible = elem => !!elem && !!( elem.offsetWidth || elem.offsetHeight || elem.getClientRects().length );
+
     common.smoothScrolling = function(ref){
         if(ref===window){ref='html,body';}
         document.querySelectorAll('a[href^="#"]').forEach(
@@ -376,10 +378,6 @@
 
 
     return common;
-
-
-
-
 
 
 }(window.common = window.common || {}, jQuery));

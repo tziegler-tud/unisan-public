@@ -159,12 +159,14 @@ button {
 .btn-jmptop {
     bottom:        -7em;
     right:          1em;
+    font-size:      120%;
 
-    z-index: 5;
+    z-index: 2;
 
     @media @desktop {
         right:      3em;
         bottom:    -5em;
+        font-size:  150%;
     }
 }
 
@@ -573,9 +575,10 @@ a.inline-link {
     margin:             1em;
 
     .transition(background-color,100ms);
-    .a {
+    a {
 
         display:        inline-block;
+        color: white;
 
     }
     &:hover {
@@ -589,6 +592,35 @@ a.inline-link {
 
     }
 }
+
+.content-link.slim {
+
+    color:              white;
+    background-color:   @link-bg-color;
+    display:            inline-block;
+    padding:            0.5em 1em;
+    margin:             .5em .5em;
+
+    .transition(background-color,100ms);
+    a {
+
+        display:        inline-block;
+        color: white;
+
+    }
+    &:hover {
+
+
+        background-color: @link-hover-color;
+        cursor:         pointer;
+
+
+        .transition(background-color,200ms);
+
+    }
+}
+
+
 
 .send-a-fish {//interactive anchor to send email.
     color:              white;

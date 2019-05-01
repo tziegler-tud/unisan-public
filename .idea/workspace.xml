@@ -2,10 +2,163 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aaaf2f20-d3dc-4eb7-8f99-4d9649c26d78" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/_hacks.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/_mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/_options.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_backward.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_bob.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_bounce-in.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_bounce-out.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_buzz-out.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_buzz.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_float.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_forward.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_grow-rotate.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_grow.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_hang.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_pop.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_pulse-grow.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_pulse-shrink.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_pulse.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_push.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_rotate.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_shrink.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_sink.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_skew-backward.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_skew-forward.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_skew.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_wobble-bottom.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_wobble-horizontal.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_wobble-skew.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_wobble-to-bottom-right.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_wobble-to-top-right.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_wobble-top.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_wobble-vertical.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_back-pulse.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_bounce-to-bottom.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_bounce-to-left.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_bounce-to-right.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_bounce-to-top.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_fade.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_radial-in.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_radial-out.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_rectangle-in.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_rectangle-out.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_shutter-in-horizontal.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_shutter-in-vertical.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_shutter-out-horizontal.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_shutter-out-vertical.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_sweep-to-bottom.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_sweep-to-left.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_sweep-to-right.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_sweep-to-top.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_border-fade.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_hollow.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_outline-in.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_outline-out.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_overline-from-center.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_overline-from-left.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_overline-from-right.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_overline-reveal.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_reveal.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_ripple-in.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_ripple-out.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_round-corners.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_trim.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_underline-from-center.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_underline-from-left.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_underline-from-right.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_underline-reveal.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/curls/_curl-bottom-left.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/curls/_curl-bottom-right.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/curls/_curl-top-left.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/curls/_curl-top-right.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-back.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-bob.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-bounce-out.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-bounce.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-buzz-out.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-buzz.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-down.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-drop.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-fade.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-float-away.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-float.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-forward.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-grow-rotate.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-grow.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-hang.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-pop.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-pulse-grow.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-pulse-shrink.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-pulse.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-push.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-rotate.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-shrink.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-sink-away.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-sink.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-spin.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-up.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-wobble-horizontal.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-wobble-vertical.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/shadow-and-glow-transitions/_box-shadow-inset.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/shadow-and-glow-transitions/_box-shadow-outset.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/shadow-and-glow-transitions/_float-shadow.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/shadow-and-glow-transitions/_glow.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/shadow-and-glow-transitions/_grow-shadow.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/shadow-and-glow-transitions/_shadow-radial.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/shadow-and-glow-transitions/_shadow.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/speech-bubbles/_bubble-bottom.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/speech-bubbles/_bubble-float-bottom.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/speech-bubbles/_bubble-float-left.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/speech-bubbles/_bubble-float-right.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/speech-bubbles/_bubble-float-top.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/speech-bubbles/_bubble-left.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/speech-bubbles/_bubble-right.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/effects/speech-bubbles/_bubble-top.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/hover.css/less/hover.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/footer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-snippet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-includes.php" beforeDir="false" afterPath="$PROJECT_DIR$/common-includes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/git-markup/version.svg" beforeDir="false" afterPath="$PROJECT_DIR$/git-markup/version.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impressum.html" beforeDir="false" afterPath="$PROJECT_DIR$/impressum.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-snippet.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-snippet.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/kontakt.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/lidl/imagebox/imagebox-less.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/lidl/imagebox/imagebox-less.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/lidl/imagebox/imagebox-less.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/lidl/imagebox/imagebox-less.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_impressum.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_impressum.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_kontakt.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_kontakt.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_kurse.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_kurse.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_mitmachen.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_mitmachen.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_san.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_san.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_team.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_team.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/preloader.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/preloader.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/animations.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/animations.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/color-rules.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/color-rules.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/color-rules.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/color-rules.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/common.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/common.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/contact-bak.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/contact-bak.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/contact-form.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/contact-form.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/drop-down-menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/drop-down-menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/footer.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/footer.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/impressum.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/impressum.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/kontakt.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/kontakt.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/kurse.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/kurse.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/mitmachen.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/mitmachen.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/no-js-dash.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/no-js-dash.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/sanitaetsdienst.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/sanitaetsdienst.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/team.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/team.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/team.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/team.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/index/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/index/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,91 +175,102 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datenschutz.php">
+        <entry file="file://$PROJECT_DIR$/src/css/themes/generic/footer.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+            <state relative-caret-position="3416">
+              <caret line="492" column="7" selection-start-line="492" selection-start-column="7" selection-end-line="492" selection-end-column="7" />
+              <folding>
+                <element signature="e#345#366#0" />
+                <element signature="e#451#2625#0" />
+                <element signature="e#2723#3476#0" />
+                <element signature="e#2471#2489#0" />
+                <element signature="e#2815#3547#0" />
+                <element signature="e#3213#4135#0" />
+                <element signature="e#4155#5431#0" />
+                <element signature="e#10156#10242#0" />
+                <element signature="e#10275#10493#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/css/themes/generic/no-js-dash.less">
+        <entry file="file://$PROJECT_DIR$/src/js/footer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
-              <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+            <state relative-caret-position="306">
+              <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index-snippet.html">
+        <entry file="file://$PROJECT_DIR$/src/js/menu.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1494">
-              <caret line="83" column="128" selection-start-line="83" selection-start-column="128" selection-end-line="83" selection-end-column="128" />
+            <state relative-caret-position="4374">
+              <caret line="243" column="8" selection-start-line="243" selection-start-column="8" selection-end-line="243" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
+        <entry file="file://$PROJECT_DIR$/src/css/themes/generic/kontakt.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="647">
-              <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
+            <state relative-caret-position="3654">
+              <caret line="203" selection-start-line="203" selection-end-line="203" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/css/themes/generic/common.less">
+        <entry file="file://$PROJECT_DIR$/src/css/themes/generic/variables.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9576">
-              <caret line="532" column="27" selection-start-line="532" selection-start-column="27" selection-end-line="532" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/js/kontakt/kontakt.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2412">
-              <caret line="134" selection-start-line="134" selection-end-line="134" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/js/kontakt/init.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/js/init.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/js/common.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6642">
-              <caret line="369" column="38" selection-start-line="369" selection-start-column="38" selection-end-line="369" selection-end-column="38" />
+            <state relative-caret-position="432">
+              <caret line="24" column="85" selection-start-line="24" selection-start-column="85" selection-end-line="24" selection-end-column="85" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/kontakt.html">
+        <entry file="file://$PROJECT_DIR$/footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="568">
-              <caret line="160" column="169" selection-start-line="160" selection-start-column="169" selection-end-line="160" selection-end-column="169" />
+            <state relative-caret-position="342">
+              <caret line="46" column="25" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mitmachen.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/team.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="87" column="18" lean-forward="true" selection-start-line="87" selection-start-column="18" selection-end-line="87" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/css/themes/generic/team.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/css/themes/generic/color-rules.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="936">
+              <caret line="52" column="43" selection-start-line="52" selection-start-column="43" selection-end-line="52" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -126,39 +290,38 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>=&quot;member collapsed&quot;</find>
-      <find>WoKg</find>
-      <find>style2</find>
-      <find>nomar</find>
-      <find>clear</find>
-      <find>cubi</find>
-      <find>debug</find>
-      <find>assert</find>
-      <find>lidl.debu</find>
-      <find>Ea</find>
-      <find>Each</find>
-      <find>menu-icon</find>
-      <find>for</find>
-      <find>this.menuDom</find>
-      <find>getState</find>
-      <find>menu</find>
-      <find>Menu.</find>
-      <find>NavObject</find>
-      <find>navObject</find>
-      <find>navBar</find>
-      <find>NavBar</find>
       <find>getElement</find>
       <find>send</find>
       <find>console</find>
       <find>floati</find>
-      <find>sec</find>
       <find>btn-j</find>
       <find>jquery-ui</find>
       <find>before</find>
       <find>transition</find>
+      <find>teaser-sm</find>
+      <find>conten</find>
+      <find>content</find>
+      <find>content-link</find>
+      <find>teaser-s,</find>
+      <find>teas</find>
+      <find>sec</find>
+      <find>btn-jm</find>
+      <find>content-head</find>
+      <find>sec-content-text</find>
+      <find>color-generic</find>
+      <find>top</find>
+      <find>header</find>
+      <find>nav-do</find>
+      <find>footer</find>
+      <find>colla</find>
+      <find>btn</find>
+      <find>btn-jmptop</find>
+      <find>3</find>
+      <find>order: 3</find>
+      <find>@property @time @animation @delay</find>
+      <find>sec2</find>
     </findStrings>
     <replaceStrings>
-      <replace>midnight-blue</replace>
       <replace>@akzent-color</replace>
       <replace>&quot;colorInput</replace>
       <replace>colorstringarray[1]</replace>
@@ -188,6 +351,7 @@
       <replace>navComponent</replace>
       <replace>menu</replace>
       <replace>Menu</replace>
+      <replace>opacity 350ms ease-out, visibility 0s linear 350ms</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/src/js</dir>
@@ -199,15 +363,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mitmachen.html" />
-        <option value="$PROJECT_DIR$/contact-form.html" />
-        <option value="$PROJECT_DIR$/src/css/themes/lssc_loader_impressum.less" />
-        <option value="$PROJECT_DIR$/src/css/lssc_loader_impressum.less" />
         <option value="$PROJECT_DIR$/kurse.html" />
         <option value="$PROJECT_DIR$/sanitaetsdienst.html" />
-        <option value="$PROJECT_DIR$/src/css/themes/generic/footer.less" />
         <option value="$PROJECT_DIR$/src/css/themes/generic/impressum.less" />
-        <option value="$PROJECT_DIR$/src/css/themes/generic/color-rules.less" />
         <option value="$PROJECT_DIR$/src/js/menu.js" />
         <option value="$PROJECT_DIR$/lib/lidl/imagebox/lidl-imagebox.js" />
         <option value="$PROJECT_DIR$/team.php" />
@@ -217,7 +375,6 @@
         <option value="$PROJECT_DIR$/lib/lidl/default-navigation/navObject.js" />
         <option value="$PROJECT_DIR$/lib/lidl/default-navigation/menu.js" />
         <option value="$PROJECT_DIR$/lib/lidl/default-navigation/navBar.js" />
-        <option value="$PROJECT_DIR$/team.html" />
         <option value="$PROJECT_DIR$/sanitaetsdienst.php" />
         <option value="$PROJECT_DIR$/lib/lidl/default-navigation/default-navigation.js" />
         <option value="$PROJECT_DIR$/lib/lidl/core/lidl-0.1a.js" />
@@ -228,28 +385,35 @@
         <option value="$PROJECT_DIR$/src/css/themes/generic/kontakt.less" />
         <option value="$PROJECT_DIR$/lib/lidl/default-navigation/nav.js" />
         <option value="$PROJECT_DIR$/../unisan/src/css/themes/generic/index.less" />
-        <option value="$PROJECT_DIR$/footer.html" />
-        <option value="$PROJECT_DIR$/src/css/themes/generic/common.less" />
-        <option value="$PROJECT_DIR$/src/js/index/config.js" />
         <option value="$PROJECT_DIR$/src/js/index/init.js" />
         <option value="$PROJECT_DIR$/src/js/index/index.js" />
         <option value="$PROJECT_DIR$/floating_btn.html" />
-        <option value="$PROJECT_DIR$/common-includes.php" />
         <option value="$PROJECT_DIR$/nav.html" />
         <option value="$PROJECT_DIR$/src/css/themes/generic/drop-down-menu.less" />
-        <option value="$PROJECT_DIR$/src/css/themes/generic/index.less" />
         <option value="$PROJECT_DIR$/src/css/themes/generic/variables.less" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/src/js/kontakt/kontakt.js" />
         <option value="$PROJECT_DIR$/src/js/kontakt/init.js" />
-        <option value="$PROJECT_DIR$/src/js/init.js" />
-        <option value="$PROJECT_DIR$/src/js/common.js" />
-        <option value="$PROJECT_DIR$/impressum.html" />
         <option value="$PROJECT_DIR$/datenschutz.html" />
         <option value="$PROJECT_DIR$/datenschutz.php" />
         <option value="$PROJECT_DIR$/src/css/themes/generic/no-js-dash.less" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/kontakt.html" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/src/js/index/config.js" />
+        <option value="$PROJECT_DIR$/impressum.html" />
+        <option value="$PROJECT_DIR$/index-snippet.html" />
+        <option value="$PROJECT_DIR$/lib/lidl/imagebox/imagebox-less.less" />
+        <option value="$PROJECT_DIR$/src/css/themes/generic/common.less" />
+        <option value="$PROJECT_DIR$/src/css/themes/generic/index.less" />
+        <option value="$PROJECT_DIR$/common-includes.php" />
+        <option value="$PROJECT_DIR$/src/js/init.js" />
+        <option value="$PROJECT_DIR$/src/css/themes/generic/color-rules.less" />
+        <option value="$PROJECT_DIR$/src/js/common.js" />
+        <option value="$PROJECT_DIR$/src/js/footer.js" />
+        <option value="$PROJECT_DIR$/src/css/themes/generic/footer.less" />
+        <option value="$PROJECT_DIR$/team.html" />
+        <option value="$PROJECT_DIR$/src/css/themes/generic/team.less" />
+        <option value="$PROJECT_DIR$/footer.html" />
       </list>
     </option>
   </component>
@@ -297,19 +461,6 @@
             <path>
               <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
               <item name="unisan-private" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="lidl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="unisan-private" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="lidl" type="462c0819:PsiDirectoryNode" />
-              <item name="imagebox" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="unisan-private" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -332,15 +483,6 @@
               <item name="css" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
               <item name="generic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="unisan-private" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="generic" type="462c0819:PsiDirectoryNode" />
-              <item name="index.less" type="620a8d5e:NestingTreeNode" />
             </path>
             <path>
               <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
@@ -357,12 +499,13 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="6.14.4" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="Less" />
     <property name="nodejs_interpreter_path" value="node" />
-    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -373,11 +516,11 @@
       <recent name="$PROJECT_DIR$/src/css/themes/common" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/hover.css" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/css" />
       <recent name="$PROJECT_DIR$/src/css/themes/generic" />
       <recent name="$PROJECT_DIR$/src/js/contact" />
-      <recent name="$PROJECT_DIR$/lib/waypoints" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -569,11 +712,25 @@
       <workItem from="1554381229448" duration="65000" />
       <workItem from="1554381364464" duration="14000" />
       <workItem from="1554381445730" duration="127000" />
+      <workItem from="1554384776933" duration="1766000" />
+      <workItem from="1554389297508" duration="1271000" />
+      <workItem from="1554466418932" duration="89000" />
+      <workItem from="1554482950455" duration="6907000" />
+      <workItem from="1554648436688" duration="612000" />
+      <workItem from="1554658053143" duration="5632000" />
+      <workItem from="1554730543046" duration="1958000" />
+      <workItem from="1556452537784" duration="2194000" />
+      <workItem from="1556468297764" duration="4266000" />
+      <workItem from="1556522714068" duration="5688000" />
+      <workItem from="1556548260578" duration="17905000" />
+      <workItem from="1556578185514" duration="20000" />
+      <workItem from="1556728712059" duration="8502000" />
+      <workItem from="1556744337321" duration="5383000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="807960000" />
+    <option name="totallyTimeSpent" value="870153000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -586,6 +743,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49376947" visible="true" weight="0.1557377" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -634,38 +792,6 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lib/lidl/default-navigation/default-navigation.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/lidl/default-navigation/navObject.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/contact-new.less" />
-    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/contact-form.less">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/lssc_loader_kontakt.less">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/lidl/default-navigation/navBar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kontakt.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/contact.css" />
     <entry file="file://$PROJECT_DIR$/src/css/fonts.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -687,13 +813,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/kontakt.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3654">
-          <caret line="203" selection-start-line="203" selection-end-line="203" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/css/themes/generic/contact-bak.less">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -701,13 +820,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
           <caret line="23" column="89" selection-start-line="23" selection-start-column="89" selection-end-line="23" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mitmachen.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -728,23 +840,6 @@
     <entry file="file://$PROJECT_DIR$/lib/lidl/core/errors.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/lidl/core/lidl-0.1b.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="215" column="98" lean-forward="true" selection-start-line="215" selection-start-column="7" selection-end-line="215" selection-end-column="98" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="70" column="58" selection-start-line="70" selection-start-column="58" selection-end-line="70" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/footer.less">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/team.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -752,45 +847,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/floating_btn.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index-bak.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common-includes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/index/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/index/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/index/init.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="676">
-          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -803,25 +863,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/menu.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2862">
-          <caret line="159" column="6" selection-start-line="151" selection-start-column="4" selection-end-line="159" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data/color.txt">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/color-rules.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="14" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/nav.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -837,20 +880,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/index.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/variables.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/css/themes/generic/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
@@ -862,13 +891,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
           <caret line="59" lean-forward="true" selection-start-line="57" selection-start-column="36" selection-end-line="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/impressum.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="45" column="62" selection-start-line="42" selection-start-column="36" selection-end-line="45" selection-end-column="62" />
         </state>
       </provider>
     </entry>
@@ -893,20 +915,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index-snippet.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1494">
-          <caret line="83" column="128" selection-start-line="83" selection-start-column="128" selection-end-line="83" selection-end-column="128" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/common.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9576">
-          <caret line="532" column="27" selection-start-line="532" selection-start-column="27" selection-end-line="532" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/js/kontakt/kontakt.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2412">
@@ -921,31 +929,212 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/init.js">
+    <entry file="file://$PROJECT_DIR$/src/js/index/init.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
-          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/common.js">
+    <entry file="file://$PROJECT_DIR$/src/js/index/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6642">
-          <caret line="369" column="38" selection-start-line="369" selection-start-column="38" selection-end-line="369" selection-end-column="38" />
+        <state relative-caret-position="270">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/lidl/default-navigation/default-navigation.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/impressum.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="59" column="63" lean-forward="true" selection-start-line="59" selection-start-column="63" selection-end-line="59" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/hover.css/less/effects/curls/_curl-top-left.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/index/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/floating_btn.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/lidl/imagebox/imagebox-less.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-snippet.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3186">
+          <caret line="177" column="28" lean-forward="true" selection-start-line="177" selection-start-column="28" selection-end-line="177" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="647">
-          <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
+        <state relative-caret-position="162">
+          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/index.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1006">
+          <caret line="955" column="22" selection-start-line="955" selection-start-column="22" selection-end-line="955" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/workinprogress.less">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/kurse.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2484">
+          <caret line="138" column="30" selection-start-line="138" selection-start-column="30" selection-end-line="138" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-includes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="71" selection-start-line="13" selection-start-column="71" selection-end-line="13" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/init.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/kontakt.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="568">
+        <state relative-caret-position="593">
           <caret line="160" column="169" selection-start-line="160" selection-start-column="169" selection-end-line="160" selection-end-column="169" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/common.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3006">
+          <caret line="167" column="24" selection-start-line="167" selection-start-column="24" selection-end-line="167" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6174">
+          <caret line="343" column="118" lean-forward="true" selection-start-line="343" selection-start-column="4" selection-end-line="343" selection-end-column="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/lidl/core/lidl-0.1b.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3870">
+          <caret line="215" column="98" lean-forward="true" selection-start-line="215" selection-start-column="7" selection-end-line="215" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4374">
+          <caret line="243" column="8" selection-start-line="243" selection-start-column="8" selection-end-line="243" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/kontakt.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3654">
+          <caret line="203" selection-start-line="203" selection-end-line="203" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/variables.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="85" selection-start-line="24" selection-start-column="85" selection-end-line="24" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/color-rules.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="52" column="43" selection-start-line="52" selection-start-column="43" selection-end-line="52" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/footer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/footer.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3416">
+          <caret line="492" column="7" selection-start-line="492" selection-start-column="7" selection-end-line="492" selection-end-column="7" />
+          <folding>
+            <element signature="e#345#366#0" />
+            <element signature="e#451#2625#0" />
+            <element signature="e#2723#3476#0" />
+            <element signature="e#2471#2489#0" />
+            <element signature="e#2815#3547#0" />
+            <element signature="e#3213#4135#0" />
+            <element signature="e#4155#5431#0" />
+            <element signature="e#10156#10242#0" />
+            <element signature="e#10275#10493#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="87" column="18" lean-forward="true" selection-start-line="87" selection-start-column="18" selection-end-line="87" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/team.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mitmachen.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="46" column="25" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
         </state>
       </provider>
     </entry>

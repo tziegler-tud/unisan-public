@@ -1,3 +1,18 @@
+.noselect {
+  -webkit-touch-callout: none;
+  /* iOS Safari */
+  -webkit-user-select: none;
+  /* Safari */
+  -khtml-user-select: none;
+  /* Konqueror HTML */
+  -moz-user-select: none;
+  /* Firefox */
+  -ms-user-select: none;
+  /* Internet Explorer/Edge */
+  user-select: none;
+  /* Non-prefixed version, currently
+                                  supported by Chrome and Opera */
+}
 /**
 Ids
  */
@@ -101,6 +116,16 @@ Toggle Views
     display: inherit;
   }
 }
+.teaser-small #mobile-header {
+  background-color: #fff;
+  font-size: 130%;
+}
+.teaser-small #mobile-header .header-content {
+  padding: 2em 10%;
+}
+.teaser-small #mobile-header #header-image img {
+  width: 60%;
+}
 /**
 Classes
  */
@@ -115,14 +140,16 @@ Classes
   margin: 0 5% 0 5%;
 }
 .sec-content-text {
-  width: 90%;
-  margin: 0 5% 0 5%;
+  width: 70%;
+  margin: 0 15% 0 15%;
   font-size: 90%;
 }
 @media only screen and (min-width: 75em) {
   .sec-content-text {
     width: 40%;
     font-size: 90%;
+    margin: 0;
+    padding: 0 5% 0 10%;
   }
 }
 .sec-content-img {
@@ -149,47 +176,36 @@ Classes
 }
 .sec-content-text .content-text {
   margin-top: 4em;
+  font-size: 90%;
+}
+@media only screen and (min-width: 75em), only screen and (min-width: 50em) and (max-width: 75em) and (orientation: landscape) {
+  .sec-content-text .content-text {
+    font-size: 90%;
+  }
 }
 .sec-content-text .content-text h3 {
   font-size: 100%;
   margin-top: 2em;
   font-weight: normal;
 }
+.sec-content-text .content-heading {
+  text-align: center;
+}
 .sec-content-text .content-heading h2 {
+  position: relative;
+  display: inline-block;
   font-size: 100%;
   font-weight: bold;
   margin-bottom: 1em;
 }
-/*.sec-content-text .content-heading:after {
-  content : "";
+.sec-content-text .content-heading h2:after {
+  content: "";
   position: absolute;
-  left    : 5%;
-
-  height  : 0px;
-  width   : 50%;
-  border-bottom:1px solid @content-font-color;
-}*/
-.content-link {
-  color: white;
-  background-color: #c31d34;
-  display: inline-block;
-  padding: 1em 1em;
-  margin: 1em;
-  -webkit-transition: background-color 100ms ease;
-  -moz-transition: background-color 100ms ease;
-  -o-transition: background-color 100ms ease;
-  transition: background-color 100ms ease;
-}
-.content-link a {
-  display: inline-block;
-}
-.content-link:hover {
-  background-color: #de243d;
-  cursor: pointer;
-  -webkit-transition: background-color 200ms ease;
-  -moz-transition: background-color 200ms ease;
-  -o-transition: background-color 200ms ease;
-  transition: background-color 200ms ease;
+  left: -10%;
+  bottom: -1em;
+  width: 120%;
+  height: 0;
+  border-bottom: 1px solid #00293c;
 }
 @media only screen and (max-width: 50em) {
   .infobar {
@@ -263,8 +279,8 @@ Classes
   color: #c31d34;
 }
 /**
-Alignment
- */
+  Alignment
+   */
 .split-horizontally {
   position: relative;
   height: 100%;
@@ -381,11 +397,11 @@ Alignment
   }
 }
 /**
-    functional classes
-     */
+  functional classes
+   */
 /**
-        gallery
-         */
+  gallery
+   */
 .gallery-inner {
   width: 100%;
   height: 100%;
@@ -566,8 +582,8 @@ Alignment
   transition: width 0.25s ease-out 0.25s, height 0.25s ease-out;
 }
 /**
-    special classes
-     */
+  special classes
+   */
 .color-light {
   background-color: #fffcf5;
   color: #333;
@@ -597,8 +613,8 @@ Alignment
   background-color: #00293c;
 }
 /**
-    special elements
-    */
+  special elements
+  */
 #background {
   /*background-image: url('../../../../images/back2.jpg');*/
 }
@@ -619,8 +635,8 @@ Alignment
   right: -20vw;
 }
 /**
-no js fallbacks
- */
+  no js fallbacks
+   */
 .no-js #wrapper {
   margin-top: 0;
   perspective: initial !important;
@@ -632,8 +648,19 @@ no js fallbacks
   transform: initial !important;
 }
 /**
-deactivate default jmpToTop-Btn, instead show specific btn for index page...
- */
-#footer-mobile .btn-jmptop {
+  deactivate default jmpToTop-Btn, instead show specific btn for index page...
+   */
+body > .btn-jmptop {
   display: none;
+}
+@media only screen and (min-width: 75em), only screen and (min-width: 50em) and (max-width: 75em) and (orientation: landscape) {
+  body > .btn-jmptop {
+    display: block;
+    font-size: 100%;
+  }
+}
+@media only screen and (min-width: 75em), only screen and (min-width: 50em) and (max-width: 75em) and (orientation: landscape) {
+  #footer-mobile .btn-jmptop {
+    display: none;
+  }
 }

@@ -26,6 +26,8 @@ document.addEventListener("DOMContentLoaded", function(event) {
     common.floatingButtonInit(floatingButtonRef, floatingButtonContext, fixEnabled);
     common.generateLinks();
 
+    footer.init();
+
     var waiting = false;
 
 

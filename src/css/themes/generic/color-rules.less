@@ -61,3 +61,21 @@
   -o-transition:      @property @time @animation;
   transition:         @property @time @animation;
 }
+
+
+.transition (@property,@time, @animation, @delay) {
+  -webkit-transition: @property @time @animation @delay;
+  -moz-transition:    @property @time @animation @delay;
+  -o-transition:      @property @time @animation @delay;
+  transition:         @property @time @animation @delay;
+}
+
+.noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome and Opera */
+}

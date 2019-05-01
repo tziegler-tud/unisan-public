@@ -1,88 +1,18 @@
-/*
-@import 'color-rules.less';
-@import 'variables.less';
-
-#sec2 {
-  color: @nav-bg-color;
-  background-color: #ffffff;
+.noselect {
+  -webkit-touch-callout: none;
+  /* iOS Safari */
+  -webkit-user-select: none;
+  /* Safari */
+  -khtml-user-select: none;
+  /* Konqueror HTML */
+  -moz-user-select: none;
+  /* Firefox */
+  -ms-user-select: none;
+  /* Internet Explorer/Edge */
+  user-select: none;
+  /* Non-prefixed version, currently
+                                  supported by Chrome and Opera */
 }
-
-.members-section {
-  width: 100%;
-  display: flex;
-  flex-flow: row wrap;
-  justify-content: center;
-
-  .member {
-
-    flex: 0 0 90%;
-    position: relative;
-
-    padding: 1em 0;
-
-    outline: 1px solid #333;
-
-    @media @desktop {
-      flex: 0 0 250px;
-      padding: 1em 2em;
-      border-radius: 50%;
-      position: relative;
-      text-align: center;
-    }
-
-    img {
-
-      width: 50%;
-      border-radius: 50%;
-
-      @media @desktop {
-        width: 80%;
-        margin: 0 10%;
-
-      }
-    }
-
-    div {
-
-
-      margin: auto;
-      position: absolute;
-      top: 0;
-      bottom: 0;
-      right: 0;
-      float: right;
-      width: 30%;
-      color: @content-font-color;
-      height: 50%;
-
-      @media @desktop {
-        top:auto;
-        bottom:auto;
-        right:auto;
-        float:none;
-        width: auto;
-        position: relative;
-        display: inline-block;
-        text-align: left;
-      }
-    }
-
-    span {
-
-      display: block;
-      font-variant: small-caps;
-    }
-
-    .member-name {
-    }
-
-    .member-role {
-      font-size: 80%;
-      word-wrap:  break-word;
-
-    }
-  }
-}*/
 .members-section {
   width: 100%;
   display: flex;

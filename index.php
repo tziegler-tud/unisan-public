@@ -15,8 +15,9 @@
          ***********************************
          ** specific js libs
          *********************************** -->
+
          <script src="src/js/index/init.js"></script>
-          <script src="src/js/index/index.js"></script>
+         <script src="src/js/index/index.js"></script>
      
 
 

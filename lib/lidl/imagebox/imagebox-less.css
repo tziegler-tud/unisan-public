@@ -1,3 +1,18 @@
+.noselect {
+  -webkit-touch-callout: none;
+  /* iOS Safari */
+  -webkit-user-select: none;
+  /* Safari */
+  -khtml-user-select: none;
+  /* Konqueror HTML */
+  -moz-user-select: none;
+  /* Firefox */
+  -ms-user-select: none;
+  /* Internet Explorer/Edge */
+  user-select: none;
+  /* Non-prefixed version, currently
+                                  supported by Chrome and Opera */
+}
 .lidl-imagebox {
   font-size: 100%;
   width: 100%;
@@ -6,9 +21,8 @@
 }
 .lidl-imagebox .lidl-imagebox-container {
   width: 300%;
-  position: auto;
   overflow: hidden;
-  background: #00293c;
+  background: #f0f0f0;
   -webkit-transition: 500ms ease;
   -moz-transition: 500ms ease;
   -o-transition: 500ms ease;
@@ -27,16 +41,16 @@
 .lidl-imagebox-container .lidl-imagebox-image .lidl-imagebox-image-label {
   font-size: 80%;
   position: relative;
-  background-color: #00293c;
-  color: #f5f5f5;
-  margin-bottom: 20px;
+  background-color: #f0f0f0;
+  color: #333;
+  margin-bottom: 1em;
 }
 .lidl-imagebox .nav-bottom .lidl-imagebox-image .lidl-imagebox-image-label h1 {
   margin: 0;
   font-weight: normal;
   font-size: 120%;
 }
-@media only screen and (max-width: 25em), only screen and (min-width: 25em) and (max-width: 35em), only screen and (min-width: 35em) and (max-width: 50em) {
+@media only screen and (max-width: 50em) {
   .lidl-imagebox .nav-bottom .lidl-imagebox-image .lidl-imagebox-image-label h1 {
     position: absolute;
     top: -3em;
@@ -51,19 +65,19 @@
   display: block;
   padding: 20px 20px 0 20px;
 }
-.lidl-imagebox-container .lidl-imagebox-image .lidl-imagebox-image-label a {
+.lidl-imagebox-container .lidl-imagebox-image .lidl-imagebox-image-label a:not(.lidl-hideDefault) {
   color: #c31d34;
   text-decoration: none;
   font-size: 120%;
-  display: inline;
+  display: inline-block;
   margin-left: 1em;
 }
-.lidl-imagebox-container .lidl-imagebox-image .lidl-imagebox-image-label a::before {
+.lidl-imagebox-container .lidl-imagebox-image .lidl-imagebox-image-label a:not(.lidl-hideDefault)::before {
   content: "»";
   padding-right: 0.5em;
   color: #c31d34;
 }
-.lidl-imagebox-container .lidl-imagebox-image .lidl-imagebox-image-label a:hover {
+.lidl-imagebox-container .lidl-imagebox-image .lidl-imagebox-image-label a:not(.lidl-hideDefault):hover {
   cursor: pointer;
   border-bottom: 1px solid #c31d34;
 }
@@ -71,10 +85,11 @@
   width: 100%;
 }
 .lidl-imagebox .lidl-imagebox-nav {
-  padding: 10px;
-  background-color: #00293c;
-  color: #f5f5f5;
-  border-top: 1px solid #f5f5f5;
+  font-size: 70%;
+  padding: 5px;
+  background-color: #f0f0f0;
+  color: #333;
+  border-top: 1px solid #333;
 }
 .nav-bottom .lidl-imagebox-nav-label {
   margin-right: auto;
@@ -86,7 +101,8 @@
   margin: 0.5em;
   width: 0.6em;
   height: 0.6em;
-  background-color: #fff;
+  background-color: transparent;
+  border: 1px solid #333;
   border-radius: 50%;
   cursor: pointer;
 }
@@ -94,8 +110,8 @@
   background-color: #c31d34;
 }
 /*
- no javascript fallback
-  */
+   no javascript fallback
+    */
 .no-js .lidl-imagebox-container {
   width: 100%;
 }

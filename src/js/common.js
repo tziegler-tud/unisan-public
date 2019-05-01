@@ -172,8 +172,9 @@
     };
 
     common.floatingButtonInit = function(ref,context, enabled){
-        var el = ref;
 
+        if (!enabled){return;}
+        const el = ref;
         try {
             lidl.assertHTMLElement(el,debug);
         }
@@ -181,8 +182,6 @@
             console.warn("Creation of object " + el + " failed with error message: " + err);
             return false;
         }
-
-        if (!enabled){return;}
 
         var waypoint = new Waypoint({
             element: el,

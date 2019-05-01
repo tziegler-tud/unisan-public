@@ -207,77 +207,6 @@ Classes
   height: 0;
   border-bottom: 1px solid #00293c;
 }
-@media only screen and (max-width: 50em) {
-  .infobar {
-    display: none;
-  }
-}
-@media only screen and (min-width: 75em) {
-  .infobar {
-    padding: 20px 10% 20px 10%;
-    height: auto;
-    font-size: 120%;
-    width: 80%;
-    display: flex;
-    flex-flow: row wrap;
-  }
-}
-@media only screen and (min-width: 50em) and (max-width: 75em) and (orientation: landscape), only screen and (max-width: 50em), only screen and (min-width: 50em) and (max-width: 75em) and (orientation: portrait) {
-  .infobar {
-    display: none;
-  }
-}
-.infobar-element {
-  flex: 1 auto;
-}
-.infobar-textbox {
-  background-color: #f5f5f5;
-  /*border-radius: 50%;*/
-  border-radius: 1.5em;
-  height: 100%;
-  width: 50%;
-  min-height: 100px;
-  min-width: 100px;
-  margin: auto;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  color: #c31d34;
-}
-.infobar-figurebox {
-  background-color: #f5f5f5;
-  /*border-radius: 50%;*/
-  border-radius: 1.5em;
-  height: 100%;
-  width: 50%;
-  min-height: 100px;
-  min-width: 100px;
-  margin: auto;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  color: #c31d34;
-}
-.infobar-figurebox-inner {
-  padding: 1em;
-}
-.infobar-textbox-inner {
-  padding: 1em;
-}
-.spacer {
-  height: 40%;
-}
-.infobar-figurebox-inner span,
-.infobar-figurebox-inner label,
-.infobar-figurebox-inner div {
-  display: block;
-  width: 100%;
-  text-align: center;
-}
-.infobar-figurebox-inner span {
-  font-size: 200%;
-}
-.color-light .infobar-figurebox-inner {
-  /*background-color:  #464646;*/
-  background-color: #f5f5f5;
-  color: #c31d34;
-}
 /**
   Alignment
    */
@@ -615,21 +544,6 @@ Classes
 /**
   special elements
   */
-#background {
-  /*background-image: url('../../../../images/back2.jpg');*/
-}
-@media only screen and (min-width: 75em) {
-  #background {
-    background-image: url('../../images/back2.jpg');
-    background-position: center;
-    background-size: cover;
-    position: fixed;
-    top: 0%;
-    width: 100vw;
-    height: 100vh;
-    z-index: -1;
-  }
-}
 #sec1_border_img {
   width: 50vw;
   right: -20vw;

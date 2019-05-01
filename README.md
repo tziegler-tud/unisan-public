@@ -23,7 +23,7 @@ ATM our code requires the following browser capabilities in order to be run and 
 
 * convincing HTML5 support
 * css3
-* ECMAScript 5.1
+* ECMAScript6 (2015)
 
 A detailed list of required browser capabilities and must-support features is planned to be added soon.
 

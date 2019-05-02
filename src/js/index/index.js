@@ -7,7 +7,7 @@
         var scrollTop = e.scrollTop,
             height = index.header.clientHeight,
 
-            range = height/1.5,
+            range = height/1,
             calc = 1 - (scrollTop) / range;
 
         if (calc > '1') {

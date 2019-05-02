@@ -176,113 +176,78 @@ Classes
 .sec-content {
   width: 100%;
   padding: 10vh 0 10vh 0;
-}
 
-.sec-content-part {
-  margin: 0 5% 0 5%;
-}
+  .sec-content-text {
 
-.sec-content-text {
+    width: 90%;
+    margin: 0 5% 0 5%;
+    font-size: 120%;
 
-  width: 70%;
-  margin: 0 15% 0 15%;
-  font-size: 90%;
+    @media @desktop {
+      width:40%;
+      font-size: 120%;
+      margin:   0;
+      padding: 0 5% 0 10%;
+    }
 
-  @media @desktop {
-    width:40%;
-    font-size: 90%;
-    margin:   0;
-    padding: 0 5% 0 10%;
-  }
-}
+    a {
+      font-size: 80%;
+    }
 
-.sec-content-left {
+    .content-heading {
 
+      h2 {
+        position: relative;
+        display: inline-block;
+        font-size: 130%;
+        font-weight: normal;
+        font-stretch: condensed;
+        margin-bottom: 1em;
+      }
+    }
 
-}
-
-.sec-content-img {
-  margin: 2em 10% 1em 10%;
-  width: 80%;
-
-  @media @desktop {
-    width: 40%;
-    margin: 0 0 0 5%;
-  }
-
-}
-
-
-.sec-content-img img {
-  width: 100%;
-  // border-radius: 50%;
-
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-
-}
+    .content-text {
+      margin-top: 2em;
+      font-size: 90%;
+      font-weight: lighter;
 
 
-.sec-content img {
-  width: 100%;
-}
+      @media @desktop, @tablet-landscape {
+        font-size: 90%;
 
-.sec-icons img {
-  width: 50%;
-  margin: 0 25% 0 25%;
-  border-radius: 50%;
+      }
+    }
 
-
-}
-
-
-.sec-content-text .content-text {
-  margin-top: 4em;
-  font-size:  90%;
-  @media @desktop, @tablet-landscape {
-    font-size: 90%;
-
-  }
-}
-
-.sec-content-text .content-text h3 {
-  font-size: 100%;
-  margin-top: 2em;
-  font-weight: normal;
-
-
-}
-
-.sec-content-text .content-heading {
-
-
-  text-align: center;
-
-  h2 {
-    position: relative;
-    display: inline-block;
-    font-size: 100%;
-    font-weight: bold;
-    margin-bottom: 1em;
-
-    &:after {
-      content: "";
-      position: absolute;
-      left: -10%;
-      bottom: -1em;
-      width: 120%;
-      height: 0;
-      border-bottom: 1px solid @content-font-color;
+    h3 {
+      font-size: 100%;
+      margin-top: 2em;
+      font-weight: normal;
     }
   }
 
+  .sec-content-img {
+    margin: 2em 10% 1em 10%;
+    width: 80%;
 
-  .sec-content .content-top {
+    @media @desktop {
+      width: 40%;
+      margin: 0 0 0 5%;
+    }
 
+    img {
+      width: 100%;
+      // border-radius: 50%;
+
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+    }
   }
+}
 
-  .sec-content .content-bottom {
 
-  }
+
+.sec-content-part {
+  margin: 0 5% 0 5%;
 }
 
 

@@ -406,10 +406,24 @@
   text-align: center;
 }
 #footer-mobile #footer-mobile-container .footer-bottom #footer-bottom-inner #footer-lang .trigger .trigger-overlay .trigger-overlay-inner ul li {
+  display: block;
   padding: 1em 1em;
 }
 #footer-mobile #footer-mobile-container .footer-bottom #footer-bottom-inner #footer-lang .trigger .trigger-overlay .trigger-overlay-inner ul li:hover {
   background-color: #f5f5f5;
+}
+#footer-mobile #footer-mobile-container .footer-bottom #footer-bottom-inner #footer-lang .trigger .trigger-overlay .trigger-overlay-inner ul li.soon {
+  position: relative;
+}
+#footer-mobile #footer-mobile-container .footer-bottom #footer-bottom-inner #footer-lang .trigger .trigger-overlay .trigger-overlay-inner ul li.soon:after {
+  content: "coming soon!";
+  display: block;
+  position: relative;
+  width: 100%;
+  font-size: 80%;
+  float: left;
+  color: #333;
+  font-style: italic;
 }
 #footer-mobile #footer-mobile-container .footer-bottom #footer-bottom-inner #footer-lang .trigger.active .trigger-overlay {
   visibility: visible;

@@ -1129,7 +1129,7 @@ a.inline-link.external::before {
 @media only screen and (min-width: 75em), only screen and (min-width: 50em) and (max-width: 75em) and (orientation: landscape) {
   .content-inner .content-inner-part {
     font-size: 110%;
-    padding-top: 6em;
+    padding-top: 2em;
   }
 }
 .content-inner .last {

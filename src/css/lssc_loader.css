@@ -625,6 +625,7 @@ button {
   /*line end padding hack*/
 }
 .header-image-overlay .overlay-content {
+  font-weight: lighter;
   display: none;
   position: absolute;
   bottom: 1em;
@@ -703,43 +704,140 @@ content sections
   width: 100%;
 }
 .sec-content .sec-heading {
-  width: 80%;
+  display: inline-block;
   font-size: 150%;
-  margin: 0 10% 2em 10%;
+  margin: 0 0 2em 0;
 }
 @media only screen and (min-width: 75em), only screen and (min-width: 50em) and (max-width: 75em) and (orientation: landscape) {
   .sec-content .sec-heading {
-    width: 60%;
-    font-size: 200%;
-    margin: 0em 20% 2em 20%;
+    font-size: 180%;
+  }
+}
+.sec-content .sec-heading h1,
+.sec-content .sec-heading h2,
+.sec-content .sec-heading h3,
+.sec-content .sec-heading h4,
+.sec-content .sec-heading h5 {
+  display: inline-block;
+  font-size: 100%;
+  font-weight: lighter;
+  margin: 0;
+  padding: 5px 1em;
+}
+@media only screen and (min-width: 75em), only screen and (min-width: 50em) and (max-width: 75em) and (orientation: landscape) {
+  .sec-content .sec-heading h1,
+  .sec-content .sec-heading h2,
+  .sec-content .sec-heading h3,
+  .sec-content .sec-heading h4,
+  .sec-content .sec-heading h5 {
+    padding: 10px 2em;
   }
 }
 .sec-content .center {
   text-align: center;
 }
-.sec-content.full-height {
-  padding-top: 0;
-  padding-bottom: 0;
+@media only screen and (min-width: 75em), only screen and (min-width: 50em) and (max-width: 75em) and (orientation: landscape) {
+  .sec-content.full-height {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
 }
 .sec-content-part {
   margin: 0 5% 0 5%;
 }
+/*.sec-content-text {
+
+    width:          90%;
+    margin:         0 5% 0 5%;
+    font-size:      90%;
+
+
+
+    @media @desktop {
+        width:      40%;
+        font-size:  90%;
+
+    }
+
+
+    .content-text {
+        margin-top: 2em;
+
+        @media @desktop,@tablet-landscape {
+            margin-top: 4em;
+        }
+
+        span {
+            display: block;
+            margin-bottom: 1em;
+        }
+
+        .content-text-part {
+            display: block;
+            margin-bottom: 2em;
+        }
+
+        .quote {
+
+            font-style: italic;
+
+        }
+
+        .subheading {
+
+            font-size: 110%;
+
+        }
+
+        h3,h4 {
+            font-size:100%;
+            margin-top: 2em;
+            font-weight: normal;
+        }
+    }
+
+    .content-heading h2 {
+        font-size:      100%;
+        font-weight:    bold;
+        margin-bottom:  1em;
+    }
+}*/
 .sec-content-text {
   width: 90%;
   margin: 0 5% 0 5%;
-  font-size: 90%;
+  font-size: 120%;
 }
 @media only screen and (min-width: 75em) {
   .sec-content-text {
     width: 40%;
-    font-size: 90%;
+    font-size: 120%;
+    margin: 0;
+    padding: 0 5% 0 10%;
   }
 }
-.sec-content-text h2 {
-  color: #00293c;
+.sec-content-text a {
+  font-size: 80%;
+}
+.sec-content-text .content-heading h1,
+.sec-content-text .content-heading h2,
+.sec-content-text .content-heading h3,
+.sec-content-text .content-heading h4 {
+  position: relative;
+  display: inline-block;
+  font-size: 130%;
+  font-weight: normal;
+  font-stretch: condensed;
+  margin-bottom: 1em;
 }
 .sec-content-text .content-text {
   margin-top: 2em;
+  font-size: 90%;
+  font-weight: lighter;
+}
+@media only screen and (min-width: 75em), only screen and (min-width: 50em) and (max-width: 75em) and (orientation: landscape) {
+  .sec-content-text .content-text {
+    font-size: 90%;
+  }
 }
 @media only screen and (min-width: 75em), only screen and (min-width: 50em) and (max-width: 75em) and (orientation: landscape) {
   .sec-content-text .content-text {
@@ -766,10 +864,24 @@ content sections
   margin-top: 2em;
   font-weight: normal;
 }
-.sec-content-text .content-heading h2 {
+.sec-content-text h3 {
   font-size: 100%;
-  font-weight: bold;
-  margin-bottom: 1em;
+  margin-top: 2em;
+  font-weight: normal;
+}
+.sec-content-img {
+  margin: 2em 10% 1em 10%;
+  width: 80%;
+}
+@media only screen and (min-width: 75em) {
+  .sec-content-img {
+    width: 40%;
+    margin: 0 0 0 5%;
+  }
+}
+.sec-content-img img {
+  width: 100%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .sec-content-img {
   margin: 2em 10% 1em 10%;
@@ -825,6 +937,7 @@ a.inline-link.external::before {
   display: inline-block;
   padding: 1em 1em;
   margin: 1em;
+  font-weight: normal;
   -webkit-transition: background-color 100ms ease;
   -moz-transition: background-color 100ms ease;
   -o-transition: background-color 100ms ease;
@@ -933,15 +1046,19 @@ a.inline-link.external::before {
     width: 100%;
   }
 }
+@media only screen and (min-width: 75em), only screen and (min-width: 50em) and (max-width: 75em) and (orientation: landscape) {
+  .content-section .sec-labeled-left .mobile-heading {
+    display: none;
+  }
+}
 .content-section .sec-labeled-left .sec-label {
+  font-weight: lighter;
   width: 25%;
   padding: 0;
   margin: 0;
-  font-size: 90%;
+  font-size: 100%;
   height: calc(100vh - 75px);
   left: 0;
-  background-color: #213e54;
-  color: #ffffff;
   position: -webkit-sticky !important;
   /* Safari */
   position: sticky !important;
@@ -958,12 +1075,20 @@ a.inline-link.external::before {
 .content-section .sec-labeled-left .sec-label .sec-label-inner {
   padding: 6em 0 0 0;
 }
-.content-section .sec-labeled-left .sec-label ul {
+.content-section .sec-labeled-left .sec-label .sec-label-inner .sec-heading {
+  margin: 0 10%;
+}
+.content-section .sec-labeled-left .sec-label .sec-label-inner .sec-heading h2 {
+  padding: 0;
+}
+.content-section .sec-labeled-left .sec-label .sec-label-inner ul {
+  position: absolute;
+  right: 0;
+  top: auto;
   margin-top: 2em;
   list-style: none;
-  padding-left: 40%;
 }
-.content-section .sec-labeled-left .sec-label li a {
+.content-section .sec-labeled-left .sec-label .sec-label-inner li a {
   display: block;
   padding: 0.5em;
   margin: 1em 0;
@@ -972,8 +1097,8 @@ a.inline-link.external::before {
   -o-transition: 250ms ease;
   transition: 250ms ease;
 }
-.content-section .sec-labeled-left .sec-label li a:hover,
-.content-section .sec-labeled-left .sec-label ul li .active {
+.content-section .sec-labeled-left .sec-label .sec-label-inner li a:hover,
+.content-section .sec-labeled-left .sec-label .sec-label-inner ul li .active {
   color: #00293c;
   background-color: #f5f5f5;
   -webkit-transition: 250ms ease;
@@ -984,6 +1109,7 @@ a.inline-link.external::before {
 .content-section .sec-labeled-left .sec-content-text {
   width: 80%;
   margin: 0 10% 0 10%;
+  padding: 0;
 }
 @media only screen and (min-width: 75em), only screen and (min-width: 50em) and (max-width: 75em) and (orientation: landscape) {
   .content-section .sec-labeled-left .sec-content-text {
@@ -1147,9 +1273,17 @@ special classes
   background-color: #fffcf5;
   color: #333;
 }
+.color-light .color-invert {
+  color: #fffcf5;
+  background-color: #333;
+}
 .color-dark {
   background-color: #464646;
   color: #fffcf5;
+}
+.color-dark .color-invert {
+  color: #464646;
+  background-color: #fffcf5;
 }
 .color-blue {
   background-color: #3f597c;
@@ -1163,33 +1297,65 @@ special classes
   background-color: #f5f5f5;
   color: #00293c;
 }
+.color-generic .color-invert {
+  color: #f5f5f5;
+  background-color: #00293c;
+}
 .color-generic-v2 {
+  background-color: #f9f9f9;
   color: #00293c;
-  background-color: #f0f0f0;
+}
+.color-generic-v2 .color-invert {
+  color: #f9f9f9;
+  background-color: #00293c;
 }
 .color-generic-v3 {
-  color: #ffffff;
   background-color: #213e54;
+  color: #ffffff;
+}
+.color-generic-v3 .color-invert {
+  color: #213e54;
+  background-color: #ffffff;
 }
 .color-generic-v3-inverse {
   background-color: #ffffff;
   color: #213e54;
 }
-.color-generic-v4 {
+.color-generic-v3-inverse .color-invert {
   color: #ffffff;
+  background-color: #213e54;
+}
+.color-generic-v4 {
   background-color: #1e3b48;
+  color: #ffffff;
+}
+.color-generic-v4 .color-invert {
+  color: #1e3b48;
+  background-color: #ffffff;
 }
 .color-generic-v4-inverse {
   background-color: #ffffff;
   color: #1e3b48;
 }
+.color-generic-v4-inverse .color-invert {
+  color: #ffffff;
+  background-color: #1e3b48;
+}
 .color-white {
-  color: #00293c;
   background-color: #ffffff;
+  color: #00293c;
+}
+.color-white .color-invert {
+  color: #ffffff;
+  background-color: #00293c;
 }
 .color-generic-inverse {
-  color: #f5f5f5;
   background-color: #213e54;
+  color: #f5f5f5;
+}
+.color-generic-inverse .color-invert {
+  color: #213e54;
+  background-color: #f5f5f5;
 }
 /*other things */
 .force-select {

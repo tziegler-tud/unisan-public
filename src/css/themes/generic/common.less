@@ -265,7 +265,7 @@ button {
         }
 
         .overlay-content {
-
+            font-weight: lighter;
             display: none;
             position: absolute;
             bottom:1em;
@@ -276,6 +276,7 @@ button {
 
             @media @desktop, @tablet-landscape {
                 display: block;
+
 
             }
 
@@ -392,14 +393,24 @@ content sections
     }
 
     .sec-heading {
-        width:          80%;
+        display:        inline-block;
         font-size:      150%;
-        margin:         0 10% 2em 10%;
+        margin:         0 0 2em 0;
 
-        @media @desktop, @tablet-landscape {
-            width:      60%;
-            font-size:  200%;
-            margin:     0em 20% 2em 20%;
+       @media @desktop, @tablet-landscape {
+            font-size:  180%;
+        }
+
+        h1,h2,h3,h4,h5 {
+            display: inline-block;
+            font-size: 100%;
+            font-weight: lighter;
+            margin: 0;
+            padding: 5px 1em;
+
+            @media @desktop, @tablet-landscape {
+                padding: 10px 2em;
+            }
         }
     }
 
@@ -412,8 +423,11 @@ content sections
     }
 
     &.full-height {
-        padding-top:    0;
-        padding-bottom: 0;
+
+        @media @desktop, @tablet-landscape {
+            padding-top:    0;
+            padding-bottom: 0;
+        }
     }
 
 }
@@ -424,7 +438,7 @@ content sections
     margin:         0 5% 0 5%;
 }
 
-.sec-content-text {
+/*.sec-content-text {
 
     width:          90%;
     margin:         0 5% 0 5%;
@@ -438,9 +452,6 @@ content sections
 
     }
 
-    h2 {
-        color: @nav-bg-color;
-    }
 
     .content-text {
         margin-top: 2em;
@@ -482,6 +493,105 @@ content sections
         font-size:      100%;
         font-weight:    bold;
         margin-bottom:  1em;
+    }
+}*/
+
+
+.sec-content-text {
+
+    width: 90%;
+    margin: 0 5% 0 5%;
+    font-size: 120%;
+
+    @media @desktop {
+        width:40%;
+        font-size: 120%;
+        margin:   0;
+        padding: 0 5% 0 10%;
+    }
+
+    a {
+        font-size: 80%;
+    }
+
+    .content-heading {
+
+        h1,h2,h3,h4 {
+            position: relative;
+            display: inline-block;
+            font-size: 130%;
+            font-weight: normal;
+            font-stretch: condensed;
+            margin-bottom: 1em;
+        }
+    }
+
+    .content-text {
+        margin-top: 2em;
+        font-size: 90%;
+        font-weight: lighter;
+
+
+        @media @desktop, @tablet-landscape {
+            font-size: 90%;
+
+        }
+
+        @media @desktop,@tablet-landscape {
+            margin-top: 4em;
+        }
+
+        span {
+            display: block;
+            margin-bottom: 1em;
+        }
+
+        .content-text-part {
+            display: block;
+            margin-bottom: 2em;
+        }
+
+        .quote {
+
+            font-style: italic;
+
+        }
+
+        .subheading {
+
+            font-size: 110%;
+
+        }
+
+        h3,h4 {
+            font-size:100%;
+            margin-top: 2em;
+            font-weight: normal;
+        }
+    }
+
+    h3 {
+        font-size: 100%;
+        margin-top: 2em;
+        font-weight: normal;
+    }
+}
+
+.sec-content-img {
+    margin: 2em 10% 1em 10%;
+    width: 80%;
+
+    @media @desktop {
+        width: 40%;
+        margin: 0 0 0 5%;
+    }
+
+    img {
+        width: 100%;
+        // border-radius: 50%;
+
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
     }
 }
 
@@ -573,6 +683,7 @@ a.inline-link {
     display:            inline-block;
     padding:            1em 1em;
     margin:             1em;
+    font-weight:        normal;
 
     .transition(background-color,100ms);
     a {
@@ -708,18 +819,22 @@ a.inline-link {
 
     }
 
+    .mobile-heading {
+        @media @desktop, @tablet-landscape {
+            display: none;
+        }
+    }
+
     .sec-label {
+
+        font-weight:    lighter;
         width:          25%;
         padding:        0;
         margin:         0;
-        font-size:      90%;
+        font-size:      100%;
 
         height:         calc(~"100vh - 75px");
-
         left:           0;
-
-        background-color:   @content-bg-color-v3;
-        color:              @content-font-color-v3;
 
         position:       -webkit-sticky !important; /* Safari */
         position:       sticky !important;
@@ -739,33 +854,40 @@ a.inline-link {
 
             padding:    6em 0 0 0;
 
-        }
+            .sec-heading {
+                margin: 0 10%;
 
-        ul {
+                h2 {
+                    padding: 0;
+                }
+            }
 
-            margin-top:     2em;
-            list-style:     none;
-            padding-left:   40%;
 
+            ul {
+                position: absolute;
+                right:          0;
+                top:            auto;
+                margin-top:     2em;
+                list-style:     none;
+            }
 
-        }
+            li a{
+                display:        block;
+                padding:        0.5em;
+                margin:         1em 0;
 
-        li a{
-            display:        block;
-            padding:        0.5em;
-            margin:         1em 0;
+                .transition(250ms);
 
-            .transition(250ms);
+            }
 
-        }
+            li a:hover, ul li .active {
 
-        li a:hover, ul li .active {
+                color:              @col1;
+                background-color:   @content-bg-color;
 
-            color:              @col1;
-            background-color:   @content-bg-color;
+                .transition(250ms);
 
-            .transition(250ms);
-
+            }
         }
 
     }
@@ -775,6 +897,7 @@ a.inline-link {
 
         width:              80%;
         margin:             0 10% 0 10%;
+        padding:            0;
 
         @media @desktop, @tablet-landscape {
             width:          65%;
@@ -977,13 +1100,27 @@ special classes
 
 
 .color-light {
-    background-color:       #fffcf5;
-    color:                  #333;
+    @bg:                    #fffcf5;
+    @col:                   #333;
+    background-color:       @bg;
+    color:                  @col;
+
+    .color-invert {
+        color:              @bg;
+        background-color:   @col;
+    }
 }
 
 .color-dark {
-    background-color:       #464646;
-    color:                  #fffcf5;
+    @bg:                    #464646;
+    @col:                   #fffcf5;
+    background-color:       @bg;
+    color:                  @col;
+
+    .color-invert {
+        color:              @bg;
+        background-color:   @col;
+    }
 }
 
 .color-blue {
@@ -997,48 +1134,105 @@ special classes
 }
 
 .color-generic {
-    background-color:       @content-bg-color;
-    color:                  @content-font-color;
+    @bg:                    @content-bg-color;
+    @col:                   @content-font-color;
+    background-color:       @bg;
+    color:                  @col;
+
+    .color-invert {
+        color:              @bg;
+        background-color:   @col;
+    }
+
 }
 
 .color-generic-v2 {
-    color:                  @content-font-color-v2;
-    background-color:       @content-bg-color-v2;
+    @bg:                    @content-bg-color-v2;
+    @col:                   @content-font-color-v2;
+    background-color:       @bg;
+    color:                  @col;
+
+    .color-invert {
+        color:              @bg;
+        background-color:   @col;
+    }
 
 }
 
 .color-generic-v3 {
-    color:                  @content-font-color-v3;
-    background-color:       @content-bg-color-v3;
+    @bg:                    @content-bg-color-v3;
+    @col:                   @content-font-color-v3;
+    background-color:       @bg;
+    color:                  @col;
+
+    .color-invert {
+        color:              @bg;
+        background-color:   @col;
+    }
 
 }
 
 .color-generic-v3-inverse {
-    background-color:       @content-font-color-v3;
-    color:                  @content-bg-color-v3;
+    @bg:       @content-font-color-v3;
+    @col:                  @content-bg-color-v3;
+    background-color:       @bg;
+    color:                  @col;
+
+    .color-invert {
+        color:              @bg;
+        background-color:   @col;
+    }
 
 }
 
 .color-generic-v4 {
-    color:                  @content-font-color-v4;
-    background-color:       @content-bg-color-v4;
+    @col:                  @content-font-color-v4;
+    @bg:       @content-bg-color-v4;
+    background-color:       @bg;
+    color:                  @col;
+
+    .color-invert {
+        color:              @bg;
+        background-color:   @col;
+    }
 
 }
 
 .color-generic-v4-inverse {
-    background-color:       @content-font-color-v4;
-    color:                  @content-bg-color-v4;
+    @bg:       @content-font-color-v4;
+    @col:                  @content-bg-color-v4;
+    background-color:       @bg;
+    color:                  @col;
+
+    .color-invert {
+        color:              @bg;
+        background-color:   @col;
+    }
 
 }
 
 .color-white {
-    color:                  @content-font-color;
-    background-color:       #ffffff;
+    @col:                  @content-font-color;
+    @bg:       #ffffff;
+    background-color:       @bg;
+    color:                  @col;
+
+    .color-invert {
+        color:              @bg;
+        background-color:   @col;
+    }
 }
 
 .color-generic-inverse {
-    color:                  @content-bg-color;
-    background-color:       @col3;
+    @col:                  @content-bg-color;
+    @bg:       @col3;
+    background-color:       @bg;
+    color:                  @col;
+
+    .color-invert {
+        color:              @bg;
+        background-color:   @col;
+    }
 }
 
 

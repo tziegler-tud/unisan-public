@@ -45,13 +45,13 @@
   color: #111;
   margin-bottom: 1em;
 }
-.lidl-imagebox .nav-bottom .lidl-imagebox-image .lidl-imagebox-image-label h1 {
+.lidl-imagebox .nav-bottom .lidl-imagebox-image .lidl-imagebox-image-label h4 {
   margin: 0;
   font-weight: normal;
   font-size: 120%;
 }
 @media only screen and (max-width: 50em) {
-  .lidl-imagebox .nav-bottom .lidl-imagebox-image .lidl-imagebox-image-label h1 {
+  .lidl-imagebox .nav-bottom .lidl-imagebox-image .lidl-imagebox-image-label h4 {
     position: absolute;
     top: -3em;
     left: 20px;

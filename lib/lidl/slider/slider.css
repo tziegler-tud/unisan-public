@@ -114,7 +114,7 @@ Transition Classes
     opacity: 1;
 }
 
-.slider-nav-left > img , .slider-nav-right > img {
+.slider-nav-left > svg , .slider-nav-right > svg {
     width: 100%;
     object-fit: contain;
     position: absolute;

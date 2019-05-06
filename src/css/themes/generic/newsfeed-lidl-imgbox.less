@@ -1,23 +1,28 @@
-@import "../../../src/css/themes/generic/color-rules.less";
-@import "../../../src/css/themes/generic/variables.less";
+/*
+
+styling for the lidl imagebox to make it a newsfeed
+
+*/
+
+@import 'color-rules.less';
+@import 'variables.less';
 
 @bg-color: #f0f0f0;
-@font-color: #111;
+@font-color: #00293c;
 
+.lidl-imagebox.style-newsfeed {
 
+  position: relative;
 
-.lidl-imagebox.style-default {
   font-size: 100%;
   width: 100%;
   z-index: 1;
-  position: relative;
 
   .lidl-imagebox-container {
 
     overflow: hidden;
 
     .lidl-imagebox-slider {
-
       width: 300%;
       overflow: hidden;
       display: flex;
@@ -33,12 +38,18 @@
       .lidl-imagebox-image {
 
         flex: 1 1 min-content;
+        display: flex;
 
         img {
           width: 100%;
+          display: block;
+          flex: 1 1 40%;
         }
 
         .lidl-imagebox-image-label {
+
+          flex: 1 1 60%;
+
           font-size: 80%;
           position: relative;
           background-color: @bg-color;
@@ -165,6 +176,7 @@
         svg {
           margin: auto 0;
           width:  100%;
+          height: 50%;
         }
 
 
@@ -182,7 +194,7 @@
       }
     }
   }
-  &.naviagtion-arrows {
+  &.navigation-arrows {
     width: 90%;
     margin: 0 5%;
 
@@ -190,18 +202,14 @@
 }
 
 
-  /*
-   no javascript fallback
-    */
-  .no-js .lidl-imagebox-container {
-    width: 100%;
-  }
+/*
+ no javascript fallback
+  */
+.no-js .lidl-imagebox-container {
+  width: 100%;
+}
 
-  .no-js .lidl-imagebox-image {
-    width: 100%;
-  }
-
-
-
-
+.no-js .lidl-imagebox-image {
+  width: 100%;
+}
 

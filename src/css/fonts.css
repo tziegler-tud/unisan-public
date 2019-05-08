@@ -19,6 +19,36 @@
     font-style: italic;
 }
 
+@font-face {
+    font-family: 'Open Sans';
+    url('../../fonts/opensans/OpenSans-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+}
+
+/*@font-face {*/
+    /*font-family: 'Open Sans';*/
+    /*font-style: italic;*/
+    /*font-weight: normal;*/
+    /*url('../../fonts/opensans/OpenSans-Italic.ttf')  format('truetype'), !* Safari, Android, iOS *!*/
+/*}*/
+/*@font-face {*/
+    /*font-family: 'Open Sans';*/
+    /*font-style: normal;*/
+    /*font-weight: bold;*/
+/*url('../../fonts/opensans/OpenSans-Bold.ttf')  format('truetype'), !* Safari, Android, iOS *!*/
+/*}*/
+/*@font-face {*/
+    /*font-family: 'Open Sans';*/
+    /*font-style: normal;*/
+    /*font-weight: 200;*/
+/*url('../../fonts/opensans/OpenSans-Light.ttf')  format('truetype'), !* Safari, Android, iOS *!*/
+/*}*/
+/*@font-face {*/
+    /*font-family: 'Open Sans';*/
+    /*font-style: italic;*/
+    /*font-weight: 800;*/
+/*url('../../fonts/opensans/OpenSans-LightItalic.ttf')  format('truetype'), !* Safari, Android, iOS *!*/
+/*}*/
+
 
 
 @font-face {

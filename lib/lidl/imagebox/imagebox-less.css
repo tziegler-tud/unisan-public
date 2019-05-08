@@ -34,7 +34,7 @@
   transition: 500ms ease;
 }
 .lidl-imagebox.style-default .lidl-imagebox-container .lidl-imagebox-slider .lidl-imagebox-image {
-  flex: 1 1 min-content;
+  flex: 1 1 20%;
 }
 .lidl-imagebox.style-default .lidl-imagebox-container .lidl-imagebox-slider .lidl-imagebox-image img {
   width: 100%;

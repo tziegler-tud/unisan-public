@@ -43,7 +43,11 @@ Ids
 
 #content-top {
 
-  font-size: 130%;
+  font-size:  130%;
+
+  @media @phone {
+    opacity:    1 !important;
+  }
 
 
   @media @desktop, @tablet-landscape {
@@ -676,31 +680,53 @@ Classes
 
   width: 90%;
   margin: 0 auto;
+  font-size: 90%;
 
   @media @desktop, @tablet-landscape {
-    width: 80%;
+    width: 100%;
+    max-width: 60em;
   }
 
+
+
   .newsfeed-container {
-    display: flex;
-    flex-flow: row wrap;
-    width: 100%;
+    display:      flex;
+    flex-flow:    column wrap;
+    width:        100%;
+
+    @media @desktop, @tablet-landscape {
+     flex-flow: row wrap;
+    }
 
     .news-item {
 
-      flex: 0 0 100%;
+      flex:       0 0 100%;
+      margin:     .5em 0;
 
-      @media @desktop {
-        flex: 1 1 min-content;
+      @media @desktop, @tablet-landscape {
+        flex:    1 1 30%;
       }
 
       .news-item-inner {
-        height: 100%;
-        margin: 0 10%;
+
+        text-align:       left;
+        height:           100%;
         background-color: #f0f0f0;
         //max-width: 20em;
-        min-width: 15em;
-        position: relative;
+        position:         relative;
+        display:          flex;
+        flex-flow:        column wrap;
+
+        @media @desktop, @tablet-landscape {
+          margin:           0 1em;
+        }
+
+        >div {
+          flex: 0 0 1%; //fallback, as min-content is not supported by chrome atm
+          flex: 0 0 min-content;
+
+        }
+
 
 
 
@@ -714,6 +740,7 @@ Classes
           display: block;
           padding: .5em 1em;
 
+          font-size: 80%;
           font-weight: lighter;
           font-stretch: condensed;
 
@@ -725,7 +752,18 @@ Classes
         }
 
         .news-image {
-          width: 100%;
+          width:    100%;
+          height:   0;
+          overflow: hidden;
+          padding-bottom: 50%;
+          position: relative;
+
+          flex: none;
+
+
+          img {
+
+          }
 
         }
 
@@ -734,10 +772,11 @@ Classes
           margin: 1em auto;
           font-weight: normal;
 
-          font-size: 120%;
+          font-size: 110%;
         }
 
         .news-link {
+          border-top:    1px solid #fff;
           margin-top: auto;
           font-size: 70%;
 

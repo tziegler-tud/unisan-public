@@ -13,14 +13,14 @@
          ** specific js libs
          *********************************** -->
 
-       <script src="src/js/team/init.js"></script>
+       <script src="src/releases/1.01-okt29/js/team/init.js"></script>
 
 
        <!--
          ***********************************
          ** specific css files
          *********************************** -->
-       <link rel="stylesheet" type="text/css" href="src/css/lssc_loader_team.css" />
+       <link rel="stylesheet" type="text/css" href="src/releases/1.01-okt29/css/lssc_loader_team.css" />
 
 </head>
 
@@ -38,7 +38,6 @@
 
 <?php include_once("floating_btn.html"); ?>
 
-<div id="background"></div>
 
 </body>
 </html>

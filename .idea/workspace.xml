@@ -2,17 +2,363 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aaaf2f20-d3dc-4eb7-8f99-4d9649c26d78" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/news.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/hammer/hammer.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news/5gworld.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news/5gworld.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news/gesundheitstag-2019.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news/gesundheitstag-2019.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news/kif-2019.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news/kif-2019.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news/news.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news/news.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news/semesterauftakt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news/semesterauftakt.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news/sommerfest-wu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/lssc_loader_news.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/lssc_loader_welcome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/themes/generic/kontakt-box.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/themes/generic/news.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/themes/generic/welcome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/welcome/init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/.Rhistory" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/dev.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/loader.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/lss_loader.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/lssc_loader.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/lssc_loader.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/lssc_loader_impressum.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/lssc_loader_impressum.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/lssc_loader_index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/lssc_loader_index.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/lssc_loader_kontakt.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/lssc_loader_kontakt.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/lssc_loader_kurse.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/lssc_loader_kurse.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/lssc_loader_mitmachen.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/lssc_loader_mitmachen.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/lssc_loader_news.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/lssc_loader_news.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/lssc_loader_san.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/lssc_loader_san.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/lssc_loader_team.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/lssc_loader_team.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/lssc_loader_welcome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/lssc_loader_welcome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/no-js.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/preloader.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/preloader.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/common/common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/common/drop-down-menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/common/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/common/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/common/loader.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/animations.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/animations.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/color-rules.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/color-rules.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/common.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/contact-bak.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/contact-bak.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/contact-form.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/contact-form.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/contact-new.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/content.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/drop-down-menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/drop-down-menu.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/footer.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/impressum.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/impressum.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/index.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/kontakt-box.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/kontakt-box.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/kontakt.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/kontakt.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/kurse.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/kurse.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/loader.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/loader.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/mitmachen.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/mitmachen.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/news.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/news.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/newsfeed-lidl-imgbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/newsfeed-lidl-imgbox.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/no-js-dash.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/no-js-dash.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/sanitaetsdienst.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/sanitaetsdienst.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/team.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/team.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/variables.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/welcome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/welcome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/workinprogress.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/workinprogress.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/lssc_loader_impressum.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/js/dev.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/js/footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/js/index/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/js/index/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/js/index/init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/js/init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/js/kontakt/contact-form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/js/kontakt/init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/js/kontakt/kontakt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/js/menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/js/mitmachen/init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/js/team/init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/js/welcome/init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/welcome/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/welcome/welcome.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/common-includes.php" beforeDir="false" afterPath="$PROJECT_DIR$/common-includes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datenschutz.html" beforeDir="false" afterPath="$PROJECT_DIR$/datenschutz.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datenschutz.php" beforeDir="false" afterPath="$PROJECT_DIR$/datenschutz.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/index/content/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/index/content/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/index/content/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/index/content/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/index/content/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/impressum.html" beforeDir="false" afterPath="$PROJECT_DIR$/impressum.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impressum.php" beforeDir="false" afterPath="$PROJECT_DIR$/impressum.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index-snippet.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-snippet.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/lidl/imagebox/imagebox-less.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/lidl/imagebox/imagebox-less.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/kontakt.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurse.html" beforeDir="false" afterPath="$PROJECT_DIR$/kurse.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/_hacks.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/_hacks.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/_hacks.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/_hacks.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/_mixins.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/_mixins.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/_mixins.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/_mixins.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/_options.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/_options.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_backward.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_backward.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_backward.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_backward.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_bob.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_bob.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_bounce-in.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_bounce-in.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_bounce-in.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_bounce-in.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_bounce-out.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_bounce-out.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_bounce-out.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_bounce-out.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_buzz-out.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_buzz-out.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_buzz.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_buzz.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_float.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_float.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_float.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_float.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_forward.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_forward.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_forward.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_forward.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_grow-rotate.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_grow-rotate.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_grow-rotate.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_grow-rotate.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_grow.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_grow.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_grow.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_grow.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_hang.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_hang.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_pop.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_pop.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_pulse-grow.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_pulse-grow.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_pulse-shrink.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_pulse-shrink.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_pulse.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_pulse.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_push.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_push.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_rotate.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_rotate.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_rotate.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_rotate.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_shrink.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_shrink.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_shrink.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_shrink.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_sink.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_sink.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_sink.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_sink.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_skew-backward.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_skew-backward.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_skew-backward.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_skew-backward.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_skew-forward.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_skew-forward.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_skew-forward.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_skew-forward.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_skew.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_skew.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_skew.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_skew.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_wobble-bottom.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_wobble-bottom.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_wobble-horizontal.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_wobble-horizontal.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_wobble-skew.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_wobble-skew.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_wobble-to-bottom-right.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_wobble-to-bottom-right.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_wobble-to-top-right.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_wobble-to-top-right.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_wobble-top.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_wobble-top.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/2d-transitions/_wobble-vertical.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_wobble-vertical.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_back-pulse.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_back-pulse.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_bounce-to-bottom.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_bounce-to-bottom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_bounce-to-bottom.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_bounce-to-bottom.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_bounce-to-left.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_bounce-to-left.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_bounce-to-left.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_bounce-to-left.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_bounce-to-right.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_bounce-to-right.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_bounce-to-right.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_bounce-to-right.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_bounce-to-top.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_bounce-to-top.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_bounce-to-top.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_bounce-to-top.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_fade.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_fade.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_fade.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_fade.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_radial-in.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_radial-in.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_radial-in.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_radial-in.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_radial-out.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_radial-out.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_radial-out.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_radial-out.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_rectangle-in.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_rectangle-in.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_rectangle-in.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_rectangle-in.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_rectangle-out.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_rectangle-out.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_rectangle-out.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_rectangle-out.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_shutter-in-horizontal.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_shutter-in-horizontal.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_shutter-in-horizontal.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_shutter-in-horizontal.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_shutter-in-vertical.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_shutter-in-vertical.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_shutter-in-vertical.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_shutter-in-vertical.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_shutter-out-horizontal.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_shutter-out-horizontal.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_shutter-out-horizontal.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_shutter-out-horizontal.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_shutter-out-vertical.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_shutter-out-vertical.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_shutter-out-vertical.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_shutter-out-vertical.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_sweep-to-bottom.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_sweep-to-bottom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_sweep-to-bottom.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_sweep-to-bottom.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_sweep-to-left.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_sweep-to-left.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_sweep-to-left.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_sweep-to-left.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_sweep-to-right.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_sweep-to-right.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_sweep-to-right.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_sweep-to-right.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_sweep-to-top.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_sweep-to-top.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/background-transitions/_sweep-to-top.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_sweep-to-top.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_border-fade.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_border-fade.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_border-fade.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_border-fade.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_hollow.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_hollow.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_hollow.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_hollow.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_outline-in.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_outline-in.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_outline-in.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_outline-in.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_outline-out.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_outline-out.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_outline-out.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_outline-out.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_overline-from-center.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_overline-from-center.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_overline-from-center.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_overline-from-center.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_overline-from-left.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_overline-from-left.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_overline-from-left.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_overline-from-left.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_overline-from-right.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_overline-from-right.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_overline-from-right.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_overline-from-right.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_overline-reveal.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_overline-reveal.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_overline-reveal.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_overline-reveal.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_reveal.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_reveal.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_reveal.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_reveal.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_ripple-in.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_ripple-in.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_ripple-out.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_ripple-out.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_round-corners.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_round-corners.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_round-corners.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_round-corners.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_trim.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_trim.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_trim.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_trim.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_underline-from-center.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_underline-from-center.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_underline-from-center.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_underline-from-center.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_underline-from-left.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_underline-from-left.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_underline-from-left.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_underline-from-left.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_underline-from-right.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_underline-from-right.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_underline-from-right.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_underline-from-right.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_underline-reveal.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_underline-reveal.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/border-transitions/_underline-reveal.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_underline-reveal.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/curls/_curl-bottom-left.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/curls/_curl-bottom-left.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/curls/_curl-bottom-left.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/curls/_curl-bottom-left.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/curls/_curl-bottom-right.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/curls/_curl-bottom-right.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/curls/_curl-bottom-right.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/curls/_curl-bottom-right.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/curls/_curl-top-left.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/curls/_curl-top-left.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/curls/_curl-top-left.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/curls/_curl-top-left.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/curls/_curl-top-right.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/curls/_curl-top-right.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/curls/_curl-top-right.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/curls/_curl-top-right.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-back.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-back.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-back.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-back.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-bob.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-bob.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-bounce-out.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-bounce-out.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-bounce.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-bounce.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-bounce.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-bounce.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-buzz-out.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-buzz-out.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-buzz.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-buzz.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-down.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-down.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-drop.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-drop.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-fade.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-fade.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-fade.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-fade.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-float-away.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-float-away.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-float.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-float.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-float.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-float.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-forward.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-forward.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-forward.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-forward.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-grow-rotate.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-grow-rotate.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-grow-rotate.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-grow-rotate.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-grow.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-grow.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-grow.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-grow.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-hang.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-hang.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-pop.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-pop.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-pulse-grow.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-pulse-grow.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-pulse-shrink.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-pulse-shrink.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-pulse.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-pulse.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-push.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-push.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-rotate.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-rotate.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-rotate.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-rotate.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-shrink.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-shrink.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-shrink.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-shrink.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-sink-away.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-sink-away.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-sink.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-sink.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-sink.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-sink.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-spin.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-spin.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-spin.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-spin.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-up.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-up.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-wobble-horizontal.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-wobble-horizontal.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/icons/_icon-wobble-vertical.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-wobble-vertical.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/shadow-and-glow-transitions/_box-shadow-inset.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/shadow-and-glow-transitions/_box-shadow-inset.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/shadow-and-glow-transitions/_box-shadow-inset.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/shadow-and-glow-transitions/_box-shadow-inset.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/shadow-and-glow-transitions/_box-shadow-outset.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/shadow-and-glow-transitions/_box-shadow-outset.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/shadow-and-glow-transitions/_box-shadow-outset.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/shadow-and-glow-transitions/_box-shadow-outset.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/shadow-and-glow-transitions/_float-shadow.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/shadow-and-glow-transitions/_float-shadow.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/shadow-and-glow-transitions/_float-shadow.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/shadow-and-glow-transitions/_float-shadow.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/shadow-and-glow-transitions/_glow.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/shadow-and-glow-transitions/_glow.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/shadow-and-glow-transitions/_glow.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/shadow-and-glow-transitions/_glow.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/shadow-and-glow-transitions/_grow-shadow.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/shadow-and-glow-transitions/_grow-shadow.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/shadow-and-glow-transitions/_grow-shadow.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/shadow-and-glow-transitions/_grow-shadow.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/shadow-and-glow-transitions/_shadow-radial.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/shadow-and-glow-transitions/_shadow-radial.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/shadow-and-glow-transitions/_shadow-radial.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/shadow-and-glow-transitions/_shadow-radial.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/shadow-and-glow-transitions/_shadow.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/shadow-and-glow-transitions/_shadow.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/shadow-and-glow-transitions/_shadow.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/shadow-and-glow-transitions/_shadow.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/speech-bubbles/_bubble-bottom.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/speech-bubbles/_bubble-bottom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/speech-bubbles/_bubble-bottom.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/speech-bubbles/_bubble-bottom.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/speech-bubbles/_bubble-float-bottom.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/speech-bubbles/_bubble-float-bottom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/speech-bubbles/_bubble-float-bottom.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/speech-bubbles/_bubble-float-bottom.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/speech-bubbles/_bubble-float-left.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/speech-bubbles/_bubble-float-left.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/speech-bubbles/_bubble-float-left.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/speech-bubbles/_bubble-float-left.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/speech-bubbles/_bubble-float-right.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/speech-bubbles/_bubble-float-right.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/speech-bubbles/_bubble-float-right.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/speech-bubbles/_bubble-float-right.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/speech-bubbles/_bubble-float-top.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/speech-bubbles/_bubble-float-top.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/speech-bubbles/_bubble-float-top.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/speech-bubbles/_bubble-float-top.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/speech-bubbles/_bubble-left.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/speech-bubbles/_bubble-left.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/speech-bubbles/_bubble-left.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/speech-bubbles/_bubble-left.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/speech-bubbles/_bubble-right.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/speech-bubbles/_bubble-right.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/speech-bubbles/_bubble-right.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/speech-bubbles/_bubble-right.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/speech-bubbles/_bubble-top.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/speech-bubbles/_bubble-top.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/effects/speech-bubbles/_bubble-top.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/speech-bubbles/_bubble-top.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/hover.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/hover.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hover.css/less/hover.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/hovercss/less/hover.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/lidl/default-navigation/navBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/lidl/default-navigation/navBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/lidl/default-navigation/navComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/lidl/default-navigation/navComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/lidl/default-navigation/navObject.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/lidl/default-navigation/navObject.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/lidl/imagebox/imagebox-less.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/lidl/imagebox/imagebox-less.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/fonts.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mitmachen.html" beforeDir="false" afterPath="$PROJECT_DIR$/mitmachen.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/nav.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news.php" beforeDir="false" afterPath="$PROJECT_DIR$/news/sommerfest-wu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sanitaetsdienst.html" beforeDir="false" afterPath="$PROJECT_DIR$/sanitaetsdienst.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader.less" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_kurse.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_kurse.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_kurse.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_kurse.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_san.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_san.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_san.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_san.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_team.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_team.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_team.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_team.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/animations.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/animations.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/animations.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/animations.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/common.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/common.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/content.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/content.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/content.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/common/content.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/drop-down-menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/drop-down-menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/drop-down-menu.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/drop-down-menu.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/footer.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/footer.less" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/themes/generic/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/themes/generic/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/variables.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/variables.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/index/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/index/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/team/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/team/init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/team.php" beforeDir="false" afterPath="$PROJECT_DIR$/team.php" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -29,94 +375,79 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index-snippet.html">
+        <entry file="file://$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/team.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="61" column="74" selection-start-line="61" selection-start-column="74" selection-end-line="61" selection-end-column="74" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="640">
+              <caret line="165" column="22" lean-forward="true" selection-start-line="165" selection-start-column="22" selection-end-line="165" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/nav.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-126">
-              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/impressum.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="18" selection-end-line="18" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/css/themes/generic/newsfeed-lidl-imgbox.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3294">
-              <caret line="183" column="22" selection-start-line="183" selection-start-column="22" selection-end-line="183" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/lidl/imagebox/lidl-imagebox.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2178">
-              <caret line="121" column="55" selection-start-line="121" selection-start-column="55" selection-end-line="121" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/js/index/init.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/lidl/imagebox/imagebox-less.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/css/fonts.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="23" column="100" selection-start-line="23" selection-start-column="100" selection-end-line="23" selection-end-column="100" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/common-includes.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="101" selection-start-line="5" selection-start-column="101" selection-end-line="5" selection-end-column="101" />
+            <state relative-caret-position="396">
+              <caret line="22" column="52" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/css/themes/generic/index.less">
+        <entry file="file://$PROJECT_DIR$/src/releases/1.01-okt29/css/lssc_loader_team.less">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/common.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="13050">
-              <caret line="725" column="32" selection-start-line="725" selection-start-column="32" selection-end-line="725" selection-end-column="32" />
+            <state relative-caret-position="345">
+              <caret line="892" lean-forward="true" selection-start-line="892" selection-end-line="892" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/releases/1.01-okt29/js/init.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="71" lean-forward="true" selection-start-line="15" selection-start-column="71" selection-end-line="15" selection-end-column="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/lidl/1.01-okt19/core/lidl-0.1b.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7888" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/lidl/1.01-okt19/default-navigation/default-navigation.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/lidl/1.01-okt19/default-navigation/menu.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-368" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/lidl/1.01-okt19/default-navigation/nav.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="752">
+              <caret line="190" column="36" lean-forward="true" selection-start-line="190" selection-start-column="36" selection-end-line="190" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/team.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -129,46 +460,46 @@
         <option value="tsconfig.json" />
         <option value="CSS File" />
         <option value="JavaScript File" />
-        <option value="Less File" />
         <option value="HTML File" />
+        <option value="XSLT Stylesheet" />
+        <option value="Less File" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>@property @time @animation @delay</find>
-      <find>sec2</find>
-      <find>-left</find>
-      <find>force</find>
-      <find>sec-content-</find>
-      <find>sec</find>
-      <find>sec-ful</find>
-      <find>sec-f</find>
-      <find>h1</find>
-      <find>sec-head</find>
-      <find>sec-n</find>
-      <find>sec-con</find>
-      <find>sec-cont</find>
-      <find>color-g</find>
-      <find>h2</find>
-      <find>h</find>
+      <find>spacer</find>
+      <find>s</find>
+      <find>flex</find>
+      <find>contact-co</find>
+      <find>contact-cont</find>
+      <find>name</find>
+      <find>content-inner</find>
+      <find>breadcr</find>
+      <find>transi</find>
+      <find>news</find>
+      <find>akt</find>
+      <find>heading</find>
+      <find>content-heading</find>
+      <find>subhead</find>
       <find>sec-content-te</find>
-      <find>sec-</find>
-      <find>sec-lab</find>
-      <find>sec-labeled-left</find>
-      <find>sec-full</find>
-      <find>full</find>
-      <find>sec-label</find>
-      <find>overlay-</find>
-      <find>page-</find>
-      <find>content3</find>
-      <find>link</find>
-      <find>content-inn</find>
-      <find>min-content</find>
-      <find>min-con</find>
+      <find>large</find>
+      <find>bread</find>
+      <find>sec-flex</find>
+      <find>bg-img</find>
+      <find>floating</find>
+      <find>impress</find>
+      <find>label</find>
+      <find>@col</find>
+      <find>impress-text</find>
+      <find>content-text</find>
+      <find>float</find>
+      <find>navBar.</find>
+      <find>navBar.en</find>
+      <find>lib</find>
+      <find>sec-content-text</find>
     </findStrings>
     <replaceStrings>
-      <replace>@akzent-color</replace>
       <replace>&quot;colorInput</replace>
       <replace>colorstringarray[1]</replace>
       <replace>e</replace>
@@ -198,6 +529,7 @@
       <replace>menu</replace>
       <replace>Menu</replace>
       <replace>opacity 350ms ease-out, visibility 0s linear 350ms</replace>
+      <replace>modules</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/src/js</dir>
@@ -209,56 +541,56 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lib/lidl/default-navigation/navBar.js" />
-        <option value="$PROJECT_DIR$/sanitaetsdienst.php" />
-        <option value="$PROJECT_DIR$/lib/lidl/default-navigation/default-navigation.js" />
-        <option value="$PROJECT_DIR$/lib/lidl/core/lidl-0.1a.js" />
-        <option value="$PROJECT_DIR$/src/js/contact/init.js" />
-        <option value="$PROJECT_DIR$/src/css/themes/generic/contact.less" />
-        <option value="$PROJECT_DIR$/src/js/contact/contact.js" />
-        <option value="$PROJECT_DIR$/kontakt.php" />
-        <option value="$PROJECT_DIR$/src/css/themes/generic/kontakt.less" />
-        <option value="$PROJECT_DIR$/lib/lidl/default-navigation/nav.js" />
-        <option value="$PROJECT_DIR$/../unisan/src/css/themes/generic/index.less" />
-        <option value="$PROJECT_DIR$/floating_btn.html" />
-        <option value="$PROJECT_DIR$/src/css/themes/generic/drop-down-menu.less" />
-        <option value="$PROJECT_DIR$/src/css/themes/generic/variables.less" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/src/js/kontakt/kontakt.js" />
-        <option value="$PROJECT_DIR$/src/js/kontakt/init.js" />
-        <option value="$PROJECT_DIR$/datenschutz.html" />
-        <option value="$PROJECT_DIR$/datenschutz.php" />
-        <option value="$PROJECT_DIR$/src/css/themes/generic/no-js-dash.less" />
-        <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/impressum.html" />
-        <option value="$PROJECT_DIR$/src/js/footer.js" />
+        <option value="$PROJECT_DIR$/src/css/themes/generic/kontakt-box.less" />
         <option value="$PROJECT_DIR$/src/css/themes/generic/team.less" />
-        <option value="$PROJECT_DIR$/src/js/init.js" />
-        <option value="$PROJECT_DIR$/src/js/common.js" />
-        <option value="$PROJECT_DIR$/src/js/index/config.js" />
-        <option value="$PROJECT_DIR$/src/css/themes/generic/footer.less" />
-        <option value="$PROJECT_DIR$/src/js/index/index.js" />
-        <option value="$PROJECT_DIR$/src/css/themes/generic/color-rules.less" />
         <option value="$PROJECT_DIR$/kurse.html" />
         <option value="$PROJECT_DIR$/sanitaetsdienst.html" />
-        <option value="$PROJECT_DIR$/footer.html" />
-        <option value="$PROJECT_DIR$/nav.html" />
-        <option value="$PROJECT_DIR$/kontakt.html" />
-        <option value="$PROJECT_DIR$/mitmachen.html" />
-        <option value="$PROJECT_DIR$/src/css/themes/generic/common.less" />
-        <option value="$PROJECT_DIR$/team.html" />
-        <option value="$PROJECT_DIR$/src/css/lssc_loader_index.less" />
-        <option value="$PROJECT_DIR$/lib/lidl/slider/slider.css" />
-        <option value="$PROJECT_DIR$/lib/lidl/imagebox/lidl-imagebox.js" />
-        <option value="$PROJECT_DIR$/src/css/themes/generic/newsfeed-lidl-imgbox.less" />
-        <option value="$PROJECT_DIR$/src/js/index/init.js" />
-        <option value="$PROJECT_DIR$/news.php.html" />
+        <option value="$PROJECT_DIR$/src/css/lssc_loader_news.less" />
+        <option value="$PROJECT_DIR$/src/css/themes/generic/news.less" />
         <option value="$PROJECT_DIR$/news.php" />
         <option value="$PROJECT_DIR$/news.html" />
-        <option value="$PROJECT_DIR$/index-snippet.html" />
-        <option value="$PROJECT_DIR$/lib/lidl/imagebox/imagebox-less.less" />
+        <option value="$PROJECT_DIR$/src/css/themes/generic/content.less" />
+        <option value="$PROJECT_DIR$/news/kif-2019.php" />
+        <option value="$PROJECT_DIR$/news/gesundheitstag-2019.php" />
+        <option value="$PROJECT_DIR$/news/sommerfest-wu.php" />
+        <option value="$PROJECT_DIR$/news/news.php" />
+        <option value="$PROJECT_DIR$/news/news.html" />
+        <option value="$PROJECT_DIR$/footer.html" />
+        <option value="$PROJECT_DIR$/news/sommerfest-wu.html" />
+        <option value="$PROJECT_DIR$/news/gesundheitstag-2019.html" />
+        <option value="$PROJECT_DIR$/news/kif-2019.html" />
+        <option value="$PROJECT_DIR$/welcome/sanitaetsdienst.php" />
+        <option value="$PROJECT_DIR$/src/css/lssc_loader_welcome.less" />
+        <option value="$PROJECT_DIR$/src/js/team/init.js" />
+        <option value="$PROJECT_DIR$/src/js/welcome/init.js" />
+        <option value="$PROJECT_DIR$/welcome/index.php" />
+        <option value="$PROJECT_DIR$/src/css/themes/generic/welcome.less" />
+        <option value="$PROJECT_DIR$/src/js/index/index.js" />
         <option value="$PROJECT_DIR$/src/css/themes/generic/index.less" />
-        <option value="$PROJECT_DIR$/src/css/fonts.css" />
+        <option value="$PROJECT_DIR$/src/css/themes/generic/common.less" />
+        <option value="$PROJECT_DIR$/src/js/index/config.js" />
+        <option value="$PROJECT_DIR$/src/js/init.js" />
+        <option value="$PROJECT_DIR$/lib/lidl/default-navigation/navObject.js" />
+        <option value="$PROJECT_DIR$/lib/lidl/default-navigation/navBar.js" />
+        <option value="$PROJECT_DIR$/nav.html" />
+        <option value="$PROJECT_DIR$/src/css/themes/generic/drop-down-menu.less" />
+        <option value="$PROJECT_DIR$/lib/lidl/default-navigation/navComponent.js" />
+        <option value="$PROJECT_DIR$/lib/lidl/imagebox/imagebox-less.less" />
+        <option value="$PROJECT_DIR$/lib/lidl/1.01-okt19/imagebox/imagebox-less.less" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/src/css/lssc_loader.less" />
+        <option value="$PROJECT_DIR$/src/releases/1.01-okt19/css/lssc_loader.less" />
+        <option value="$PROJECT_DIR$/welcome/welcome.html" />
+        <option value="$PROJECT_DIR$/news/5gworld.php" />
+        <option value="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/news.less" />
+        <option value="$PROJECT_DIR$/news/5gworld.html" />
+        <option value="$PROJECT_DIR$/news/semesterauftakt.php" />
+        <option value="$PROJECT_DIR$/index-snippet.html" />
+        <option value="$PROJECT_DIR$/news/semesterauftakt.html" />
+        <option value="$PROJECT_DIR$/team.html" />
+        <option value="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/team.less" />
+        <option value="$PROJECT_DIR$/team.php" />
+        <option value="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/common.less" />
         <option value="$PROJECT_DIR$/common-includes.php" />
       </list>
     </option>
@@ -275,10 +607,10 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="221" />
-    <option name="y" value="9" />
-    <option name="width" value="1851" />
-    <option name="height" value="1040" />
+    <option name="x" value="67" />
+    <option name="y" value="27" />
+    <option name="width" value="1853" />
+    <option name="height" value="1053" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -286,6 +618,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -296,41 +629,83 @@
             <path>
               <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
               <item name="unisan-private" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="unisan-private" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="hammer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="unisan-private" type="462c0819:PsiDirectoryNode" />
+              <item name="news" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="unisan-private" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="unisan-private" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="releases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="unisan-private" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="releases" type="462c0819:PsiDirectoryNode" />
+              <item name="1.01-okt29" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="unisan-private" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="releases" type="462c0819:PsiDirectoryNode" />
+              <item name="1.01-okt29" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="unisan-private" type="462c0819:PsiDirectoryNode" />
+              <item name="welcome" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="javascript.nodejs.core.library.configured.version" value="6.14.4" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.10.0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="Less" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/releases" />
+      <recent name="$PROJECT_DIR$/news" />
+      <recent name="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes" />
+      <recent name="$PROJECT_DIR$/modules" />
+      <recent name="$PROJECT_DIR$/lib/lidl/1.01-okt19" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/releases/1.01-okt19/css" />
+      <recent name="$PROJECT_DIR$/news" />
       <recent name="$PROJECT_DIR$/src/js/contact" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/mitmachen" />
-      <recent name="$PROJECT_DIR$/images/index" />
-      <recent name="$PROJECT_DIR$/src/css/themes/common" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/lib/hover.css" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/src/css" />
-      <recent name="$PROJECT_DIR$/src/css/themes/generic" />
-      <recent name="$PROJECT_DIR$/src/js/contact" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -542,12 +917,40 @@
       <workItem from="1557140930247" duration="395000" />
       <workItem from="1557152345594" duration="4182000" />
       <workItem from="1557218056874" duration="4199000" />
-      <workItem from="1557301781375" duration="604000" />
+      <workItem from="1557301781375" duration="1269000" />
+      <workItem from="1558019210551" duration="1682000" />
+      <workItem from="1558361222156" duration="599000" />
+      <workItem from="1559029432412" duration="606000" />
+      <workItem from="1559555483328" duration="22061000" />
+      <workItem from="1559589595239" duration="18412000" />
+      <workItem from="1559860878235" duration="30000" />
+      <workItem from="1559863241268" duration="1146000" />
+      <workItem from="1562066280381" duration="2000" />
+      <workItem from="1562066357326" duration="3681000" />
+      <workItem from="1562152406839" duration="3221000" />
+      <workItem from="1562163939185" duration="4081000" />
+      <workItem from="1562182751881" duration="6202000" />
+      <workItem from="1562507173128" duration="1263000" />
+      <workItem from="1563205786473" duration="1919000" />
+      <workItem from="1563895369137" duration="7566000" />
+      <workItem from="1564138180055" duration="607000" />
+      <workItem from="1569454998626" duration="64000" />
+      <workItem from="1570810102334" duration="7776000" />
+      <workItem from="1570818424995" duration="5700000" />
+      <workItem from="1570879108382" duration="2240000" />
+      <workItem from="1570881487737" duration="5564000" />
+      <workItem from="1570980597421" duration="546000" />
+      <workItem from="1571057972859" duration="82000" />
+      <workItem from="1571145719027" duration="1426000" />
+      <workItem from="1571147208095" duration="204000" />
+      <workItem from="1571149116758" duration="875000" />
+      <workItem from="1572267476523" duration="2456000" />
+      <workItem from="1572344873177" duration="2513000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="920143000" />
+    <option name="totallyTimeSpent" value="1023332000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -562,6 +965,27 @@
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49376947" visible="true" weight="0.16120219" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.50623053" side_tool="true" weight="0.1577511" />
+      <window_info id="npm" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32937366" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48144105" weight="0.32721382" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32829374" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.51311475" side_tool="true" weight="0.32829374" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.48688525" weight="0.32829374" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32937366" />
+      <window_info anchor="bottom" id="Thumbnails" order="10" weight="0.3291536" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49376947" visible="true" weight="0.1557377" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.50623053" side_tool="true" weight="0.1577511" />
@@ -572,31 +996,12 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3291536" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.518559" side_tool="true" weight="0.32829374" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49290392" weight="0.32829374" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32829374" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.51311475" side_tool="true" weight="0.32829374" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.48688525" weight="0.32829374" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32937366" />
       <window_info anchor="bottom" id="Thumbnails" order="10" weight="0.3291536" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49376947" visible="true" weight="0.1577511" />
-      <window_info id="Structure" order="1" weight="0.25" />
-      <window_info id="Favorites" order="2" sideWeight="0.50623053" side_tool="true" weight="0.1577511" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32959184" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48144105" weight="0.32879582" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3291536" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.518559" side_tool="true" weight="0.32879582" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49290392" weight="0.32879582" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Thumbnails" order="10" weight="0.3291536" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -609,348 +1014,272 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datenschutz.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1116">
-          <caret line="62" column="36" selection-start-line="62" selection-start-column="36" selection-end-line="62" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/datenschutz.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/no-js-dash.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/kontakt/kontakt.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2412">
-          <caret line="134" selection-start-line="134" selection-end-line="134" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/kontakt/init.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/js/menu.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/lidl/default-navigation/default-navigation.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/hover.css/less/effects/curls/_curl-top-left.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/floating_btn.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/workinprogress.less">
+    <entry file="file://$PROJECT_DIR$/lib/lidl/default-navigation/menu.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/lidl/core/lidl-0.1b.js">
+    <entry file="file://$PROJECT_DIR$/lib/lidl/default-navigation/navObject.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3870">
-          <caret line="215" column="98" lean-forward="true" selection-start-line="215" selection-start-column="7" selection-end-line="215" selection-end-column="98" />
+        <state relative-caret-position="316">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/menu.js">
+    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/index.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4374">
-          <caret line="243" column="8" selection-start-line="243" selection-start-column="8" selection-end-line="243" selection-end-column="8" />
+        <state relative-caret-position="738">
+          <caret line="918" column="19" selection-start-line="918" selection-start-column="19" selection-end-line="918" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/kontakt.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3654">
-          <caret line="203" selection-start-line="203" selection-end-line="203" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/variables.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="85" selection-start-line="24" selection-start-column="85" selection-end-line="24" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/footer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/team.less">
+    <entry file="file://$PROJECT_DIR$/nav.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret lean-forward="true" />
+          <caret column="27" selection-start-column="27" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/index.js" />
-    <entry file="file://$PROJECT_DIR$/src/js/common.js">
+    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/drop-down-menu.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="193" column="38" selection-start-line="193" selection-start-column="38" selection-end-line="193" selection-end-column="38" />
+        <state relative-caret-position="2340">
+          <caret line="130" column="22" selection-start-line="130" selection-start-column="22" selection-end-line="130" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/kurse.less">
+    <entry file="file://$PROJECT_DIR$/lib/lidl/default-navigation/nav.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
-          <folding>
-            <element signature="e#2238#2656#2" expanded="true" />
-          </folding>
+        <state relative-caret-position="281">
+          <caret line="134" column="30" selection-start-line="134" selection-start-column="30" selection-end-line="134" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/index/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/index/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/init.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/color-rules.less">
+    <entry file="file://$PROJECT_DIR$/lib/lidl/default-navigation/navBar.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
-          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+          <caret line="39" column="36" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/footer.html">
+    <entry file="file://$PROJECT_DIR$/lib/lidl/default-navigation/navComponent.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="954">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        <state relative-caret-position="504">
+          <caret line="49" column="14" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/releases/1.01-okt19/js/team/init.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/lidl/1.01-okt19/core/errors.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/lidl/1.01-okt19/imagebox/imagebox-less.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/lidl/imagebox/imagebox-less.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/kontakt.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/kontakt.html">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2754">
-          <caret line="153" column="70" selection-start-line="153" selection-start-column="70" selection-end-line="153" selection-end-column="70" />
+        <state relative-caret-position="342">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mitmachen.html">
+    <entry file="file://$PROJECT_DIR$/modules/hamburgers/hamburgers.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/lssc_loader.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="44" column="63" lean-forward="true" selection-start-line="44" selection-start-column="63" selection-end-line="44" selection-end-column="63" />
+        <state relative-caret-position="234">
+          <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/common.less">
+    <entry file="file://$PROJECT_DIR$/src/releases/1.01-okt19/css/lssc_loader.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16668">
-          <caret line="926" column="33" selection-start-line="926" selection-start-column="33" selection-end-line="926" selection-end-column="33" />
+        <state relative-caret-position="198">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kurse.html">
+    <entry file="file://$PROJECT_DIR$/src/releases/1.01-okt19/css/lssc_loader_impressum.less">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/releases/1.01-okt19/css/lssc_loader_index.less">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/releases/1.01-okt19/css/lssc_loader_kontakt.less">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/releases/1.01-okt19/css/lssc_loader_kurse.less">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/welcome/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2952">
-          <caret line="164" column="69" selection-start-line="164" selection-start-column="69" selection-end-line="164" selection-end-column="69" />
+        <state relative-caret-position="216">
+          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/releases/1.01-okt19/css/lssc_loader_mitmachen.less">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/releases/1.01-okt19/css/lssc_loader_san.less">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/news.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="846">
+          <caret line="47" column="25" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/releases/1.01-okt19/css/lssc_loader_news.less">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/releases/1.01-okt19/css/lssc_loader_team.less">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-snippet.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1998">
+          <caret line="111" column="7" selection-start-line="111" selection-start-column="7" selection-end-line="111" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/welcome/welcome.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2556">
+          <caret line="142" column="170" selection-start-line="142" selection-start-column="170" selection-end-line="142" selection-end-column="197" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news/5gworld.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news/5gworld.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="51" column="59" selection-start-line="51" selection-start-column="59" selection-end-line="51" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news/semesterauftakt.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="39" column="35" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news/sommerfest-wu.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/common.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9864">
+          <caret line="548" column="19" selection-start-line="548" selection-start-column="19" selection-end-line="548" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/releases/1.01-okt19/css/lssc_loader_welcome.less">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/releases/1.01-okt19/css/preloader.less">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news/semesterauftakt.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/team.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3744">
-          <caret line="208" column="44" lean-forward="true" selection-start-line="208" selection-start-column="44" selection-end-line="208" selection-end-column="44" />
+        <state relative-caret-position="522">
+          <caret line="335" column="57" selection-start-line="335" selection-start-column="57" selection-end-line="335" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/impressum.less">
+    <entry file="file://$PROJECT_DIR$/src/releases/1.01-okt29/js/team/init.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/lidl/slider/lidl-slider.js">
+    <entry file="file://$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/team.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="604">
-          <caret line="209" column="42" lean-forward="true" selection-start-line="209" selection-start-column="42" selection-end-line="209" selection-end-column="42" />
+        <state relative-caret-position="640">
+          <caret line="165" column="22" lean-forward="true" selection-start-line="165" selection-start-column="22" selection-end-line="165" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/footer.less">
+    <entry file="file://$PROJECT_DIR$/team.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7488">
-          <caret line="418" column="29" selection-start-line="418" selection-start-column="29" selection-end-line="418" selection-end-column="29" />
-          <folding>
-            <element signature="e#345#366#0" />
-            <element signature="e#8106#8528#2" expanded="true" />
-          </folding>
+        <state relative-caret-position="450">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sanitaetsdienst.html">
+    <entry file="file://$PROJECT_DIR$/src/releases/1.01-okt29/css/lssc_loader_team.less">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/common.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="345">
+          <caret line="892" lean-forward="true" selection-start-line="892" selection-end-line="892" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/lssc_loader_index.less">
+    <entry file="file://$PROJECT_DIR$/src/releases/1.01-okt29/js/init.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+        <state relative-caret-position="270">
+          <caret line="15" column="71" lean-forward="true" selection-start-line="15" selection-start-column="71" selection-end-line="15" selection-end-column="71" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/lidl/slider/slider.css">
+    <entry file="file://$PROJECT_DIR$/modules/lidl/1.01-okt19/core/lidl-0.1b.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1746">
-          <caret line="97" selection-start-line="97" selection-end-line="122" selection-end-column="1" />
-        </state>
+        <state relative-caret-position="-7888" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/news.php">
+    <entry file="file://$PROJECT_DIR$/modules/lidl/1.01-okt19/default-navigation/default-navigation.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/lidl/1.01-okt19/default-navigation/menu.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="34" column="35" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
-        </state>
+        <state relative-caret-position="-368" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mitmachen.php">
+    <entry file="file://$PROJECT_DIR$/modules/lidl/1.01-okt19/default-navigation/nav.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="44" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/news.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/lidl/imagebox/imagebox-less.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index-snippet.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="61" column="74" selection-start-line="61" selection-start-column="74" selection-end-line="61" selection-end-column="74" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#1;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/impressum.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="18" selection-end-line="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/newsfeed-lidl-imgbox.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3294">
-          <caret line="183" column="22" selection-start-line="183" selection-start-column="22" selection-end-line="183" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/lidl/imagebox/lidl-imagebox.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2178">
-          <caret line="121" column="55" selection-start-line="121" selection-start-column="55" selection-end-line="121" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/index/init.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/lidl/imagebox/imagebox-less.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/fonts.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="100" selection-start-line="23" selection-start-column="100" selection-end-line="23" selection-end-column="100" />
+        <state relative-caret-position="752">
+          <caret line="190" column="36" lean-forward="true" selection-start-line="190" selection-start-column="36" selection-end-line="190" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/common-includes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="101" selection-start-line="5" selection-start-column="101" selection-end-line="5" selection-end-column="101" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/index.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13050">
-          <caret line="725" column="32" selection-start-line="725" selection-start-column="32" selection-end-line="725" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nav.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-126">
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        <state relative-caret-position="396">
+          <caret line="22" column="52" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
         </state>
       </provider>
     </entry>

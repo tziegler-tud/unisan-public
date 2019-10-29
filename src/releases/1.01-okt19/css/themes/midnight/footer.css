@@ -1,0 +1,55 @@
+.theme-midnight #footer {
+    width: 100%;
+
+    background-color: #464646;
+    color: #cbcbcb;
+
+    padding: 10px 0;
+
+    font-family: Sans;
+    font-size: 90%;
+
+
+
+    border-top: 2px solid #ff9900;
+}
+
+
+
+.theme-midnight #footer-left label {
+    padding-left: 30%;
+    display: block;
+    width:60%;
+    color: #ff9900;
+
+}
+
+
+.theme-midnight #footer-left li {
+    list-style: none;
+    margin: .35em;
+
+    opacity: 1;
+
+    text-decoration: none;
+
+}
+
+.theme-midnight #footer-left li:hover {
+    text-decoration: underline;
+    color: #ff9900;
+    cursor: pointer;
+
+    opacity: 1;
+
+    -webkit-transition: 500ms ease;
+    -moz-transition: 500ms ease;
+    -o-transition: 500ms ease;
+    transition: 500ms ease;
+}
+
+
+
+.theme-midnight #footer-right .contact-label {
+    color: #ff9900;
+}

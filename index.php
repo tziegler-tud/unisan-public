@@ -16,8 +16,8 @@
          ** specific js libs
          *********************************** -->
 
-         <script src="src/js/index/init.js"></script>
-         <script src="src/js/index/index.js"></script>
+         <script src="src/releases/1.01-okt19/js/index/init.js"></script>
+         <script src="src/releases/1.01-okt19/js/index/index.js"></script>
      
 
 
@@ -25,7 +25,7 @@
          ***********************************
          ** specific css files
          *********************************** -->
-       <link rel="stylesheet" type="text/css" href="src/css/lssc_loader_index.css" />
+       <link rel="stylesheet" type="text/css" href="src/releases/1.01-okt19/css/lssc_loader_index.css" />
 
 </head>
 <body>

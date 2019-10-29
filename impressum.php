@@ -40,7 +40,6 @@
 
 <?php include_once("floating_btn.html"); ?>
 
-<div id="background"></div>
 
 </body>
 </html>

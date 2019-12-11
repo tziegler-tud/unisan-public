@@ -6,8 +6,22 @@ $(document).ready (function () {
 
 
         var token = lidlRTO.objectManager.createNewObjectToken();
-        const imgBox01 = new lidl.Imagebox("lidl-imagebox01", token);
+        const imgBox01 = new lidl.Imagebox("lidl-imagebox01", token, {});
         lidlRTO.objectManager.addObject(imgBox01, token);
+
+        /*
+        impress-slider
+         */
+
+        var token2 = lidlRTO.objectManager.createNewObjectToken();
+        var args = {
+            layout: 0,
+            startIndex: 0,
+            classes: "impress-slider"
+        };
+
+        const imgBox02 = new lidl.Imagebox("lidl-imagebox02", token2, args);
+        lidlRTO.objectManager.addObject(imgBox02, token2);
 
         var mc = new Hammer.Manager(imgBox01.getContainerDomElement());
         mc.add(new Hammer.Swipe({direction: Hammer.DIRECTION_HORIZONTAL, threshold: 30}));

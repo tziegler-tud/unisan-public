@@ -40,6 +40,7 @@
      * args.imagePath {string} ['images/imagebox'] Path to draw images from. Defaults to 'images/imagebox'.
      * args.layout {int} [0] choose Layout. Defaults to 0.
      * args.classes string [default-stlye] css classes to append the container.
+     * args.enableRepeat bool restart when scrolling past the last slide
      *
      * @class
      * @constructor
@@ -49,15 +50,23 @@
     lidl.Imagebox = function (imageboxDomId, token, args) {
 
 
-        args.startIndex = args.startIndex ? 0 : args.startIndex;
-        args.imagePath = args.imagePath ? 'images/imagebox' : args.imagePath;
-        args.layout = args.layout ? 0 : args.layout;
-        args.classes = args.classes ? "default-style" : args.classes;
+        args.startIndex = args.startIndex ? args.startIndex : 0;
+        args.imagePath = args.imagePath ? args.imagePath : 'images/imagebox';
+        args.layout = args.layout ? args.layout : 0;
+        args.classes = args.classes ? args.classes: "default-style";
+        if(args.callbacks) args.callbacks.onImageChange = args.callbacks.onImageChange ? args.callbacks.onImageChange : function(){};
 
         this.args = args;
 
-        console.log('creating imagebox...');
+       if(args.animationDelay) {
+           AnimationLock.enable();
+           AnimationLock.setDelay(args.animationDelay, "ms");
+       }
+       else {
+           AnimationLock.disable();
+       }
 
+        console.log('creating imagebox...');
         var self = this;
 
         this.token = token;
@@ -69,9 +78,11 @@
         this.currentImage = null;
 
         this.parent = document.getElementById(imageboxDomId);
-        this.container = document.getElementById(imageboxDomId + "-slider");
+        this.container = this.parent.getElementsByClassName("lidl-imagebox-slider")[0];
 
         this.navigationDotsEnbaled = false;
+
+        this.navigation = undefined;
 
 
 
@@ -91,7 +102,7 @@
 
             case 0:
                 //navigation at bottom
-                this.navigation = createNavigationBottom();
+                this.navigation = createNavigationBottom(this);
                 this.container.classList.add("navigation-bottom");
                 this.navigationDotsEnbaled = true;
                 //this.calcDimensions();
@@ -111,7 +122,7 @@
 
             case 3:
                 //navigational arrows
-                this.navigation = createNavigationArrows();
+                this.navigation = createNavigationArrows(this);
                 this.parent.classList.add("navigation-arrows");
                 break;
 
@@ -122,10 +133,10 @@
         }
 
         var s = "";
-        args.classes.forEach(function(el){
+        args.classes.split(" ").forEach(function(el){
            s = s +  el + " ";
         });
-        this.parent.classList.add(s);
+        if(s.length > 0) this.parent.classList.add(s.slice(0,s.length -1));
 
         //this.createNavigationBottom();
         showImage(this, args.startIndex);
@@ -136,17 +147,27 @@
 
 
     var showImage = function(self, imgIndex){
+        if(!AnimationLock.lock()) return false;
+        var currentImage = self.images[self.currentImageIndex];
         var img = self.images[imgIndex];
         if (img === undefined) {
+            AnimationLock.unlock();
             throw new RangeError();
         }
         else {
+
             $(self.container).css({
-                'transform': 'translateX(-'+ imgIndex * 33.3 +'%)'
+                'transform': 'translateX(-'+ imgIndex * (100/self.images.length) +'%)'
             });
 
             if(self.navigationDotsEnbaled){setActiveNavDot(self, self.currentImageIndex, imgIndex);}
             self.currentImageIndex = parseInt(imgIndex);
+            var res = {
+                self: self,
+                currentImg: currentImage,
+                nextImg: img
+            };
+            if(self.args.callbacks) self.args.callbacks.onImageChange(res);
 
             return true;
         }
@@ -173,10 +194,14 @@
      */
 
     lidl.Imagebox.prototype.nextImage = function(){
+        var self = this;
         try {
-            showImage(this,this.currentImageIndex+1);
+            showImage(self,self.currentImageIndex+1);
         }
         catch(err) {
+            if(self.args.enableRepeat){
+                showImage(self, 0)
+            }
             return false;
         }
     };
@@ -197,7 +222,7 @@
 
     /**
      * Highlights the navigation dot matching the currently displayed image. Removes highlighting from previously active dot.
-     *
+     * @param{Object} self
      * @param{int} oldIndex
      * @param{int} newIndex
      */
@@ -307,6 +332,71 @@
     lidl.Imagebox.prototype.getContainerDomElement = function (){
         return this.parent;
     };
+
+    /*
+    animation lock state module
+     */
+
+    var AnimationLock = (function(){
+        var enabled = false;
+        var locked = false;
+        var delay = 0;
+        var delayUnit = "ms";
+        var delayFactor = 1;
+
+        var animationLock = {};
+
+        animationLock.enable = function(bool){
+            typeof(bool) == "undefined" ? enabled = true : enabled = bool ;
+        };
+        animationLock.disable = function (bool){
+            typeof(bool) == "undefined" ? enabled = false : enabled = !bool ;
+        };
+
+        animationLock.setDelay =  function(int, string) {
+            delay = int;
+            switch(string){
+                case "s":
+                    delayUnit=string;
+                    delayFactor=1000;
+                    break;
+                case "ms":
+                    delayUnit=string;
+                    delayFactor=1;
+                    break;
+                default:
+                    console.warn("lidl.Imagebox: [AnimationLock] unknown time unit");
+                    break;
+            }
+        };
+
+        animationLock.getDelay = function(){
+            return "" + delay + "delayUnit";
+        };
+
+        animationLock.lock = function(){
+            if(!enabled) return true;
+            if(locked){
+                return false;
+            }
+            else {
+                locked = true;
+                setTimeout(unlock, delay*delayFactor);
+                return true;
+            }
+        };
+
+        animationLock.unlock = function(){
+          unlock();
+        };
+
+        var unlock = function(){
+            locked = false;
+        };
+
+        return animationLock;
+
+    }());
 
     return lidl;
 }(lidl = window.lidl || {},jQuery));

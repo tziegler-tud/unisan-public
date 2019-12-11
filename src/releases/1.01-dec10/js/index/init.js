@@ -55,7 +55,7 @@ $(document).ready (function () {
     (function(){
         var nav = imgBox02.navigation;
         if(nav) {
-         nav.append()
+            nav.append()
         }
     }());
 

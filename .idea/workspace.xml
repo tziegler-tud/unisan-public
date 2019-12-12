@@ -2,176 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aaaf2f20-d3dc-4eb7-8f99-4d9649c26d78" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-includes.php" beforeDir="false" afterPath="$PROJECT_DIR$/common-includes.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datenschutz.html" beforeDir="false" afterPath="$PROJECT_DIR$/datenschutz.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/datenschutz.php" beforeDir="false" afterPath="$PROJECT_DIR$/datenschutz.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/common.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/core_lidl-0.1a.js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-Bold-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-Bold-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-Bold-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-BoldItalic-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-BoldItalic-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-BoldItalic-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-Italic-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-Italic-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-Italic-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-Light-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-Light-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-Light-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-LightItalic-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-LightItalic-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-LightItalic-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-Regular-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-Regular-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-Regular-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/imagebox_lidl-imagebox.js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lib_lidl_core_lidl-0.1a.js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lib_lidl_imagebox_lidl-imagebox.js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lib_lidl_slider_lidl-slider.js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lidl.Imagebox.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lidl.Main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lidl.ObjectManager.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lidl.Slider.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lidl.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/scripts/linenumber.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/scripts/prettify/Apache-License-2.0.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/scripts/prettify/lang-css.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/scripts/prettify/prettify.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/slider_lidl-slider.js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/src_js_common.js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/styles/jsdoc-default.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/styles/prettify-jsdoc.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/styles/prettify-tomorrow.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Logo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/index/content/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/index/content/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/index/content/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/index/content/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/index/content/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/index/index1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/index/index1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/index/index2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/index/index2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/index/index3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/index/index3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kompaktlogo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kompaktlogo_small.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kompaktlogo_small.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kompaktlogo_transparent.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kompaktlogo_transparent_invertiert.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kompaktlogo_transparent_invertiert_small.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kompaktlogo_transparent_invertiert_smaller.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kompaktlogo_transparent_small.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kontakt/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/kontakt/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kontakt/1_250.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/kontakt/1_250.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kontakt/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/kontakt/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kontakt/2_250.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/kontakt/2_250.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kontakt/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/kontakt/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kontakt/3_250.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/kontakt/3_250.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kurse/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/kurse/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kurse/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/kurse/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kurse/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/kurse/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kurse/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/kurse/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kurse/header.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/kurse/header.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/kurse/header_mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/kurse/header_mobile.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo_small.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/mitmachen/header.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/mitmachen/header.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/mitmachen/header2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/mitmachen/header_mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/mitmachen/header_mobile.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sanitaetsdienst/header.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/sanitaetsdienst/header.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sanitaetsdienst/header_mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/sanitaetsdienst/header_mobile.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slider/slide1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/slider/slide1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slider/slide2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/slider/slide2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/12.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team/13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/13.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team/14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/14.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team/15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/15.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team/16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/16.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team/17.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/17.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team/18.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/18.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team/19.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/19.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team/5-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/6.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/7.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/8.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team/9 (copy).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/9 (copy).jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team/9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team/header.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/header.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team/header_mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/header_mobile.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/impressum.html" beforeDir="false" afterPath="$PROJECT_DIR$/impressum.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/impressum.php" beforeDir="false" afterPath="$PROJECT_DIR$/impressum.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index-snippet.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-snippet.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/kontakt.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kurse.html" beforeDir="false" afterPath="$PROJECT_DIR$/kurse.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/lidl/default-navigation/navBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/lidl/default-navigation/navBar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/lidl/default-navigation/navComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/lidl/default-navigation/navComponent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/lidl/default-navigation/navObject.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/lidl/default-navigation/navObject.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/lidl/imagebox/imagebox-less.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/lidl/imagebox/imagebox-less.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/lidl/imagebox/imagebox-less.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/lidl/imagebox/imagebox-less.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/lidl/imagebox/lidl-imagebox.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/lidl/imagebox/lidl-imagebox.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/lidl/slider/slider.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/lidl/slider/slider.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mitmachen.html" beforeDir="false" afterPath="$PROJECT_DIR$/mitmachen.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/nav.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sanitaetsdienst.html" beforeDir="false" afterPath="$PROJECT_DIR$/sanitaetsdienst.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saveColToDb.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/fonts.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_impressum.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_impressum.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_index.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_kontakt.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_kontakt.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_kurse.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_kurse.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_kurse.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_kurse.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_mitmachen.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_mitmachen.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_san.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_san.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_san.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_san.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_team.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_team.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_team.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_team.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/preloader.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/preloader.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/animations.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/animations.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/animations.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/animations.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/color-rules.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/color-rules.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/color-rules.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/color-rules.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/common.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/common.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/contact-bak.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/contact-bak.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/contact-form.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/contact-form.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/content.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/content.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/content.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/drop-down-menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/drop-down-menu.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/drop-down-menu.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/drop-down-menu.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/footer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/footer.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/footer.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/impressum.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/impressum.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/index.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/kontakt.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/kontakt.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/kurse.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/kurse.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/mitmachen.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/mitmachen.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/no-js-dash.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/no-js-dash.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/sanitaetsdienst.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/sanitaetsdienst.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/team.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/team.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/team.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/team.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/variables.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/variables.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/common.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/index/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/index/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/index/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/index/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/index/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/index/init.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/init.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/team/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/team/init.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team.php" beforeDir="false" afterPath="$PROJECT_DIR$/team.php" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -190,8 +21,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index-snippet.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1040">
-              <caret line="198" column="26" lean-forward="true" selection-start-line="198" selection-start-column="26" selection-end-line="198" selection-end-column="26" />
+            <state relative-caret-position="139">
+              <caret line="193" column="38" selection-start-line="193" selection-start-column="38" selection-end-line="193" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kontakt.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="560">
+              <caret line="160" column="169" selection-start-line="160" selection-start-column="169" selection-end-line="160" selection-end-column="169" />
             </state>
           </provider>
         </entry>
@@ -302,7 +142,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/mitmachen.html" />
         <option value="$PROJECT_DIR$/contact-form.html" />
         <option value="$PROJECT_DIR$/src/css/themes/lssc_loader_impressum.less" />
         <option value="$PROJECT_DIR$/src/css/lssc_loader_impressum.less" />
@@ -353,6 +192,7 @@
         <option value="$PROJECT_DIR$/src/css/themes/generic/no-js-dash.less" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/kontakt.html" />
+        <option value="$PROJECT_DIR$/index-snippet.html" />
       </list>
     </option>
   </component>
@@ -386,6 +226,16 @@
               <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
               <item name="unisan-private" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="unisan-private" type="462c0819:PsiDirectoryNode" />
+              <item name="news" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="unisan-private" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -404,19 +254,19 @@
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/src/css" />
-      <recent name="$PROJECT_DIR$/src/css/themes/generic" />
-      <recent name="$PROJECT_DIR$/src/js/contact" />
-      <recent name="$PROJECT_DIR$/lib/waypoints" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/js/contact" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/mitmachen" />
       <recent name="$PROJECT_DIR$/images/index" />
       <recent name="$PROJECT_DIR$/src/css/themes/common" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/css" />
+      <recent name="$PROJECT_DIR$/src/css/themes/generic" />
+      <recent name="$PROJECT_DIR$/src/js/contact" />
+      <recent name="$PROJECT_DIR$/lib/waypoints" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -612,7 +462,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="808584000" />
+    <option name="totallyTimeSpent" value="808610000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -843,9 +693,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/index.js" />
     <entry file="file://$PROJECT_DIR$/src/js/menu.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2862">
@@ -977,15 +825,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/kontakt.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="568">
+        <state relative-caret-position="560">
           <caret line="160" column="169" selection-start-line="160" selection-start-column="169" selection-end-line="160" selection-end-column="169" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index-snippet.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1040">
-          <caret line="198" column="26" lean-forward="true" selection-start-line="198" selection-start-column="26" selection-end-line="198" selection-end-column="26" />
+        <state relative-caret-position="139">
+          <caret line="193" column="38" selection-start-line="193" selection-start-column="38" selection-end-line="193" selection-end-column="38" />
         </state>
       </provider>
     </entry>

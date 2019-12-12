@@ -655,35 +655,38 @@ body > .btn-jmptop {
     display: none;
   }
 }
-.impress-text {
+.impress-text,
+.impress-link {
   width: 90%;
   padding: 1em 5% 2em 5%;
-  font-size: 100%;
 }
-.impress-text.full-width {
+.impress-text.full-width,
+.impress-link.full-width {
   width: 100%;
 }
-.impress-text.centering {
+.impress-text.centering,
+.impress-link.centering {
   margin: 0 auto;
   text-align: center;
 }
-@media only screen and (min-width: 75em) {
-  .impress-text {
-    font-size: 120%;
-  }
-}
-.impress-text .content-link {
+.impress-text .content-link,
+.impress-link .content-link {
   font-size: 70%;
 }
-.impress-text .content-heading .label {
+.impress-text .content-heading .label,
+.impress-link .content-heading .label {
   margin-bottom: 0;
   color: #c31d34;
   font-weight: bold;
 }
 .impress-text .content-heading h1,
+.impress-link .content-heading h1,
 .impress-text .content-heading h2,
+.impress-link .content-heading h2,
 .impress-text .content-heading h3,
-.impress-text .content-heading h4 {
+.impress-link .content-heading h3,
+.impress-text .content-heading h4,
+.impress-link .content-heading h4 {
   position: relative;
   display: inline-block;
   font-size: 130%;
@@ -691,43 +694,54 @@ body > .btn-jmptop {
   font-stretch: condensed;
   margin-bottom: 1em;
 }
-.impress-text .content-text {
+.impress-text .content-text,
+.impress-link .content-text {
   margin-top: 2em;
   font-size: 90%;
   font-weight: lighter;
 }
 @media only screen and (min-width: 75em), only screen and (min-width: 50em) and (max-width: 75em) and (orientation: landscape) {
-  .impress-text .content-text {
+  .impress-text .content-text,
+  .impress-link .content-text {
     margin-top: 4em;
   }
 }
-.impress-text .content-text.large {
+.impress-text .content-text.large,
+.impress-link .content-text.large {
   font-size: 130%;
 }
-.impress-text .content-text.no-margin {
+.impress-text .content-text.no-margin,
+.impress-link .content-text.no-margin {
   margin: 0;
 }
-.impress-text .content-text span {
-  display: inline-block;
+.impress-text .content-text span,
+.impress-link .content-text span {
+  display: block;
   margin-bottom: 1em;
 }
-.impress-text .content-text .content-text-part {
+.impress-text .content-text .content-text-part,
+.impress-link .content-text .content-text-part {
   display: block;
   margin-bottom: 2em;
 }
-.impress-text .content-text .quote {
+.impress-text .content-text .quote,
+.impress-link .content-text .quote {
   font-style: italic;
 }
-.impress-text .content-text .subheading {
+.impress-text .content-text .subheading,
+.impress-link .content-text .subheading {
   font-size: 110%;
 }
 .impress-text .content-text h3,
-.impress-text .content-text h4 {
+.impress-link .content-text h3,
+.impress-text .content-text h4,
+.impress-link .content-text h4 {
   font-size: 100%;
   margin-top: 2em;
   font-weight: normal;
 }
-.impress-text h3 {
+.impress-text h3,
+.impress-link h3 {
   font-size: 100%;
   margin-top: 2em;
   font-weight: normal;
@@ -744,12 +758,14 @@ body > .btn-jmptop {
     font-size: 100%;
   }
 }
-#sec0 .impress-inner .impress-text {
+#sec0 .impress-inner .impress-text,
+#sec0 .impress-inner .impress-link {
   padding-left: 0;
   padding-right: 0;
   width: 100%;
 }
-#sec0 .impress-inner .impress-text .content-text {
+#sec0 .impress-inner .impress-text .content-text,
+#sec0 .impress-inner .impress-link .content-text {
   margin-top: 2em;
 }
 #impress-slider01 #impress-slider-tab01 .bg-img .bg-helper {

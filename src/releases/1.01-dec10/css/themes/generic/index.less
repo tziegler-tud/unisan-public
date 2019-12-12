@@ -901,7 +901,7 @@ Classes
   }
 
 
-.impress-text {
+.impress-text, .impress-link {
 
   &.full-width {
     width: 100%;
@@ -914,11 +914,7 @@ Classes
 
   width: 90%;
   padding: 1em 5% 2em 5%;
-  font-size: 100%;
 
-  @media @desktop {
-    font-size: 120%;
-  }
 
 
 
@@ -963,7 +959,7 @@ Classes
       margin: 0;
     }
     span {
-      display: inline-block;
+      display: block;
       margin-bottom: 1em;
     }
 
@@ -1011,9 +1007,10 @@ Classes
       width: 80%;
       margin: 0 auto;
       font-size: 100%;
+
     }
 
-    .impress-text {
+    .impress-text, .impress-link {
       padding-left: 0;
       padding-right: 0;
       width: 100%;

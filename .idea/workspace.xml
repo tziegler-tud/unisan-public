@@ -3,9 +3,175 @@
   <component name="ChangeListManager">
     <list default="true" id="aaaf2f20-d3dc-4eb7-8f99-4d9649c26d78" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-snippet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-includes.php" beforeDir="false" afterPath="$PROJECT_DIR$/common-includes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datenschutz.html" beforeDir="false" afterPath="$PROJECT_DIR$/datenschutz.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datenschutz.php" beforeDir="false" afterPath="$PROJECT_DIR$/datenschutz.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/common.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/core_lidl-0.1a.js.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-Bold-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-Bold-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-Bold-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-BoldItalic-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-BoldItalic-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-BoldItalic-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-Italic-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-Italic-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-Italic-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-Light-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-Light-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-Light-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-LightItalic-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-LightItalic-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-LightItalic-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-Regular-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-Regular-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-Regular-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/imagebox_lidl-imagebox.js.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lib_lidl_core_lidl-0.1a.js.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lib_lidl_imagebox_lidl-imagebox.js.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lib_lidl_slider_lidl-slider.js.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lidl.Imagebox.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lidl.Main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lidl.ObjectManager.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lidl.Slider.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/lidl.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/scripts/linenumber.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/scripts/prettify/Apache-License-2.0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/scripts/prettify/lang-css.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/scripts/prettify/prettify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/slider_lidl-slider.js.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/src_js_common.js.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/styles/jsdoc-default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/styles/prettify-jsdoc.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/styles/prettify-tomorrow.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/index/content/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/index/content/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/index/content/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/index/content/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/index/content/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/index/index1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/index/index1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/index/index2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/index/index2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/index/index3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/index/index3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kompaktlogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kompaktlogo_small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kompaktlogo_small.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kompaktlogo_transparent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kompaktlogo_transparent_invertiert.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kompaktlogo_transparent_invertiert_small.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kompaktlogo_transparent_invertiert_smaller.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kompaktlogo_transparent_small.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kontakt/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/kontakt/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kontakt/1_250.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/kontakt/1_250.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kontakt/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/kontakt/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kontakt/2_250.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/kontakt/2_250.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kontakt/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/kontakt/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kontakt/3_250.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/kontakt/3_250.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kurse/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/kurse/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kurse/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/kurse/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kurse/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/kurse/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kurse/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/kurse/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kurse/header.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/kurse/header.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/kurse/header_mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/kurse/header_mobile.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo_small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mitmachen/header.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/mitmachen/header.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mitmachen/header2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mitmachen/header_mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/mitmachen/header_mobile.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sanitaetsdienst/header.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/sanitaetsdienst/header.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/sanitaetsdienst/header_mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/sanitaetsdienst/header_mobile.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slider/slide1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/slider/slide1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slider/slide2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/slider/slide2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/13.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/14.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/15.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/16.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/17.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/17.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/18.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/18.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/19.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/19.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/5-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/9 (copy).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/9 (copy).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/header.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/header.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/header_mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/header_mobile.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impressum.html" beforeDir="false" afterPath="$PROJECT_DIR$/impressum.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/impressum.php" beforeDir="false" afterPath="$PROJECT_DIR$/impressum.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-snippet.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-snippet.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/kontakt.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurse.html" beforeDir="false" afterPath="$PROJECT_DIR$/kurse.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/lidl/default-navigation/navBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/lidl/default-navigation/navBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/lidl/default-navigation/navComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/lidl/default-navigation/navComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/lidl/default-navigation/navObject.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/lidl/default-navigation/navObject.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/lidl/imagebox/imagebox-less.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/lidl/imagebox/imagebox-less.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/lidl/imagebox/imagebox-less.less" beforeDir="false" afterPath="$PROJECT_DIR$/lib/lidl/imagebox/imagebox-less.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/lidl/imagebox/lidl-imagebox.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/lidl/imagebox/lidl-imagebox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/lidl/slider/slider.css" beforeDir="false" afterPath="$PROJECT_DIR$/lib/lidl/slider/slider.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mitmachen.html" beforeDir="false" afterPath="$PROJECT_DIR$/mitmachen.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/nav.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sanitaetsdienst.html" beforeDir="false" afterPath="$PROJECT_DIR$/sanitaetsdienst.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/saveColToDb.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/fonts.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_impressum.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_impressum.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_kontakt.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_kontakt.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_kurse.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_kurse.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_kurse.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_kurse.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_mitmachen.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_mitmachen.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_san.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_san.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_san.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_san.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_team.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_team.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_team.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_team.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/preloader.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/preloader.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/animations.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/animations.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/animations.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/animations.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/color-rules.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/color-rules.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/color-rules.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/color-rules.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/common.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/common.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/contact-bak.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/contact-bak.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/contact-form.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/contact-form.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/content.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/content.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/content.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/drop-down-menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/drop-down-menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/drop-down-menu.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/drop-down-menu.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/footer.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/footer.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/impressum.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/impressum.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/kontakt.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/kontakt.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/kurse.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/kurse.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/mitmachen.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/mitmachen.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/no-js-dash.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/no-js-dash.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/sanitaetsdienst.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/sanitaetsdienst.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/team.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/team.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/team.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/team.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/variables.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/variables.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/index/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/index/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/index/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/index/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/index/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/index/init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/team/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/team/init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/team.php" beforeDir="false" afterPath="$PROJECT_DIR$/team.php" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,29 +187,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datenschutz.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/css/themes/generic/no-js-dash.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
-              <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index-snippet.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1494">
-              <caret line="83" column="128" selection-start-line="83" selection-start-column="128" selection-end-line="83" selection-end-column="128" />
+            <state relative-caret-position="1040">
+              <caret line="198" column="26" lean-forward="true" selection-start-line="198" selection-start-column="26" selection-end-line="198" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common-includes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="810">
+              <caret line="59" column="112" selection-start-line="59" selection-start-column="112" selection-end-line="59" selection-end-column="112" />
             </state>
           </provider>
         </entry>
@@ -51,62 +208,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="647">
-              <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/css/themes/generic/common.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9576">
-              <caret line="532" column="27" selection-start-line="532" selection-start-column="27" selection-end-line="532" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/js/kontakt/kontakt.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2412">
-              <caret line="134" selection-start-line="134" selection-end-line="134" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/js/kontakt/init.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/js/init.js">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="468">
-              <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/js/common.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6642">
-              <caret line="369" column="38" selection-start-line="369" selection-start-column="38" selection-end-line="369" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/kontakt.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="568">
-              <caret line="160" column="169" selection-start-line="160" selection-start-column="169" selection-end-line="160" selection-end-column="169" />
+              <caret line="27" column="79" selection-start-line="27" selection-start-column="79" selection-end-line="27" selection-end-column="79" />
             </state>
           </provider>
         </entry>
@@ -265,10 +368,10 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="221" />
-    <option name="y" value="9" />
-    <option name="width" value="1851" />
-    <option name="height" value="1040" />
+    <option name="x" value="67" />
+    <option name="y" value="27" />
+    <option name="width" value="1853" />
+    <option name="height" value="1053" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -276,7 +379,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -284,74 +386,11 @@
               <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
               <item name="unisan-private" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="unisan-private" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="unisan-private" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="unisan-private" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="lidl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="unisan-private" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-              <item name="lidl" type="462c0819:PsiDirectoryNode" />
-              <item name="imagebox" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="unisan-private" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="unisan-private" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="unisan-private" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="unisan-private" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="generic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="unisan-private" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="generic" type="462c0819:PsiDirectoryNode" />
-              <item name="index.less" type="620a8d5e:NestingTreeNode" />
-            </path>
-            <path>
-              <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="unisan-private" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -365,19 +404,19 @@
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/js/contact" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/mitmachen" />
-      <recent name="$PROJECT_DIR$/images/index" />
-      <recent name="$PROJECT_DIR$/src/css/themes/common" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/css" />
       <recent name="$PROJECT_DIR$/src/css/themes/generic" />
       <recent name="$PROJECT_DIR$/src/js/contact" />
       <recent name="$PROJECT_DIR$/lib/waypoints" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/js/contact" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/mitmachen" />
+      <recent name="$PROJECT_DIR$/images/index" />
+      <recent name="$PROJECT_DIR$/src/css/themes/common" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -573,7 +612,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="807960000" />
+    <option name="totallyTimeSpent" value="808584000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -586,8 +625,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49376947" visible="true" weight="0.1557377" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49376947" visible="true" weight="0.16120219" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.50623053" side_tool="true" weight="0.1577511" />
       <window_info id="npm" order="3" side_tool="true" />
@@ -768,8 +808,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/common-includes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+        <state relative-caret-position="810">
+          <caret line="59" column="112" selection-start-line="59" selection-start-column="112" selection-end-line="59" selection-end-column="112" />
         </state>
       </provider>
     </entry>
@@ -893,13 +933,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index-snippet.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1494">
-          <caret line="83" column="128" selection-start-line="83" selection-start-column="128" selection-end-line="83" selection-end-column="128" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/css/themes/generic/common.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="9576">
@@ -937,8 +970,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="647">
-          <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
+        <state relative-caret-position="468">
+          <caret line="27" column="79" selection-start-line="27" selection-start-column="79" selection-end-line="27" selection-end-column="79" />
         </state>
       </provider>
     </entry>
@@ -946,6 +979,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="568">
           <caret line="160" column="169" selection-start-line="160" selection-start-column="169" selection-end-line="160" selection-end-column="169" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-snippet.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1040">
+          <caret line="198" column="26" lean-forward="true" selection-start-line="198" selection-start-column="26" selection-end-line="198" selection-end-column="26" />
         </state>
       </provider>
     </entry>

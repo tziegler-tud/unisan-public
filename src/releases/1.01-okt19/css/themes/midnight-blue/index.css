@@ -1,0 +1,33 @@
+.theme-midnight-blue .overlay-title {
+    background-image: linear-gradient(to right,  #002557 50%, transparent 50%);
+}
+
+
+.theme-midnight-blue .color-transparent {
+    color: #002557;
+    background-color: rgba(0,0,0,0.3);
+    opacity: 1;
+}
+
+.theme-midnight-blue .infobar-figurebox {
+
+    background-color: white;
+    border-radius: 50%;
+
+    width: 25vh;
+    height: 25vh;
+
+    margin: auto;
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+
+
+}
+.theme-midnight-blue .color-light .infobar-figurebox {
+
+    /*background-color:  #464646;*/
+
+    background-color: white;
+    color: #ff9900;
+}

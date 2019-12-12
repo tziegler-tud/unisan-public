@@ -1,0 +1,470 @@
+body {
+    width: 100vmax;
+    overflow-x: hidden;
+
+    background-color: #fffcf5;
+
+    font-family: "Open Sans", sans-serif;
+
+
+
+}
+
+/**
+Ids
+ */
+
+
+#wrapper {
+    width: 100%;
+    margin: 0 0 0 0;
+    color: #333;
+}
+
+#slider-wrapper {
+    width: 100%;
+    padding: 0 0 100px 0;
+
+
+}
+
+
+
+
+
+/**
+Classes
+ */
+
+#content-top {
+    position: relative;
+    width: 100%;
+    height: 90vh;
+
+    margin-top: 10vh;
+
+}
+
+#sec1 {
+
+}
+
+#sec2 {
+
+
+}
+.sec-middle {
+    width: 100%;
+
+
+}
+
+.sec-content {
+    width: 100%;
+    padding: 15vh 0 50px 0;
+}
+
+
+.sec-content-text {
+    width: 50%;
+    margin: 0 5% 0 5%;
+    font-size: 130%;
+}
+
+.sec-content-left {
+
+
+}
+
+sec-content-img {
+
+width: 40%;
+}
+
+
+.sec-content-img img {
+    width: 100%;
+    border-radius: 50%;
+
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.sec-content > div {
+    width: 60%;
+    margin: 5vh 20% 5vh 20%;
+}
+
+.sec-content img {
+    width: 100%;
+}
+
+.sec-icons img {
+    width: 50%;
+    margin: 0 25% 0 25%;
+    border-radius: 50%;
+
+
+}
+
+.sec-content .content-top {
+
+}
+
+.sec-content .content-bottom {
+
+}
+
+
+
+
+
+#infobar2 {
+
+}
+
+.infobar {
+    padding: 5vh 10% 0 10%;
+    height: 30vh;
+    font-size: 150%;
+    width:80%;
+
+}
+
+.infobar-element {
+    height: 100%;
+}
+
+.infobar-label {
+
+
+}
+
+.infobar-figurebox {
+    background-color: #333333;
+    border-radius: 50%;
+
+    width: 25vh;
+    height: 25vh;
+
+    margin: auto;
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+
+
+
+}
+
+.spacer {
+    height: 40%;
+}
+
+
+
+.infobar-figurebox span,.infobar-figurebox label,.infobar-figurebox div {
+
+
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+
+.infobar-figurebox span {
+    font-size: 200%;
+}
+
+
+
+.color-light .infobar-figurebox {
+
+    /*background-color:  #464646;*/
+
+    background-color: #555555;
+    color: #ff9900;
+}
+
+
+
+
+
+    /**
+    Alignment
+     */
+.split-horizontally {
+    position: relative;
+    height: 100%;
+}
+
+
+.split-vertically > .split-part {
+    position: relative;
+    float: left;
+
+}
+
+.split-horizontally > .split-part {
+    position: relative;
+    width: 100% !important;
+}
+
+.split-vertically > .heightOfParent {
+    height: 100%;
+
+}
+
+.split-vertically > .widthOfParent {
+    width: 100%;
+
+}
+
+.split-v3 > .split-part {
+    width:33%;
+
+}
+
+.split-v2 > .split-part {
+    width:50%;
+
+}
+.split-h3 > .split-part {
+    height:33%;
+
+}
+
+.split-h2 > .split-part {
+    height:50%;
+
+}
+
+
+    /**
+    functional classes
+     */
+
+        /**
+        gallery
+         */
+
+.image-gallery {
+
+}
+
+.gallery-border {
+
+}
+
+.gallery-inner {
+    width:100%;
+    height: 100%;
+
+    position: relative;
+}
+
+
+.gallery-border .border-left, .border-bottom {
+    box-sizing: border-box;
+}
+
+.gallery-border .border-left {
+    border-left: 20px solid #fffcf5;
+}
+
+.gallery-border .border-bottom {
+    border-bottom: 20px solid #fffcf5;
+}
+
+.border-left-bottom {
+
+}
+
+
+
+.image-overlay {
+    position: absolute;
+    top:0;
+    left:0;
+
+    width: 100%;
+    height: 100%;
+
+}
+
+.text-overlay {
+    position: absolute;
+
+    /*top: 60%;
+    left: 30%;
+
+    width: 70% !important;
+    height: 40% !important;
+    */
+    z-index: 3;
+
+    overflow: hidden;
+}
+
+.text-overlay-inner {
+    position: absolute;
+    top: 60%;
+    left: 30%;
+
+    width: 70%;
+    height: 40%;
+}
+
+.color-overlay {
+    opacity: 0.2;
+    background-color: #000;
+
+    z-index: 2;
+
+    -webkit-transition: 500ms ease;
+    -moz-transition: 500ms ease;
+    -o-transition: 500ms ease;
+    transition: 500ms ease;
+
+}
+
+.text-overlay .overlay-title {
+
+
+    border: 1px solid #fff;
+
+
+    padding: 10px;
+
+    display: block;
+    float: left;
+    clear: left;
+
+    max-width: 90%;
+
+    font-size: 300%;
+    color: #FFF;
+
+
+    background-position: 100% 0;
+    background-size: 200% 100%;
+
+
+
+    -webkit-transition: background-position 1s;
+    -moz-transition: background-position 1s;
+    transition: background-position .75s;
+
+}
+
+.overlay-title {
+    background-image: linear-gradient(to right,  #ff9900 50%, transparent 50%);
+}
+
+
+
+.text-overlay .overlay-title:hover {
+
+
+    cursor: pointer;
+
+
+
+}
+
+.text-overlay .overlay-content {
+
+    max-width: 90%;
+
+
+    display: block;
+    float: left;
+    clear: left;
+
+
+    font-size: 150%;
+
+    color: #fff;
+
+}
+
+.image-gallery img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+
+
+
+    z-index: 1;
+
+
+}
+
+
+.text-overlay:hover .overlay-title {
+    background-position: 0 0;
+
+
+}
+
+
+.text-overlay:hover ~ .color-overlay {
+
+    opacity: 0.4;
+
+    -webkit-transition: 250ms ease;
+    -moz-transition: 250ms ease;
+    -o-transition: 250ms ease;
+    transition: 250ms ease;
+
+}
+
+    /**
+    special classes
+     */
+
+
+
+.color-light {
+    background-color: #fffcf5;
+    color: #333;
+}
+
+.color-dark {
+    background-color: #464646;
+
+    color: #fffcf5;
+}
+
+.color-blue {
+    background-color: #3f597c;
+}
+
+
+.color-transparent {
+    color: #ff9900;
+    background-color: rgba(255,255,255,0.3);
+    opacity: 1;
+}
+
+
+
+    /**
+    special elements
+    */
+
+
+#background {
+    background-image: url('../../../../images/back2.jpg');
+    background-position: center;
+    background-size: cover;
+
+    position: fixed;
+    top:0%;
+
+    width: 100vw;
+    height: 100vh;
+
+    z-index: -1;
+}
+
+

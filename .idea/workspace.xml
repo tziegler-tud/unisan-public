@@ -5,426 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aaaf2f20-d3dc-4eb7-8f99-4d9649c26d78" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/news/xmas2019.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news/xmas2019.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index-snippet.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-snippet.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/_hacks.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/_hacks.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/_mixins.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/_mixins.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/_options.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_backward.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_backward.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_bob.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_bounce-in.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_bounce-in.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_bounce-out.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_bounce-out.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_buzz-out.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_buzz.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_float.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_float.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_forward.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_forward.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_grow-rotate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_grow-rotate.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_grow.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_grow.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_hang.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_pop.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_pulse-grow.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_pulse-shrink.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_pulse.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_push.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_rotate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_rotate.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_shrink.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_shrink.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_sink.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_sink.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_skew-backward.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_skew-backward.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_skew-forward.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_skew-forward.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_skew.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_skew.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_wobble-bottom.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_wobble-horizontal.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_wobble-skew.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_wobble-to-bottom-right.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_wobble-to-top-right.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_wobble-top.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_wobble-vertical.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_back-pulse.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_bounce-to-bottom.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_bounce-to-bottom.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_bounce-to-left.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_bounce-to-left.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_bounce-to-right.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_bounce-to-right.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_bounce-to-top.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_bounce-to-top.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_fade.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_fade.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_radial-in.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_radial-in.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_radial-out.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_radial-out.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_rectangle-in.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_rectangle-in.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_rectangle-out.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_rectangle-out.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_shutter-in-horizontal.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_shutter-in-horizontal.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_shutter-in-vertical.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_shutter-in-vertical.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_shutter-out-horizontal.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_shutter-out-horizontal.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_shutter-out-vertical.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_shutter-out-vertical.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_sweep-to-bottom.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_sweep-to-bottom.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_sweep-to-left.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_sweep-to-left.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_sweep-to-right.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_sweep-to-right.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_sweep-to-top.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/background-transitions/_sweep-to-top.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_border-fade.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_border-fade.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_hollow.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_hollow.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_outline-in.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_outline-in.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_outline-out.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_outline-out.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_overline-from-center.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_overline-from-center.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_overline-from-left.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_overline-from-left.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_overline-from-right.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_overline-from-right.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_overline-reveal.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_overline-reveal.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_reveal.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_reveal.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_ripple-in.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_ripple-out.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_round-corners.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_round-corners.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_trim.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_trim.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_underline-from-center.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_underline-from-center.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_underline-from-left.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_underline-from-left.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_underline-from-right.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_underline-from-right.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_underline-reveal.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/border-transitions/_underline-reveal.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/curls/_curl-bottom-left.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/curls/_curl-bottom-left.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/curls/_curl-bottom-right.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/curls/_curl-bottom-right.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/curls/_curl-top-left.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/curls/_curl-top-left.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/curls/_curl-top-right.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/curls/_curl-top-right.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-back.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-back.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-bob.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-bounce-out.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-bounce.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-bounce.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-buzz-out.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-buzz.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-down.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-drop.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-fade.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-fade.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-float-away.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-float.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-float.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-forward.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-forward.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-grow-rotate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-grow-rotate.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-grow.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-grow.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-hang.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-pop.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-pulse-grow.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-pulse-shrink.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-pulse.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-push.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-rotate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-rotate.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-shrink.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-shrink.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-sink-away.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-sink.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-sink.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-spin.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-spin.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-up.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-wobble-horizontal.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/icons/_icon-wobble-vertical.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/shadow-and-glow-transitions/_box-shadow-inset.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/shadow-and-glow-transitions/_box-shadow-inset.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/shadow-and-glow-transitions/_box-shadow-outset.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/shadow-and-glow-transitions/_box-shadow-outset.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/shadow-and-glow-transitions/_float-shadow.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/shadow-and-glow-transitions/_float-shadow.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/shadow-and-glow-transitions/_glow.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/shadow-and-glow-transitions/_glow.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/shadow-and-glow-transitions/_grow-shadow.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/shadow-and-glow-transitions/_grow-shadow.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/shadow-and-glow-transitions/_shadow-radial.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/shadow-and-glow-transitions/_shadow-radial.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/shadow-and-glow-transitions/_shadow.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/shadow-and-glow-transitions/_shadow.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/speech-bubbles/_bubble-bottom.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/speech-bubbles/_bubble-bottom.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/speech-bubbles/_bubble-float-bottom.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/speech-bubbles/_bubble-float-bottom.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/speech-bubbles/_bubble-float-left.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/speech-bubbles/_bubble-float-left.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/speech-bubbles/_bubble-float-right.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/speech-bubbles/_bubble-float-right.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/speech-bubbles/_bubble-float-top.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/speech-bubbles/_bubble-float-top.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/speech-bubbles/_bubble-left.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/speech-bubbles/_bubble-left.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/speech-bubbles/_bubble-right.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/speech-bubbles/_bubble-right.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/speech-bubbles/_bubble-top.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/effects/speech-bubbles/_bubble-top.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/hover.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/hovercss/less/hover.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jquery.welslider/jquery-welslider-master.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jquery.welslider/jquery-welslider-master/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jquery.welslider/jquery-welslider-master/README.rst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jquery.welslider/jquery-welslider-master/css/icon_leftarrow.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jquery.welslider/jquery-welslider-master/css/icon_rightarrow.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jquery.welslider/jquery-welslider-master/css/icon_slides.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jquery.welslider/jquery-welslider-master/css/welslider.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jquery.welslider/jquery-welslider-master/css/welslider.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jquery.welslider/jquery-welslider-master/example/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jquery.welslider/jquery-welslider-master/js/jquery-1.4.2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jquery.welslider/jquery-welslider-master/js/jquery.ui.core.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jquery.welslider/jquery-welslider-master/js/jquery.ui.widget.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/jquery.welslider/jquery-welslider-master/js/jquery.welslider.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/_hacks.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/_hacks.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/_mixins.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/_mixins.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/_options.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/2d-transitions/_backward.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/2d-transitions/_backward.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/2d-transitions/_bob.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/2d-transitions/_bounce-in.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/2d-transitions/_bounce-in.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/2d-transitions/_bounce-out.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/2d-transitions/_bounce-out.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/2d-transitions/_buzz-out.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/2d-transitions/_buzz.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/2d-transitions/_float.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/2d-transitions/_float.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/2d-transitions/_forward.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/2d-transitions/_forward.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/2d-transitions/_grow-rotate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/2d-transitions/_grow-rotate.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/2d-transitions/_grow.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/2d-transitions/_grow.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/2d-transitions/_hang.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/2d-transitions/_pop.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/2d-transitions/_pulse-grow.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/2d-transitions/_pulse-shrink.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/2d-transitions/_pulse.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/2d-transitions/_push.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/2d-transitions/_rotate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/2d-transitions/_rotate.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/2d-transitions/_shrink.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/2d-transitions/_shrink.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/2d-transitions/_sink.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/2d-transitions/_sink.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/2d-transitions/_skew-backward.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/2d-transitions/_skew-backward.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/2d-transitions/_skew-forward.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/2d-transitions/_skew-forward.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/2d-transitions/_skew.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/2d-transitions/_skew.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/2d-transitions/_wobble-bottom.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/2d-transitions/_wobble-horizontal.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/2d-transitions/_wobble-skew.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/2d-transitions/_wobble-to-bottom-right.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/2d-transitions/_wobble-to-top-right.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/2d-transitions/_wobble-top.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/2d-transitions/_wobble-vertical.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/background-transitions/_back-pulse.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/background-transitions/_bounce-to-bottom.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/background-transitions/_bounce-to-bottom.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/background-transitions/_bounce-to-left.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/background-transitions/_bounce-to-left.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/background-transitions/_bounce-to-right.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/background-transitions/_bounce-to-right.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/background-transitions/_bounce-to-top.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/background-transitions/_bounce-to-top.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/background-transitions/_fade.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/background-transitions/_fade.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/background-transitions/_radial-in.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/background-transitions/_radial-in.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/background-transitions/_radial-out.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/background-transitions/_radial-out.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/background-transitions/_rectangle-in.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/background-transitions/_rectangle-in.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/background-transitions/_rectangle-out.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/background-transitions/_rectangle-out.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/background-transitions/_shutter-in-horizontal.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/background-transitions/_shutter-in-horizontal.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/background-transitions/_shutter-in-vertical.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/background-transitions/_shutter-in-vertical.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/background-transitions/_shutter-out-horizontal.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/background-transitions/_shutter-out-horizontal.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/background-transitions/_shutter-out-vertical.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/background-transitions/_shutter-out-vertical.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/background-transitions/_sweep-to-bottom.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/background-transitions/_sweep-to-bottom.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/background-transitions/_sweep-to-left.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/background-transitions/_sweep-to-left.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/background-transitions/_sweep-to-right.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/background-transitions/_sweep-to-right.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/background-transitions/_sweep-to-top.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/background-transitions/_sweep-to-top.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/border-transitions/_border-fade.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/border-transitions/_border-fade.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/border-transitions/_hollow.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/border-transitions/_hollow.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/border-transitions/_outline-in.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/border-transitions/_outline-in.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/border-transitions/_outline-out.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/border-transitions/_outline-out.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/border-transitions/_overline-from-center.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/border-transitions/_overline-from-center.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/border-transitions/_overline-from-left.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/border-transitions/_overline-from-left.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/border-transitions/_overline-from-right.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/border-transitions/_overline-from-right.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/border-transitions/_overline-reveal.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/border-transitions/_overline-reveal.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/border-transitions/_reveal.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/border-transitions/_reveal.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/border-transitions/_ripple-in.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/border-transitions/_ripple-out.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/border-transitions/_round-corners.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/border-transitions/_round-corners.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/border-transitions/_trim.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/border-transitions/_trim.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/border-transitions/_underline-from-center.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/border-transitions/_underline-from-center.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/border-transitions/_underline-from-left.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/border-transitions/_underline-from-left.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/border-transitions/_underline-from-right.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/border-transitions/_underline-from-right.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/border-transitions/_underline-reveal.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/border-transitions/_underline-reveal.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/curls/_curl-bottom-left.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/curls/_curl-bottom-left.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/curls/_curl-bottom-right.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/curls/_curl-bottom-right.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/curls/_curl-top-left.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/curls/_curl-top-left.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/curls/_curl-top-right.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/curls/_curl-top-right.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/icons/_icon-back.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/icons/_icon-back.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/icons/_icon-bob.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/icons/_icon-bounce-out.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/icons/_icon-bounce.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/icons/_icon-bounce.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/icons/_icon-buzz-out.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/icons/_icon-buzz.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/icons/_icon-down.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/icons/_icon-drop.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/icons/_icon-fade.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/icons/_icon-fade.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/icons/_icon-float-away.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/icons/_icon-float.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/icons/_icon-float.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/icons/_icon-forward.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/icons/_icon-forward.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/icons/_icon-grow-rotate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/icons/_icon-grow-rotate.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/icons/_icon-grow.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/icons/_icon-grow.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/icons/_icon-hang.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/icons/_icon-pop.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/icons/_icon-pulse-grow.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/icons/_icon-pulse-shrink.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/icons/_icon-pulse.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/icons/_icon-push.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/icons/_icon-rotate.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/icons/_icon-rotate.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/icons/_icon-shrink.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/icons/_icon-shrink.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/icons/_icon-sink-away.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/icons/_icon-sink.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/icons/_icon-sink.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/icons/_icon-spin.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/icons/_icon-spin.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/icons/_icon-up.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/icons/_icon-wobble-horizontal.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/icons/_icon-wobble-vertical.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/shadow-and-glow-transitions/_box-shadow-inset.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/shadow-and-glow-transitions/_box-shadow-inset.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/shadow-and-glow-transitions/_box-shadow-outset.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/shadow-and-glow-transitions/_box-shadow-outset.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/shadow-and-glow-transitions/_float-shadow.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/shadow-and-glow-transitions/_float-shadow.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/shadow-and-glow-transitions/_glow.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/shadow-and-glow-transitions/_glow.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/shadow-and-glow-transitions/_grow-shadow.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/shadow-and-glow-transitions/_grow-shadow.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/shadow-and-glow-transitions/_shadow-radial.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/shadow-and-glow-transitions/_shadow-radial.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/shadow-and-glow-transitions/_shadow.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/shadow-and-glow-transitions/_shadow.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/speech-bubbles/_bubble-bottom.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/speech-bubbles/_bubble-bottom.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/speech-bubbles/_bubble-float-bottom.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/speech-bubbles/_bubble-float-bottom.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/speech-bubbles/_bubble-float-left.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/speech-bubbles/_bubble-float-left.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/speech-bubbles/_bubble-float-right.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/speech-bubbles/_bubble-float-right.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/speech-bubbles/_bubble-float-top.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/speech-bubbles/_bubble-float-top.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/speech-bubbles/_bubble-left.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/speech-bubbles/_bubble-left.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/speech-bubbles/_bubble-right.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/speech-bubbles/_bubble-right.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/speech-bubbles/_bubble-top.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/effects/speech-bubbles/_bubble-top.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/hover.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/hovercss/less/hover.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/jquery.welslider/jquery-welslider-master.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/jquery.welslider/jquery-welslider-master/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/jquery.welslider/jquery-welslider-master/README.rst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/jquery.welslider/jquery-welslider-master/css/icon_leftarrow.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/jquery.welslider/jquery-welslider-master/css/icon_rightarrow.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/jquery.welslider/jquery-welslider-master/css/icon_slides.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/jquery.welslider/jquery-welslider-master/css/welslider.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/jquery.welslider/jquery-welslider-master/css/welslider.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/jquery.welslider/jquery-welslider-master/example/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/jquery.welslider/jquery-welslider-master/js/jquery-1.4.2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/jquery.welslider/jquery-welslider-master/js/jquery.ui.core.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/jquery.welslider/jquery-welslider-master/js/jquery.ui.widget.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/jquery.welslider/jquery-welslider-master/js/jquery.welslider.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/releases/1.01-dec10/css/lssc_loader_index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-dec10/css/lssc_loader_index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/releases/1.01-dec10/css/lssc_loader_index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-dec10/css/lssc_loader_index.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/impress-slider.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/impress-slider.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/impress-slider.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/impress-slider.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-dec10/css/lssc_loader_news.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-dec10/css/lssc_loader_news.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/news.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/news.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/news.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/news.less" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -440,11 +27,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/impress-slider.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="635">
-              <caret line="81" column="38" lean-forward="true" selection-start-line="81" selection-start-column="38" selection-end-line="81" selection-end-column="38" />
+            <state relative-caret-position="1458">
+              <caret line="81" column="38" selection-start-line="81" selection-start-column="38" selection-end-line="81" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -452,8 +39,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index-snippet.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="808">
-              <caret line="159" column="130" selection-start-line="159" selection-start-column="130" selection-end-line="159" selection-end-column="130" />
+            <state relative-caret-position="430">
+              <caret line="349" column="85" selection-start-line="349" selection-start-column="85" selection-end-line="349" selection-end-column="85" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/news/xmas2019.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="558">
+              <caret line="31" column="48" lean-forward="true" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/news/xmas2019.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="28" column="50" lean-forward="true" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/news.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="784">
+              <caret line="60" column="26" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -461,8 +75,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/common-includes.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="954">
-              <caret line="59" column="112" lean-forward="true" selection-start-line="59" selection-start-column="112" selection-end-line="59" selection-end-column="112" />
+            <state relative-caret-position="1062">
+              <caret line="59" column="112" selection-start-line="59" selection-start-column="112" selection-end-line="59" selection-end-column="112" />
             </state>
           </provider>
         </entry>
@@ -479,7 +93,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/releases/1.01-dec10/js/index/init.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
+            <state relative-caret-position="522">
               <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
             </state>
           </provider>
@@ -488,7 +102,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/index.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
+            <state relative-caret-position="17100">
               <caret line="950" column="21" selection-start-line="950" selection-start-column="18" selection-end-line="950" selection-end-column="21" />
             </state>
           </provider>
@@ -497,7 +111,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/common.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
+            <state relative-caret-position="10134">
               <caret line="563" column="13" selection-start-line="563" selection-start-column="13" selection-end-line="563" selection-end-column="13" />
             </state>
           </provider>
@@ -592,9 +206,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/news/sommerfest-wu.html" />
-        <option value="$PROJECT_DIR$/news/gesundheitstag-2019.html" />
-        <option value="$PROJECT_DIR$/news/kif-2019.html" />
         <option value="$PROJECT_DIR$/welcome/sanitaetsdienst.php" />
         <option value="$PROJECT_DIR$/src/css/lssc_loader_welcome.less" />
         <option value="$PROJECT_DIR$/src/js/team/init.js" />
@@ -641,8 +252,11 @@
         <option value="$PROJECT_DIR$/src/releases/1.01-dec10/css/lssc_loader_index.less" />
         <option value="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/common.less" />
         <option value="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/index.less" />
-        <option value="$PROJECT_DIR$/index-snippet.html" />
         <option value="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/impress-slider.less" />
+        <option value="$PROJECT_DIR$/news/xmas2019.php" />
+        <option value="$PROJECT_DIR$/index-snippet.html" />
+        <option value="$PROJECT_DIR$/news/xmas2019.html" />
+        <option value="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/news.less" />
       </list>
     </option>
   </component>
@@ -669,7 +283,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -681,6 +294,11 @@
               <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
               <item name="unisan-private" type="462c0819:PsiDirectoryNode" />
               <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="unisan-private" type="462c0819:PsiDirectoryNode" />
+              <item name="news" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
@@ -753,6 +371,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -769,19 +388,19 @@
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/news" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic" />
+      <recent name="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes" />
+      <recent name="$PROJECT_DIR$/src/releases" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/releases/1.01-dec10/css" />
       <recent name="$PROJECT_DIR$/src/releases/1.01-okt19/css" />
       <recent name="$PROJECT_DIR$/news" />
       <recent name="$PROJECT_DIR$/src/js/contact" />
       <recent name="$PROJECT_DIR$" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic" />
-      <recent name="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes" />
-      <recent name="$PROJECT_DIR$/src/releases" />
-      <recent name="$PROJECT_DIR$/modules/lidl" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1027,12 +646,13 @@
       <workItem from="1576061237536" duration="1209000" />
       <workItem from="1576080247767" duration="10841000" />
       <workItem from="1576097801190" duration="3301000" />
-      <workItem from="1576102068352" duration="7116000" />
+      <workItem from="1576102068352" duration="7866000" />
+      <workItem from="1576159035801" duration="2340000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1075099000" />
+    <option name="totallyTimeSpent" value="1078189000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1096,23 +716,6 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/news/5gworld.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="51" column="59" selection-start-line="51" selection-start-column="59" selection-end-line="51" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/news/semesterauftakt.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="39" column="35" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/news/sommerfest-wu.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/common.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="9864">
@@ -1301,57 +904,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/releases/1.01-dec10/js/index/init.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/hovercss/less/effects/background-transitions/_back-pulse.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/hovercss/less/hover.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4158">
-          <caret line="231" column="9" selection-start-line="231" selection-start-column="9" selection-end-line="231" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/hovercss/less/_mixins.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-455" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/hovercss/less/_options.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="15" lean-forward="true" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/hovercss/less/effects/background-transitions/_back-pulse.less" />
+    <entry file="file://$PROJECT_DIR$/modules/hovercss/less/hover.less" />
+    <entry file="file://$PROJECT_DIR$/lib/hovercss/less/_mixins.less" />
+    <entry file="file://$PROJECT_DIR$/lib/hovercss/less/_options.less" />
     <entry file="file://$PROJECT_DIR$/index-snippet_bak_2019dec10.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1890">
           <caret line="105" column="35" selection-start-line="105" selection-start-column="35" selection-end-line="105" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common-includes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="954">
-          <caret line="59" column="112" lean-forward="true" selection-start-line="59" selection-start-column="112" selection-end-line="59" selection-end-column="112" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="59" selection-start-line="27" selection-start-column="59" selection-end-line="27" selection-end-column="59" />
         </state>
       </provider>
     </entry>
@@ -1369,31 +929,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/common.less">
+    <entry file="file://$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/impress-slider.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="563" column="13" selection-start-line="563" selection-start-column="13" selection-end-line="563" selection-end-column="13" />
+        <state relative-caret-position="1458">
+          <caret line="81" column="38" selection-start-line="81" selection-start-column="38" selection-end-line="81" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-includes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1062">
+          <caret line="59" column="112" selection-start-line="59" selection-start-column="112" selection-end-line="59" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="59" selection-start-line="27" selection-start-column="59" selection-end-line="27" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/releases/1.01-dec10/js/index/init.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/index.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
+        <state relative-caret-position="17100">
           <caret line="950" column="21" selection-start-line="950" selection-start-column="18" selection-end-line="950" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/common.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10134">
+          <caret line="563" column="13" selection-start-line="563" selection-start-column="13" selection-end-line="563" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news/xmas2019.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="48" lean-forward="true" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index-snippet.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="808">
-          <caret line="159" column="130" selection-start-line="159" selection-start-column="130" selection-end-line="159" selection-end-column="130" />
+        <state relative-caret-position="430">
+          <caret line="349" column="85" selection-start-line="349" selection-start-column="85" selection-end-line="349" selection-end-column="85" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/impress-slider.less">
+    <entry file="file://$PROJECT_DIR$/news/xmas2019.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="635">
-          <caret line="81" column="38" lean-forward="true" selection-start-line="81" selection-start-column="38" selection-end-line="81" selection-end-column="38" />
+        <state relative-caret-position="396">
+          <caret line="28" column="50" lean-forward="true" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/news.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="784">
+          <caret line="60" column="26" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
         </state>
       </provider>
     </entry>

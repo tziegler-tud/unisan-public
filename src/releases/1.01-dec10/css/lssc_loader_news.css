@@ -54,6 +54,22 @@
   max-width: 750px;
   display: block;
 }
+.news-article .news-container .news-image img.mobile {
+  display: block;
+}
+@media only screen and (min-width: 75em), only screen and (min-width: 50em) and (max-width: 75em) and (orientation: landscape) {
+  .news-article .news-container .news-image img.mobile {
+    display: none;
+  }
+}
+.news-article .news-container .news-image img.desktop {
+  display: none;
+}
+@media only screen and (min-width: 75em), only screen and (min-width: 50em) and (max-width: 75em) and (orientation: landscape) {
+  .news-article .news-container .news-image img.desktop {
+    display: block;
+  }
+}
 .news-article .news-container .news-author {
   font-size: 80%;
   color: #444;

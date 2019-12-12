@@ -48,6 +48,19 @@
         max-width: 750px;
         //margin: 0 auto;
         display: block;
+
+        &.mobile {
+          display: block;
+          @media @desktop, @tablet-landscape {
+            display: none;
+          }
+        }
+        &.desktop {
+          display: none;
+          @media @desktop, @tablet-landscape {
+            display: block;
+          }
+        }
       }
 
     }

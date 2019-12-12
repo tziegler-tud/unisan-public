@@ -570,9 +570,13 @@ content sections
 
         li {
 
-          display: block;
-          margin-bottom: 1em;
-          position: relative;
+            display: block;
+            margin-bottom: 1em;
+            position: relative;
+
+            &:last-of-type {
+                margin-bottom: 0;
+            }
 
             @media @desktop, @tablet-landscape {
                 margin-left: 1.5em;

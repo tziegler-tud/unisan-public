@@ -55,6 +55,7 @@
   display: flex;
   flex-flow: column wrap;
   justify-content: flex-end;
+  margin-bottom: 80px;
 }
 .lidl-imagebox.impress-slider .lidl-imagebox-container .lidl-imagebox-slider .impress-slider-tab .impress-inner .impress-link .link-wrapper {
   flex: 0 0 min-content;
@@ -70,7 +71,7 @@
 }
 @media only screen and (min-width: 75em), only screen and (min-width: 50em) and (max-width: 75em) and (orientation: landscape) {
   .lidl-imagebox.impress-slider .lidl-imagebox-container .lidl-imagebox-slider .impress-slider-tab .bg-img .impress-container {
-    background-color: rgba(0, 0, 0, 0.6) !important;
+    background-color: rgba(0, 0, 0, 0.7) !important;
   }
 }
 .lidl-imagebox.impress-slider .lidl-imagebox-container .lidl-imagebox-slider .impress-slider-tab.transition-in .bg-img .bg-helper {
@@ -90,11 +91,6 @@
 }
 .lidl-imagebox.impress-slider .lidl-imagebox-container .impress-text {
   padding: 1em 5% 1em 5%;
-}
-@media only screen and (min-width: 75em), only screen and (min-width: 50em) and (max-width: 75em) and (orientation: landscape) {
-  .lidl-imagebox.impress-slider .lidl-imagebox-container .impress-text {
-    margin-bottom: 100px;
-  }
 }
 .lidl-imagebox.impress-slider .lidl-imagebox-nav {
   font-size: 70%;

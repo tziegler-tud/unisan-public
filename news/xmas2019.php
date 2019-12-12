@@ -19,6 +19,7 @@ $baseURL = "../";
          *********************************** -->
 
        <script src="/src/releases/1.01-dec10/js/news/init.js"></script>
+       <script src="/src/releases/1.01-dec10/js/news/init-snow.js"></script>
 
 
        <!--
@@ -26,6 +27,7 @@ $baseURL = "../";
          ** specific css files
          *********************************** -->
        <link rel="stylesheet" type="text/css" href="/src/releases/1.01-dec10/css/lssc_loader_news.css" />
+       <link rel="stylesheet" type="text/css" href="/src/releases/1.01-dec10/css/snowfall.css" />
 </head>
 
 <!--Preloader-->
@@ -33,10 +35,10 @@ $baseURL = "../";
 
 <!-- content-->
 
-<?php include_once($baseURL."/nav.html"); ?>
+<?php include_once($baseURL."/nav-snow.html"); ?>
 
 
-<?php include_once("news.html"); ?>
+<?php include_once("news-snow.html"); ?>
 <?php include_once("xmas2019.html"); ?>
 
 </div>

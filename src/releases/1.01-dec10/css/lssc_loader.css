@@ -1637,7 +1637,15 @@ special classes
 }
 @media only screen and (min-width: 75em), only screen and (min-width: 50em) and (max-width: 75em) and (orientation: landscape) {
   .nomobile {
-    display: block !important;
+    display: block;
+  }
+}
+.mobile {
+  display: block;
+}
+@media only screen and (min-width: 75em), only screen and (min-width: 50em) and (max-width: 75em) and (orientation: landscape) {
+  .mobile {
+    display: none !important;
   }
 }
 .breadcrumbs {

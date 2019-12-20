@@ -67,7 +67,7 @@
           position: relative;
           display: flex;
           flex-flow: column nowrap;
-          font-size: 100%;
+          font-size: 70% !important;
           height: 100%;
 
           @media @desktop {
@@ -80,7 +80,13 @@
             display: flex;
             flex-flow: column wrap;
             justify-content: flex-end;
-            margin-bottom: 80px;
+            margin-bottom: 35px;
+            margin-top: 0.5em;
+
+            @media @desktop, @tablet-landscape {
+              margin-bottom: 60px;
+              margin-top: 2em;
+            }
 
             .link-wrapper {
               flex: 0 0 min-content;

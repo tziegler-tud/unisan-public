@@ -1016,7 +1016,7 @@ Classes
       width: 100%;
 
       .content-text {
-        margin-top: 2em;
+        margin-top: 0;
       }
     }
   }
@@ -1055,6 +1055,9 @@ Classes
     .bg-img .bg-helper {
       min-height: 100%;
       background-image:   url("/images/impress-slider/slide4.jpg");
+      @media @phone {
+        background-image:   url("/images/impress-slider/slide4-mobile.jpg");
+      }
     }
   }
   #impress-slider-tab05 {

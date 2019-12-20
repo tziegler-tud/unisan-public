@@ -41,7 +41,7 @@
   position: relative;
   display: flex;
   flex-flow: column nowrap;
-  font-size: 100%;
+  font-size: 70% !important;
   height: 100%;
 }
 @media only screen and (min-width: 75em) {
@@ -55,7 +55,14 @@
   display: flex;
   flex-flow: column wrap;
   justify-content: flex-end;
-  margin-bottom: 80px;
+  margin-bottom: 35px;
+  margin-top: 0.5em;
+}
+@media only screen and (min-width: 75em), only screen and (min-width: 50em) and (max-width: 75em) and (orientation: landscape) {
+  .lidl-imagebox.impress-slider .lidl-imagebox-container .lidl-imagebox-slider .impress-slider-tab .impress-inner .impress-link {
+    margin-bottom: 60px;
+    margin-top: 2em;
+  }
 }
 .lidl-imagebox.impress-slider .lidl-imagebox-container .lidl-imagebox-slider .impress-slider-tab .impress-inner .impress-link .link-wrapper {
   flex: 0 0 min-content;

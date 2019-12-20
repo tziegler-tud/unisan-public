@@ -1470,7 +1470,14 @@ special classes
 .nomobile {
     display: none !important;
     @media @desktop, @tablet-landscape {
-        display: block !important;
+        display: block;
+    }
+}
+
+.mobile {
+    display: block;
+    @media @desktop, @tablet-landscape {
+        display: none !important;
     }
 }
 

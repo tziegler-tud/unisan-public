@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aaaf2f20-d3dc-4eb7-8f99-4d9649c26d78" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/imagebox-less.less" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/impress-slider/slide4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/impress-slider/slide4.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index-snippet.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-snippet.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/releases/1.01-dec10/css/lssc_loader.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-dec10/css/lssc_loader.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/releases/1.01-dec10/css/lssc_loader_index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-dec10/css/lssc_loader_index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/releases/1.01-dec10/css/lssc_loader_index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-dec10/css/lssc_loader_index.less" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/common.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/common.less" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/impress-slider.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/impress-slider.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/impress-slider.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/impress-slider.less" afterDir="false" />
@@ -35,8 +32,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index-snippet.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
-              <caret line="247" column="164" selection-start-line="247" selection-start-column="164" selection-end-line="247" selection-end-column="164" />
+            <state relative-caret-position="712">
+              <caret line="248" column="100" selection-start-line="248" selection-start-column="100" selection-end-line="248" selection-end-column="100" />
             </state>
           </provider>
         </entry>
@@ -44,8 +41,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="19" column="74" lean-forward="true" selection-start-line="19" selection-start-column="74" selection-end-line="19" selection-end-column="74" />
+            <state relative-caret-position="342">
+              <caret line="19" column="74" selection-start-line="19" selection-start-column="74" selection-end-line="19" selection-end-column="74" />
             </state>
           </provider>
         </entry>
@@ -68,19 +65,19 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/index.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="640">
-              <caret line="1058" column="69" selection-start-line="1058" selection-start-column="69" selection-end-line="1058" selection-end-column="69" />
+            <state relative-caret-position="496">
+              <caret line="1057" column="50" selection-start-line="1057" selection-start-column="50" selection-end-line="1057" selection-end-column="50" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/imagebox-less.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
+            <state relative-caret-position="244">
               <caret line="125" column="16" selection-start-line="125" selection-start-column="16" selection-end-line="125" selection-end-column="16" />
             </state>
           </provider>
@@ -89,8 +86,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/impress-slider.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1026">
-              <caret line="87" column="30" selection-start-line="87" selection-start-column="30" selection-end-line="87" selection-end-column="30" />
+            <state relative-caret-position="478">
+              <caret line="87" column="27" selection-start-line="87" selection-start-column="27" selection-end-line="87" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -107,8 +104,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/common.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="365">
-              <caret line="1472" column="22" selection-start-line="1472" selection-start-column="22" selection-end-line="1472" selection-end-column="22" />
+            <state relative-caret-position="250">
+              <caret line="1477" column="20" selection-start-line="1477" selection-start-column="20" selection-end-line="1477" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -129,7 +126,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>navBar.</find>
       <find>navBar.en</find>
       <find>lib</find>
       <find>sec-content-text</find>
@@ -159,6 +155,7 @@
       <find>impress-l</find>
       <find>desktop</find>
       <find>mobile</find>
+      <find>inline</find>
     </findStrings>
     <replaceStrings>
       <replace>e.</replace>
@@ -247,12 +244,12 @@
         <option value="$PROJECT_DIR$/news/xmas2019.php" />
         <option value="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/news.less" />
         <option value="$PROJECT_DIR$/news/xmas2019.html" />
-        <option value="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/common.less" />
-        <option value="$PROJECT_DIR$/index-snippet.html" />
-        <option value="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/impress-slider.less" />
-        <option value="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/index.less" />
         <option value="$PROJECT_DIR$/src/releases/1.01-dec10/css/lssc_loader_index.less" />
         <option value="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/imagebox-less.less" />
+        <option value="$PROJECT_DIR$/index-snippet.html" />
+        <option value="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/common.less" />
+        <option value="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/impress-slider.less" />
+        <option value="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/index.less" />
       </list>
     </option>
   </component>
@@ -279,7 +276,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -380,6 +376,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -656,11 +653,12 @@
       <workItem from="1576097801190" duration="3301000" />
       <workItem from="1576102068352" duration="7866000" />
       <workItem from="1576159035801" duration="2340000" />
+      <workItem from="1577457285342" duration="1430000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1086361000" />
+    <option name="totallyTimeSpent" value="1088003000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -938,34 +936,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/news/news.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="738">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/news/xmas2019.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="34" column="191" selection-start-line="34" selection-start-column="191" selection-end-line="34" selection-end-column="191" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/common.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="1472" column="22" selection-start-line="1472" selection-start-column="22" selection-end-line="1472" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index-snippet.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="247" column="164" selection-start-line="247" selection-start-column="164" selection-end-line="247" selection-end-column="164" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/releases/1.01-dec10/js/init.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -982,22 +952,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="19" column="74" lean-forward="true" selection-start-line="19" selection-start-column="74" selection-end-line="19" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/index.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="1058" column="69" selection-start-line="1058" selection-start-column="69" selection-end-line="1058" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/impress-slider.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1026">
-          <caret line="87" column="30" selection-start-line="87" selection-start-column="30" selection-end-line="87" selection-end-column="30" />
+        <state relative-caret-position="342">
+          <caret line="19" column="74" selection-start-line="19" selection-start-column="74" selection-end-line="19" selection-end-column="74" />
         </state>
       </provider>
     </entry>
@@ -1008,10 +964,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/news/news.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news/xmas2019.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="34" column="191" selection-start-line="34" selection-start-column="191" selection-end-line="34" selection-end-column="191" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/imagebox-less.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
+        <state relative-caret-position="244">
           <caret line="125" column="16" selection-start-line="125" selection-start-column="16" selection-end-line="125" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-snippet.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="712">
+          <caret line="248" column="100" selection-start-line="248" selection-start-column="100" selection-end-line="248" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/common.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="1477" column="20" selection-start-line="1477" selection-start-column="20" selection-end-line="1477" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/impress-slider.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="87" column="27" selection-start-line="87" selection-start-column="27" selection-end-line="87" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/index.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="1057" column="50" selection-start-line="1057" selection-start-column="50" selection-end-line="1057" selection-end-column="50" />
         </state>
       </provider>
     </entry>

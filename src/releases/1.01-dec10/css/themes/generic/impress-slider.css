@@ -46,7 +46,7 @@
 }
 @media only screen and (min-width: 75em) {
   .lidl-imagebox.impress-slider .lidl-imagebox-container .lidl-imagebox-slider .impress-slider-tab .impress-inner {
-    font-size: 120%;
+    font-size: 90% !important;
   }
 }
 .lidl-imagebox.impress-slider .lidl-imagebox-container .lidl-imagebox-slider .impress-slider-tab .impress-inner .impress-link {
@@ -61,7 +61,7 @@
 @media only screen and (min-width: 75em), only screen and (min-width: 50em) and (max-width: 75em) and (orientation: landscape) {
   .lidl-imagebox.impress-slider .lidl-imagebox-container .lidl-imagebox-slider .impress-slider-tab .impress-inner .impress-link {
     margin-bottom: 60px;
-    margin-top: 2em;
+    margin-top: 0;
   }
 }
 .lidl-imagebox.impress-slider .lidl-imagebox-container .lidl-imagebox-slider .impress-slider-tab .impress-inner .impress-link .link-wrapper {

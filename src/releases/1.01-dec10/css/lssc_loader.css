@@ -1637,11 +1637,11 @@ special classes
 }
 @media only screen and (min-width: 75em), only screen and (min-width: 50em) and (max-width: 75em) and (orientation: landscape) {
   .nomobile {
-    display: block;
+    display: initial !important;
   }
 }
 .mobile {
-  display: block;
+  display: initial !important;
 }
 @media only screen and (min-width: 75em), only screen and (min-width: 50em) and (max-width: 75em) and (orientation: landscape) {
   .mobile {

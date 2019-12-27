@@ -3,8 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="aaaf2f20-d3dc-4eb7-8f99-4d9649c26d78" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/releases/1.01-dec10/css/lssc_loader.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-dec10/css/lssc_loader.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/common.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/common.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/news/thumbnails/xmas2019.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/news/thumbnails/xmas2019.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/news/xmas2019_desktop.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/news/xmas2019_mobile.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/xmas2019.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/xmas2019.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -32,17 +34,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/news/news.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
+            <state relative-caret-position="738">
               <caret line="41" selection-start-line="41" selection-end-line="41" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/news/xmas2019.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="43" selection-start-column="43" selection-end-column="43" />
+            <state relative-caret-position="612">
+              <caret line="52" column="50" lean-forward="true" selection-start-line="52" selection-start-column="50" selection-end-line="52" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -56,7 +58,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/common.less">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
@@ -194,7 +196,6 @@
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/kontakt.html" />
         <option value="$PROJECT_DIR$/index-snippet.html" />
-        <option value="$PROJECT_DIR$/news/xmas2019.html" />
         <option value="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/impressum.less" />
         <option value="$PROJECT_DIR$/src/releases/1.01-dec10/css/snowfall.css" />
         <option value="$PROJECT_DIR$/src/releases/1.01-dec10/js/snow.js" />
@@ -204,6 +205,7 @@
         <option value="$PROJECT_DIR$/news/news-snow.html" />
         <option value="$PROJECT_DIR$/news/xmas2019.php" />
         <option value="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/common.less" />
+        <option value="$PROJECT_DIR$/news/xmas2019.html" />
       </list>
     </option>
   </component>
@@ -236,11 +238,6 @@
             <path>
               <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
               <item name="unisan-private" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="unisan-private" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
@@ -289,10 +286,11 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="javascript.nodejs.core.library.configured.version" value="6.14.4" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.10.0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="Less" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="RecentsManager">
@@ -500,11 +498,12 @@
       <workItem from="1554381229448" duration="65000" />
       <workItem from="1554381364464" duration="14000" />
       <workItem from="1554381445730" duration="127000" />
+      <workItem from="1577460412753" duration="765000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="814675000" />
+    <option name="totallyTimeSpent" value="815440000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -833,13 +832,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/releases/1.01-dec10/js/init.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="63" selection-start-line="2" selection-end-line="2" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/releases/1.01-dec10/js/snow.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -875,20 +867,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/news/news.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/news/xmas2019.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="43" selection-start-column="43" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/news/xmas2019.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
@@ -896,10 +874,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/news/news.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="738">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/releases/1.01-dec10/js/init.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="63" selection-start-line="2" selection-end-line="2" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/common.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news/xmas2019.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="52" column="50" lean-forward="true" selection-start-line="52" selection-start-column="50" selection-end-line="52" selection-end-column="50" />
         </state>
       </provider>
     </entry>

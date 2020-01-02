@@ -5,82 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aaaf2f20-d3dc-4eb7-8f99-4d9649c26d78" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.well-known/acme-challenge/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/news/19_12_XMas_25-162 Kulturbüro Dian Wang.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/news/old/xmas2019_desktop.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/news/old/xmas2019_mobile.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/news/xmas2019.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/team/header_christmas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/team/header_christmas2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_backward.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_bounce-in.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_bounce-out.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_forward.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/hovercss/less/effects/2d-transitions/_shrink.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/hovercss/less/hover.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nav-snow.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news/news-snow.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-dec10/css/snowfall.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-dec10/css/snowfall.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-dec10/js/news/init-snow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-dec10/js/snow.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/common.html" beforeDir="false" afterPath="$PROJECT_DIR$/git-markup/docs/common.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/core_lidl-0.1a.js.html" beforeDir="false" afterPath="$PROJECT_DIR$/git-markup/docs/core_lidl-0.1a.js.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-Bold-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/git-markup/docs/fonts/OpenSans-Bold-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-Bold-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/git-markup/docs/fonts/OpenSans-Bold-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-Bold-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/git-markup/docs/fonts/OpenSans-Bold-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-BoldItalic-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/git-markup/docs/fonts/OpenSans-BoldItalic-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-BoldItalic-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/git-markup/docs/fonts/OpenSans-BoldItalic-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-BoldItalic-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/git-markup/docs/fonts/OpenSans-BoldItalic-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-Italic-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/git-markup/docs/fonts/OpenSans-Italic-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-Italic-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/git-markup/docs/fonts/OpenSans-Italic-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-Italic-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/git-markup/docs/fonts/OpenSans-Italic-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-Light-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/git-markup/docs/fonts/OpenSans-Light-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-Light-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/git-markup/docs/fonts/OpenSans-Light-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-Light-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/git-markup/docs/fonts/OpenSans-Light-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-LightItalic-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/git-markup/docs/fonts/OpenSans-LightItalic-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-LightItalic-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/git-markup/docs/fonts/OpenSans-LightItalic-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-LightItalic-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/git-markup/docs/fonts/OpenSans-LightItalic-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-Regular-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/git-markup/docs/fonts/OpenSans-Regular-webfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-Regular-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/git-markup/docs/fonts/OpenSans-Regular-webfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/fonts/OpenSans-Regular-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/git-markup/docs/fonts/OpenSans-Regular-webfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/imagebox_lidl-imagebox.js.html" beforeDir="false" afterPath="$PROJECT_DIR$/git-markup/docs/imagebox_lidl-imagebox.js.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/git-markup/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lib_lidl_core_lidl-0.1a.js.html" beforeDir="false" afterPath="$PROJECT_DIR$/git-markup/docs/lib_lidl_core_lidl-0.1a.js.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lib_lidl_imagebox_lidl-imagebox.js.html" beforeDir="false" afterPath="$PROJECT_DIR$/git-markup/docs/lib_lidl_imagebox_lidl-imagebox.js.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lib_lidl_slider_lidl-slider.js.html" beforeDir="false" afterPath="$PROJECT_DIR$/git-markup/docs/lib_lidl_slider_lidl-slider.js.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lidl.Imagebox.html" beforeDir="false" afterPath="$PROJECT_DIR$/git-markup/docs/lidl.Imagebox.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lidl.Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/git-markup/docs/lidl.Main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lidl.ObjectManager.html" beforeDir="false" afterPath="$PROJECT_DIR$/git-markup/docs/lidl.ObjectManager.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lidl.Slider.html" beforeDir="false" afterPath="$PROJECT_DIR$/git-markup/docs/lidl.Slider.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/lidl.html" beforeDir="false" afterPath="$PROJECT_DIR$/git-markup/docs/lidl.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/scripts/linenumber.js" beforeDir="false" afterPath="$PROJECT_DIR$/git-markup/docs/scripts/linenumber.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/scripts/prettify/Apache-License-2.0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/git-markup/docs/scripts/prettify/Apache-License-2.0.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/scripts/prettify/lang-css.js" beforeDir="false" afterPath="$PROJECT_DIR$/git-markup/docs/scripts/prettify/lang-css.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/scripts/prettify/prettify.js" beforeDir="false" afterPath="$PROJECT_DIR$/git-markup/docs/scripts/prettify/prettify.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/slider_lidl-slider.js.html" beforeDir="false" afterPath="$PROJECT_DIR$/git-markup/docs/slider_lidl-slider.js.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/src_js_common.js.html" beforeDir="false" afterPath="$PROJECT_DIR$/git-markup/docs/src_js_common.js.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/styles/jsdoc-default.css" beforeDir="false" afterPath="$PROJECT_DIR$/git-markup/docs/styles/jsdoc-default.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/styles/prettify-jsdoc.css" beforeDir="false" afterPath="$PROJECT_DIR$/git-markup/docs/styles/prettify-jsdoc.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/styles/prettify-tomorrow.css" beforeDir="false" afterPath="$PROJECT_DIR$/git-markup/docs/styles/prettify-tomorrow.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/news/thumbnails/xmas2019.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/news/thumbnails/xmas2019.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/news/xmas2019_desktop.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/news/xmas2019_mobile.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team/highdpi/5-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/team/highdpi/5-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/impress-slider/slide0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/impress-slider/slide4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/impress-slider/slide4.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index-snippet.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-snippet.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/xmas2019.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/xmas2019.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/saveColToDb.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/releases/1.01-dec10/css/lssc_loader.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-dec10/css/lssc_loader.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/releases/1.01-dec10/css/lssc_loader_index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-dec10/css/lssc_loader_index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/releases/1.01-dec10/css/lssc_loader_index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-dec10/css/lssc_loader_index.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/common.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/common.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/impress-slider.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/impress-slider.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/impress-slider.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/impress-slider.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/index.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/releases/1.01-dec10/js/index/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-dec10/js/index/init.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -96,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index-snippet.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="662">
-              <caret line="373" column="84" selection-start-line="373" selection-start-column="84" selection-end-line="373" selection-end-column="84" />
+            <state relative-caret-position="410">
+              <caret line="191" column="192" lean-forward="true" selection-start-line="191" selection-start-column="192" selection-end-line="191" selection-end-column="192" />
             </state>
           </provider>
         </entry>
@@ -118,16 +46,16 @@
         <entry file="file://$PROJECT_DIR$/src/releases/1.01-dec10/css/lssc_loader_index.less">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/news/xmas2019.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
-              <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+              <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
               <folding>
                 <element signature="e#3243#3249#0" expanded="true" />
               </folding>
@@ -166,7 +94,7 @@
         <entry file="file://$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/common.less">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="378">
-              <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+              <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -323,8 +251,8 @@
         <option value="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/common.less" />
         <option value="$PROJECT_DIR$/news/xmas2019.html" />
         <option value="$PROJECT_DIR$/src/releases/1.01-dec10/css/lssc_loader_index.less" />
-        <option value="$PROJECT_DIR$/index-snippet.html" />
         <option value="$PROJECT_DIR$/src/releases/1.01-dec10/js/index/init.js" />
+        <option value="$PROJECT_DIR$/index-snippet.html" />
       </list>
     </option>
   </component>
@@ -724,12 +652,12 @@
       <workItem from="1576102068352" duration="7866000" />
       <workItem from="1576159035801" duration="2340000" />
       <workItem from="1577457285342" duration="1430000" />
-      <workItem from="1577972103316" duration="637000" />
+      <workItem from="1577972103316" duration="1260000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1088640000" />
+    <option name="totallyTimeSpent" value="1089263000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1031,7 +959,7 @@
     <entry file="file://$PROJECT_DIR$/src/releases/1.01-dec10/css/lssc_loader_index.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
@@ -1039,13 +967,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="19" column="74" selection-start-line="19" selection-start-column="74" selection-end-line="19" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index-snippet.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="662">
-          <caret line="373" column="84" selection-start-line="373" selection-start-column="84" selection-end-line="373" selection-end-column="84" />
         </state>
       </provider>
     </entry>
@@ -1059,7 +980,7 @@
     <entry file="file://$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/common.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
-          <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -1076,10 +997,17 @@
     <entry file="file://$PROJECT_DIR$/news/xmas2019.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
-          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
           <folding>
             <element signature="e#3243#3249#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-snippet.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="191" column="192" lean-forward="true" selection-start-line="191" selection-start-column="192" selection-end-line="191" selection-end-column="192" />
         </state>
       </provider>
     </entry>

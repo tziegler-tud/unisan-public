@@ -155,7 +155,7 @@ Classes
   margin: 0 5% 0 5%;
   font-size: 120%;
 }
-@media only screen and (min-width: 75em) {
+@media only screen and (min-width: 75em), only screen and (min-width: 50em) and (max-width: 75em) and (orientation: landscape) {
   .sec-content .sec-content-text {
     width: 40%;
     font-size: 120%;

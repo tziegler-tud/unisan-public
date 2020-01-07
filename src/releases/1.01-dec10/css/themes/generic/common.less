@@ -36,7 +36,6 @@ a {
     width:      100vw;
     margin:     @navbar-height 0 0 0;
     color:      #333;
-    overflow-x: hidden;
 
 
 }
@@ -635,7 +634,7 @@ content sections
     width: 90%;
     margin: 0 5% 0 5%;
 
-    @media @desktop {
+    @media @desktop, @tablet-landscape {
 
         width:40%;
         margin:   0;
@@ -1039,7 +1038,7 @@ a.inline-link {
 
 
 
-        @media @phone, @tablet-portrait {
+        @media @phone {
             display:    none;
         }
 

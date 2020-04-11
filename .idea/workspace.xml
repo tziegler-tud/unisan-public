@@ -2,34 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aaaf2f20-d3dc-4eb7-8f99-4d9649c26d78" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/footer-slim.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news/sose2020.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/news/sose2020.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/lssc_loader_topic.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/themes/generic/topic.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/news/covid19/init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/topics/covid19/content.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/topics/covid19/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-includes.php" beforeDir="false" afterPath="$PROJECT_DIR$/common-includes.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/news/19_12_XMas_25-162 Kulturbüro Dian Wang.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index-snippet.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-snippet.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kontakt.php" beforeDir="false" afterPath="$PROJECT_DIR$/kontakt.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_kurse.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_kurse.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/sose2020.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/covid19.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/sose2020.php" beforeDir="false" afterPath="$PROJECT_DIR$/news/covid19.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_news.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_news.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_news.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_news.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_san.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_san.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_team.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_team.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_welcome.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_welcome.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/index.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/kontakt-box.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/kontakt-box.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/kontakt-box.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/kontakt-box.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/common.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/common.less" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/themes/generic/news.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/news.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/themes/generic/news.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/news.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-20apr11/css/lssc_loader.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20apr11/css/lssc_loader.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-20apr11/css/lssc_loader_index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20apr11/css/lssc_loader_index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-20apr11/css/themes/generic/common.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20apr11/css/themes/generic/common.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-20apr11/css/themes/generic/news.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20apr11/css/themes/generic/news.less" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,11 +64,11 @@
     <property name="NewWatcherDialog.advanced.open" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="13.11.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/releases/1.01-20apr11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="Less" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -371,14 +356,14 @@
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
     <state x="535" y="240" width="909" height="640" key="EditFileWatcherDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1586373257224" />
-    <state x="742" y="300" width="495" height="527" key="FileChooserDialogImpl" timestamp="1586609452305">
+    <state x="742" y="300" width="495" height="527" key="FileChooserDialogImpl" timestamp="1586625251380">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state x="742" y="300" width="495" height="527" key="FileChooserDialogImpl/70.27.1850.1053@70.27.1850.1053" timestamp="1586609452305" />
-    <state x="484" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1586609485780">
+    <state x="742" y="300" width="495" height="527" key="FileChooserDialogImpl/70.27.1850.1053@70.27.1850.1053" timestamp="1586625251380" />
+    <state x="484" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1586625252288">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state x="484" y="188" width="1022" height="737" key="SettingsEditor/70.27.1850.1053@70.27.1850.1053" timestamp="1586609485780" />
+    <state x="484" y="188" width="1022" height="737" key="SettingsEditor/70.27.1850.1053@70.27.1850.1053" timestamp="1586625252288" />
     <state x="763" y="473" width="464" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586386447836">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>

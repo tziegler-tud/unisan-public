@@ -39,7 +39,7 @@ $baseURL = "../";
 
 
 <?php include_once("news.html"); ?>
-<?php include_once("sose2020.html"); ?>
+<?php include_once("covid19.html"); ?>
 
 </div>
 </section>

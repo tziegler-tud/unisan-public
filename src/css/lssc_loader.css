@@ -1555,6 +1555,18 @@ special classes
 .no-js .content-section .sec-labeled-left .sec-label {
   height: 100vh;
 }
+/**
+text styling
+**/
+.force-inline {
+  display: inline !important;
+}
+.bold {
+  font-weight: bold !important;
+}
+.akzent {
+  color: #c31d34;
+}
 /* breadcrumbs */
 .nomobile {
   display: none !important;

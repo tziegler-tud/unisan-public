@@ -750,7 +750,7 @@ body > .btn-jmptop {
 }
 #sec0 #content0 #content0-img {
   min-height: 100%;
-  background-image: url("/images/index/content/teaser.jpg");
+  background-image: url("/images/index/content/covid19.jpg");
 }
 /*
 
@@ -897,3 +897,4 @@ styling for the lidl imagebox to make it a newsfeed
 .no-js .lidl-imagebox-image {
   width: 100%;
 }
+/*# sourceMappingURL=lssc_loader_index.css.map */

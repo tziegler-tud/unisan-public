@@ -1,38 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-
     <list default="true" id="ff31f4b1-53bd-4b4c-993b-75b76ad27083" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-
       <change beforePath="$PROJECT_DIR$/index-snippet.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-snippet.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kontakt.php" beforeDir="false" afterPath="$PROJECT_DIR$/kontakt.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_kurse.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_kurse.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_news.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_news.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_news.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_news.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_san.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_san.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_team.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_team.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_welcome.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_welcome.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/themes/generic/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/index.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/kontakt-box.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/kontakt-box.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/kontakt-box.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/kontakt-box.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/news.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/news.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/news.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/news.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-20apr11/css/lssc_loader.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20apr11/css/lssc_loader.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-20apr11/css/lssc_loader_index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20apr11/css/lssc_loader_index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-20apr11/css/themes/generic/common.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20apr11/css/themes/generic/common.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-20apr11/css/themes/generic/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20apr11/css/themes/generic/index.less" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectId" id="1aGkmUEBfFYz4OtesPvxZ5cCRIh" />
-
   <component name="FavoritesManager">
     <favorites_list name="unisan" />
   </component>
@@ -64,7 +47,6 @@
   </component>
   <component name="ProjectId" id="1aGlDw06vlBKiV9M4T4MAxwjkXH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -73,9 +55,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-
     <property name="javascript.nodejs.core.library.configured.version" value="13.11.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/releases/1.01-20apr11" />
+    <property name="last_opened_file_path" value="/usr/local/bin/lessc" />
     <property name="list.type.of.created.stylesheet" value="Less" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -106,7 +87,6 @@
       <created>1586369476771</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-
       <updated>1519077556605</updated>
       <workItem from="1519077558076" duration="954000" />
       <workItem from="1519421947929" duration="598000" />
@@ -341,6 +321,7 @@
       <workItem from="1586369697058" duration="5322000" />
       <workItem from="1586387211799" duration="692000" />
       <workItem from="1586609403840" duration="7235000" />
+      <workItem from="1586619884520" duration="2841000" />
     </task>
     <servers />
   </component>
@@ -364,14 +345,14 @@
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
     <state x="775" y="112" width="800" height="684" key="#File_Watchers/70.27.1850.1053@70.27.1850.1053" timestamp="1586373327598" />
-    <state x="535" y="240" width="909" height="640" key="EditFileWatcherDialog" timestamp="1586373257224">
+    <state x="535" y="240" width="909" height="640" key="EditFileWatcherDialog" timestamp="1586619915540">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state x="535" y="240" width="909" height="640" key="EditFileWatcherDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1586373257224" />
-    <state x="742" y="300" width="495" height="527" key="FileChooserDialogImpl" timestamp="1586609452305">
+    <state x="535" y="240" width="909" height="640" key="EditFileWatcherDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1586619915540" />
+    <state x="742" y="300" width="495" height="527" key="FileChooserDialogImpl" timestamp="1586619914330">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state x="742" y="300" width="495" height="527" key="FileChooserDialogImpl/70.27.1850.1053@70.27.1850.1053" timestamp="1586609452305" />
+    <state x="742" y="300" width="495" height="527" key="FileChooserDialogImpl/70.27.1850.1053@70.27.1850.1053" timestamp="1586619914330" />
     <state x="484" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1586609485780">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>

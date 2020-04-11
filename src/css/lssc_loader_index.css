@@ -31,8 +31,8 @@ Ids
     overflow-y: scroll;
     /*
 
-for use with impress --> make teaser fade to black
- */
+    for use with impress --> make teaser fade to black
+     */
     background-color: #000;
   }
 }
@@ -204,8 +204,8 @@ Classes
   margin: 0 5% 0 5%;
 }
 /**
-  Alignment
-   */
+Alignment
+ */
 .split-horizontally {
   position: relative;
   height: 100%;
@@ -322,11 +322,11 @@ Classes
   }
 }
 /**
-  functional classes
-   */
+functional classes
+ */
 /**
-  gallery
-   */
+gallery
+ */
 .image-gallery.gallery-border .border-left,
 .image-gallery.gallery-border .border-bottom {
   box-sizing: border-box;
@@ -506,6 +506,9 @@ Classes
   border-top-color: #fffcf5;
   transition: width 0.25s ease-out 0.25s, height 0.25s ease-out;
 }
+/**
+newsfeed
+ */
 .newsfeed {
   width: 90%;
   margin: 0 auto;
@@ -576,6 +579,19 @@ Classes
 .newsfeed .newsfeed-container .news-item .news-item-inner .news-image img {
   width: 100%;
 }
+.newsfeed .newsfeed-container .news-item .news-item-inner .news-image .thumbnail-credit {
+  position: absolute;
+  right: 0;
+  top: 0;
+  display: block;
+  padding: 0.5em 0.5em;
+  background-color: #00293c;
+  color: #fff;
+  writing-mode: vertical-rl;
+  text-orientation: mixed;
+  font-weight: lighter;
+  font-size: 60%;
+}
 .newsfeed .newsfeed-container .news-item .news-item-inner .news-heading {
   width: 80%;
   margin: 1em auto;
@@ -588,8 +604,8 @@ Classes
   font-size: 70%;
 }
 /**
-  special classes
-   */
+special classes
+ */
 .color-light {
   background-color: #fffcf5;
   color: #333;
@@ -619,15 +635,15 @@ Classes
   background-color: #00293c;
 }
 /**
-  special elements
-  */
+special elements
+*/
 #sec1_border_img {
   width: 50vw;
   right: -20vw;
 }
 /**
-  no js fallbacks
-   */
+no js fallbacks
+ */
 .no-js #wrapper {
   margin-top: 0;
   perspective: initial !important;
@@ -639,8 +655,8 @@ Classes
   transform: initial !important;
 }
 /**
-  deactivate default jmpToTop-Btn, instead show specific btn for index page...
-   */
+deactivate default jmpToTop-Btn, instead show specific btn for index page...
+ */
 body > .btn-jmptop {
   display: none;
 }

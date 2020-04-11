@@ -16,55 +16,107 @@
 .contact-box .contact-container {
   font-size: 80%;
 }
-.contact-container:first-child {
-  padding-top: 2em;
+.contact-box .contact-container.font100 {
+  font-size: 100%;
 }
-.contact-container .contact-person {
+.contact-box.slim .contact-container .contact-person {
   width: 100%;
   display: flex;
   flex-flow: row wrap;
   border: 1px solid #AAA;
 }
-.contact-container .contact-person .person-part {
+.contact-box.slim .contact-container .contact-person .person-part {
   flex: 0 0 100%;
   float: left;
   position: relative;
 }
 @media only screen and (min-width: 75em), only screen and (min-width: 50em) and (max-width: 75em) and (orientation: landscape) {
-  .contact-container .contact-person .person-part {
+  .contact-box.slim .contact-container .contact-person .person-part {
     flex: 0 0 50%;
   }
 }
-.contact-container .contact-person .person-image {
+.contact-box.slim .contact-container .contact-person .person-image {
   max-width: 250px;
 }
-.contact-container .contact-person .person-image img {
+.contact-box.slim .contact-container .contact-person .person-image img {
   width: 100%;
   display: block;
 }
-.contact-container .contact-person .person-details {
+.contact-box.slim .contact-container .contact-person .person-details {
   display: flex;
   flex-flow: column wrap;
 }
-.contact-container .contact-person .person-details > .spacer {
+.contact-box.slim .contact-container .contact-person .person-details > .spacer {
   flex: 1 0 auto;
 }
-.contact-container .contact-person .person-details > .wrapper {
+.contact-box.slim .contact-container .contact-person .person-details > .wrapper {
   flex: 0 0 auto;
   position: relative;
   bottom: 0;
 }
-.contact-container .contact-person .person-details span.details {
+.contact-box.slim .contact-container .contact-person .person-details span.details {
   font-size: 90%;
 }
-.contact-container .contact-person .person-details span.details.name {
+.contact-box.slim .contact-container .contact-person .person-details span.details.name {
   font-weight: bold;
 }
-.contact-container .contact-person .person-details span.details.mail > a {
+.contact-box.slim .contact-container .contact-person .person-details span.details.mail > a {
   font-size: 80%;
   font-weight: bold;
 }
-.contact-container span {
+.contact-box.slim .contact-container span {
+  display: block;
+  margin: 1em;
+}
+.contact-box .contact-container:first-child {
+  padding-top: 2em;
+}
+.contact-box .contact-container .contact-person {
+  width: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  border: 1px solid #AAA;
+}
+.contact-box .contact-container .contact-person .person-part {
+  flex: 0 0 100%;
+  float: left;
+  position: relative;
+}
+@media only screen and (min-width: 75em), only screen and (min-width: 50em) and (max-width: 75em) and (orientation: landscape) {
+  .contact-box .contact-container .contact-person .person-part {
+    flex: 0 0 50%;
+  }
+}
+.contact-box .contact-container .contact-person .person-image {
+  max-width: 250px;
+}
+.contact-box .contact-container .contact-person .person-image img {
+  width: 100%;
+  display: block;
+}
+.contact-box .contact-container .contact-person .person-details {
+  display: flex;
+  flex-flow: column wrap;
+}
+.contact-box .contact-container .contact-person .person-details > .spacer {
+  flex: 1 0 auto;
+}
+.contact-box .contact-container .contact-person .person-details > .wrapper {
+  flex: 0 0 auto;
+  position: relative;
+  bottom: 0;
+}
+.contact-box .contact-container .contact-person .person-details span.details {
+  font-size: 90%;
+}
+.contact-box .contact-container .contact-person .person-details span.details.name {
+  font-weight: bold;
+}
+.contact-box .contact-container .contact-person .person-details span.details.mail > a {
+  font-size: 80%;
+  font-weight: bold;
+}
+.contact-box .contact-container span {
   display: block;
   margin: 1em;
 }

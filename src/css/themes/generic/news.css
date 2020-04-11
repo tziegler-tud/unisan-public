@@ -54,6 +54,14 @@
   max-width: 750px;
   display: block;
 }
+.news-article .news-container .news-image .img-credit {
+  display: block;
+  margin-top: 0.5em;
+  margin-left: 0.5em;
+  opacity: 0.6;
+  font-size: 90%;
+  font-stretch: condensed;
+}
 .news-article .news-container .news-author {
   font-size: 80%;
   color: #444;

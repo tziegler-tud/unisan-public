@@ -465,7 +465,6 @@ a {
   width: 100vw;
   margin: 75px 0 0 0;
   color: #333;
-  overflow-x: hidden;
 }
 .content-wrapper {
   width: 100%;
@@ -934,7 +933,7 @@ content sections
   width: 90%;
   margin: 0 5% 0 5%;
 }
-@media only screen and (min-width: 75em) {
+@media only screen and (min-width: 75em), only screen and (min-width: 50em) and (max-width: 75em) and (orientation: landscape) {
   .sec-content-text {
     width: 40%;
     margin: 0;
@@ -1318,7 +1317,7 @@ a.inline-link.external::before {
 .no-js .content-section .sec-labeled-left .sec-label {
   top: 0 !important;
 }
-@media only screen and (max-width: 50em), only screen and (min-width: 50em) and (max-width: 75em) and (orientation: portrait) {
+@media only screen and (max-width: 50em) {
   .content-section .sec-labeled-left .sec-label {
     display: none;
   }

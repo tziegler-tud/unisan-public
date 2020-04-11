@@ -14,8 +14,8 @@
          ** specific js libs
          *********************************** -->
 
-       <script src="src/js/kontakt/kontakt.js"></script>
-       <script src="src/js/kontakt/init.js"></script>
+       <script src="src/releases/1.01-20apr11/js/kontakt/kontakt.js"></script>
+       <script src="src/releases/1.01-20apr11/js/kontakt/init.js"></script>
 
 
        <!--

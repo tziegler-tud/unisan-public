@@ -1,7 +1,7 @@
 @import 'fonts.css';
 @import 'dev.css';
 @import '../../modules/lidl/slider/slider.css';
-@import '../../lib/jquery-ui-1.12.1/jquery-ui.css';
+@import '../../modules/jquery-ui-1.12.1/jquery-ui.css';
 .noselect {
   -webkit-touch-callout: none;
   /* iOS Safari */
@@ -258,7 +258,6 @@
 .nav #menu .menu-entries ul li span {
   display: inline;
   text-align: center;
-  padding: auto;
 }
 .nav #menu .menu-entries svg {
   width: 1em;
@@ -306,7 +305,7 @@
     width: 25% !important;
   }
 }
-@media only screen and (min-width: 50em) and (max-width: 75em) and (orientation: landscape) {
+@media only screen and (min-width: 50em) and (max-width: 75em) and (orientation: landscape), only screen and (min-width: 50em) and (max-width: 75em) and (orientation: portrait) {
   .nav #menu.menu-active {
     width: 50% !important;
   }

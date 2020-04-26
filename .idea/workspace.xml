@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aaaf2f20-d3dc-4eb7-8f99-4d9649c26d78" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-includes.php" beforeDir="false" afterPath="$PROJECT_DIR$/common-includes.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/lidl/imagebox/lidl-imagebox.js" beforeDir="false" afterPath="$PROJECT_DIR$/modules/lidl/imagebox/lidl-imagebox.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/drop-down-menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/drop-down-menu.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/drop-down-menu.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/drop-down-menu.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-20apr11/css/themes/generic/drop-down-menu.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20apr11/css/themes/generic/drop-down-menu.less" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -324,7 +318,7 @@
       <workItem from="1586387211799" duration="692000" />
       <workItem from="1586609403840" duration="7235000" />
       <workItem from="1586793165871" duration="47000" />
-      <workItem from="1587920215636" duration="1358000" />
+      <workItem from="1587920215636" duration="1414000" />
     </task>
     <servers />
   </component>

@@ -10,6 +10,7 @@
       <change beforePath="$PROJECT_DIR$/src/css/themes/generic/common.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/common.less" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/themes/generic/newsportal.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/newsportal.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/themes/generic/newsportal.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/newsportal.less" afterDir="false" />
+
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,75 +32,6 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>sec-content-text</find>
-      <find>style-de</find>
-      <find>setAct</find>
-      <find>setActive</find>
-      <find>navigationDo</find>
-      <find>createNavigationArrows</find>
-      <find>bg-hel</find>
-      <find>bg-helper</find>
-      <find>color-whi</find>
-      <find>bg-img</find>
-      <find>NAME-YOUR-ANIMATION</find>
-      <find>animate-lights</find>
-      <find>url</find>
-      <find>state</find>
-      <find>clear</find>
-      <find>impres</find>
-      <find>bold</find>
-      <find>impress-inn</find>
-      <find>sec0</find>
-      <find>content-text</find>
-      <find>impress</find>
-      <find>impress-text</find>
-      <find>4em</find>
-      <find>impress-link</find>
-      <find>impress-l</find>
-      <find>desktop</find>
-      <find>mobile</find>
-      <find>inline</find>
-      <find>sec-label</find>
-      <find>sec-content</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>e.</replace>
-      <replace>images</replace>
-      <replace>imagebox</replace>
-      <replace>@phone,@tablet-portrait</replace>
-      <replace>@tablet-landscape</replace>
-      <replace>#footer-mobile .menu-entries</replace>
-      <replace>.footer-entries</replace>
-      <replace>#footer-desktop</replace>
-      <replace>@red</replace>
-      <replace>course-title</replace>
-      <replace>&lt;div class=&quot;img-container&quot;&gt;&lt;img src=&quot;images/team/1.jpg</replace>
-      <replace>&lt;div class=</replace>
-      <replace>&lt;div class=&quot;text-container&quot;&gt;</replace>
-      <replace>member collapsed</replace>
-      <replace>=&quot;member collapsed&quot;</replace>
-      <replace>=&quot;member&quot;</replace>
-      <replace>navBarDom</replace>
-      <replace>menuDom</replace>
-      <replace>nav</replace>
-      <replace>nav.</replace>
-      <replace>Nav.</replace>
-      <replace>NavComponent</replace>
-      <replace>navComponent</replace>
-      <replace>menu</replace>
-      <replace>Menu</replace>
-      <replace>opacity 350ms ease-out, visibility 0s linear 350ms</replace>
-      <replace>modules</replace>
-      <replace>impress-slider</replace>
-      <replace>animate-lights</replace>
-      <replace>navDot-transition</replace>
-    </replaceStrings>
-    <dirStrings>
-      <dir>$PROJECT_DIR$/src/js</dir>
-    </dirStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -115,6 +47,7 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1cP0lF3fMdtZcK5MZBmP9u9eloJ" />
+
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -129,6 +62,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="13.11.0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+
     <property name="list.type.of.created.stylesheet" value="Less" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -136,12 +70,20 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/topics" />
       <recent name="$PROJECT_DIR$/src/releases/1.01-dec10/css" />
       <recent name="$PROJECT_DIR$/src/releases/1.01-okt19/css" />
       <recent name="$PROJECT_DIR$/news" />
       <recent name="$PROJECT_DIR$/src/js/contact" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/modules/lidl" />
+      <recent name="$PROJECT_DIR$/lib/lidl/1.01-apr20" />
+      <recent name="$PROJECT_DIR$/src/releases/1.01-20apr11" />
+      <recent name="$PROJECT_DIR$/src/js/news/covid19" />
       <recent name="$PROJECT_DIR$" />
     </key>
+
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/css/themes/generic" />
       <recent name="$PROJECT_DIR$/news" />
@@ -149,6 +91,7 @@
       <recent name="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic" />
       <recent name="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes" />
     </key>
+
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -389,12 +332,13 @@
       <workItem from="1578391791783" duration="1749000" />
       <workItem from="1578404192770" duration="606000" />
       <workItem from="1582290364457" duration="2076000" />
-      <workItem from="1582296208396" duration="553000" />
-      <workItem from="1582563898989" duration="605000" />
-      <workItem from="1588796493850" duration="1227000" />
-      <workItem from="1588799249608" duration="23000" />
-      <workItem from="1590347989936" duration="5256000" />
-      <workItem from="1590415073577" duration="2238000" />
+
+      <workItem from="1582296208396" duration="468000" />
+      <workItem from="1586369697058" duration="5322000" />
+      <workItem from="1586387211799" duration="692000" />
+      <workItem from="1586609403840" duration="7235000" />
+      <workItem from="1586793165871" duration="47000" />
+      <workItem from="1587920215636" duration="1414000" />
     </task>
     <servers />
   </component>
@@ -422,6 +366,7 @@
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
     <state x="484" y="188" width="1022" height="737" key="SettingsEditor/70.27.1850.1053@70.27.1850.1053" timestamp="1590415118223" />
+
   </component>
   <component name="masterDetails">
     <states>

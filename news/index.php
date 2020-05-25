@@ -20,8 +20,6 @@ $baseURL = "../";
          ** specific js libs
          *********************************** -->
 
-         <script src="../src/releases/1.01-dec10/js/index/init.js"?>></script>
-         <script src="../src/releases/1.01-dec10/js/index/index.js"></script>
      
 
 

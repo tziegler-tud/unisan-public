@@ -17,13 +17,13 @@
 Ids
  */
 #wrapper {
-  font-size: 100%;
+  font-size: 130%;
   width: 100vw;
   margin: 75px 0 0 0;
   color: #333;
 }
 #content-wrapper {
-  font-size: 130%;
+  font-size: 100%;
   display: block;
   position: relative;
   z-index: 1;
@@ -31,6 +31,9 @@ Ids
 /**
 Classes
  */
+#newsportal {
+  font-size: 80%;
+}
 .newsfeed {
   width: 90%;
   margin: 0 auto;
@@ -115,7 +118,7 @@ Classes
   font-size: 150%;
   color: #00293c;
   position: absolute;
-  bottom: 0;
+  bottom: 1em;
   left: 0;
   display: block;
   padding: 0.5em 1em;
@@ -134,4 +137,7 @@ Classes
   border-top: 1px solid #fff;
   margin-top: auto;
   font-size: 70%;
+  position: absolute;
+  bottom: 0;
+  right: 1em;
 }

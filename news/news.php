@@ -1,5 +1,5 @@
 <?php
-$baseURL = "";
+$baseURL = "../";
 ?>
 
 <!DOCTYPE html>
@@ -29,11 +29,11 @@ $baseURL = "";
 </head>
 
 <!--Preloader-->
-<?php include_once($baseURL."/preloader.html");?>
+<?php include_once($baseURL."preloader.html");?>
 
 <!-- content-->
 
-<?php include_once($baseURL."/nav.html"); ?>
+<?php include_once($baseURL."nav.html"); ?>
 
 
 <?php include_once("news.html"); ?>
@@ -41,9 +41,9 @@ $baseURL = "";
 </div>
 
 
-<?php include_once($baseURL."/footer.html"); ?>
+<?php include_once($baseURL."footer.html"); ?>
 
-<?php include_once($baseURL."/floating_btn.html"); ?>
+<?php include_once($baseURL."floating_btn.html"); ?>
 
 
 

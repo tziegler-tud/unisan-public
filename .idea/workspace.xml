@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aaaf2f20-d3dc-4eb7-8f99-4d9649c26d78" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/index-bakImpress.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news/index-snippet.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/themes/generic/newsportal.less" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-snippet.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-snippet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/gesundheitstag-2019.php" beforeDir="false" afterPath="$PROJECT_DIR$/news/gesundheitstag-2019.php" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,83 +26,70 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/news/neujahresempfang.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="702">
-              <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/news/xmas2019.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="990">
-              <caret line="55" column="22" selection-start-line="53" selection-start-column="16" selection-end-line="55" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/news/neujahresempfang.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="599">
-              <caret line="51" column="72" selection-start-line="51" selection-start-column="72" selection-end-line="51" selection-end-column="72" />
+            <state relative-caret-position="379">
+              <caret line="31" column="252" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="252" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index-bakImpress.html">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index-snippet.html">
+        <entry file="file://$PROJECT_DIR$/news/index-snippet.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="101" column="35" selection-start-line="101" selection-start-column="35" selection-end-line="101" selection-end-column="35" />
+            <state relative-caret-position="558">
+              <caret line="43" column="38" lean-forward="true" selection-start-line="40" selection-end-line="43" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/impress-slider.less">
+        <entry file="file://$PROJECT_DIR$/news/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2484">
-              <caret line="138" column="29" selection-start-line="138" selection-start-column="29" selection-end-line="138" selection-end-column="29" />
+            <state relative-caret-position="440">
+              <caret line="31" column="93" selection-start-line="31" selection-start-column="93" selection-end-line="31" selection-end-column="93" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/common.less">
+        <entry file="file://$PROJECT_DIR$/team.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7974">
-              <caret line="443" column="12" selection-start-line="443" selection-start-column="1" selection-end-line="443" selection-end-column="12" />
+            <state>
+              <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/releases/1.01-dec10/css/lssc_loader.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/releases/1.01-dec10/js/index/index.js">
+        <entry file="file://$PROJECT_DIR$/team.php">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/releases/1.01-dec10/js/index/init.js">
+        <entry file="file://$PROJECT_DIR$/src/css/lssc_loader_news.less">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/css/themes/generic/news.less">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/css/themes/generic/newsportal.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1332">
-              <caret line="74" column="7" selection-start-line="74" selection-start-column="7" selection-end-line="74" selection-end-column="7" />
+            <state relative-caret-position="325">
+              <caret line="138" column="23" lean-forward="true" selection-start-line="138" selection-start-column="23" selection-end-line="138" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/news/gesundheitstag-2019.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -112,10 +101,10 @@
       <list>
         <option value="tsconfig.json" />
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="XSLT Stylesheet" />
         <option value="Less File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -194,11 +183,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/welcome/index.php" />
-        <option value="$PROJECT_DIR$/src/css/themes/generic/welcome.less" />
-        <option value="$PROJECT_DIR$/src/js/index/index.js" />
-        <option value="$PROJECT_DIR$/src/css/themes/generic/index.less" />
-        <option value="$PROJECT_DIR$/src/css/themes/generic/common.less" />
         <option value="$PROJECT_DIR$/src/js/index/config.js" />
         <option value="$PROJECT_DIR$/src/js/init.js" />
         <option value="$PROJECT_DIR$/lib/lidl/default-navigation/navObject.js" />
@@ -244,7 +228,12 @@
         <option value="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/index.less" />
         <option value="$PROJECT_DIR$/news/neujahresempfang.php" />
         <option value="$PROJECT_DIR$/news/neujahresempfang.html" />
+        <option value="$PROJECT_DIR$/news/index.html" />
+        <option value="$PROJECT_DIR$/news/gesundheitstag-2019.php" />
+        <option value="$PROJECT_DIR$/news/index.php" />
         <option value="$PROJECT_DIR$/index-snippet.html" />
+        <option value="$PROJECT_DIR$/src/css/themes/generic/newsportal.less" />
+        <option value="$PROJECT_DIR$/news/index-snippet.html" />
       </list>
     </option>
   </component>
@@ -271,7 +260,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -293,29 +281,12 @@
               <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
               <item name="unisan-private" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="releases" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="unisan-private" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="releases" type="462c0819:PsiDirectoryNode" />
-              <item name="1.01-dec10" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="unisan-private" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="releases" type="462c0819:PsiDirectoryNode" />
-              <item name="1.01-dec10" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
               <item name="unisan-private" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="releases" type="462c0819:PsiDirectoryNode" />
-              <item name="1.01-dec10" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -323,8 +294,6 @@
               <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
               <item name="unisan-private" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="releases" type="462c0819:PsiDirectoryNode" />
-              <item name="1.01-dec10" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
               <item name="generic" type="462c0819:PsiDirectoryNode" />
@@ -333,23 +302,14 @@
               <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
               <item name="unisan-private" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="releases" type="462c0819:PsiDirectoryNode" />
-              <item name="1.01-dec10" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="unisan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="unisan-private" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="releases" type="462c0819:PsiDirectoryNode" />
-              <item name="1.01-dec10" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="index" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="lssc_loader_news.less" type="620a8d5e:NestingTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -366,19 +326,19 @@
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/news" />
-      <recent name="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic" />
-      <recent name="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes" />
-      <recent name="$PROJECT_DIR$/src/releases" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/releases/1.01-dec10/css" />
       <recent name="$PROJECT_DIR$/src/releases/1.01-okt19/css" />
       <recent name="$PROJECT_DIR$/news" />
       <recent name="$PROJECT_DIR$/src/js/contact" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/css/themes/generic" />
+      <recent name="$PROJECT_DIR$/news" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic" />
+      <recent name="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -632,12 +592,16 @@
       <workItem from="1578391791783" duration="1749000" />
       <workItem from="1578404192770" duration="606000" />
       <workItem from="1582290364457" duration="2076000" />
-      <workItem from="1582296208396" duration="468000" />
+      <workItem from="1582296208396" duration="553000" />
+      <workItem from="1582563898989" duration="605000" />
+      <workItem from="1588796493850" duration="1227000" />
+      <workItem from="1588799249608" duration="23000" />
+      <workItem from="1590347989936" duration="5256000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1094939000" />
+    <option name="totallyTimeSpent" value="1102135000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -650,7 +614,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="70" y="27" width="1850" height="1053" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49376947" visible="true" weight="0.16091955" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -658,7 +621,7 @@
       <window_info id="npm" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32937366" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48144105" weight="0.32721382" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48144105" weight="0.32715377" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -673,7 +636,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49376947" visible="true" weight="0.1557377" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49376947" visible="true" weight="0.16091955" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.50623053" side_tool="true" weight="0.1577511" />
       <window_info id="npm" order="3" side_tool="true" />
@@ -701,70 +664,6 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/common.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16056">
-          <caret line="892" selection-start-line="892" selection-end-line="892" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/releases/1.01-okt29/js/init.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="71" selection-start-line="15" selection-start-column="71" selection-end-line="15" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/lidl/1.01-okt19/core/lidl-0.1b.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/lidl/1.01-okt19/default-navigation/default-navigation.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/lidl/1.01-okt19/default-navigation/menu.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/lidl/1.01-okt19/default-navigation/nav.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3420">
-          <caret line="190" column="36" selection-start-line="190" selection-start-column="36" selection-end-line="190" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/lidl/imagebox/imagebox-less.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/impress-slider.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/releases/1.01-okt29/js/index/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/lidl/1.01-dec10/core/errors.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/lidl/1.01-dec10/imagebox/lidl-imagebox.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/modules/lidl/1.01-dec10/core/errors.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -930,19 +829,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/news/neujahresempfang.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/news/xmas2019.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="55" column="22" selection-start-line="53" selection-start-column="16" selection-end-line="55" selection-end-column="22" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/index-bakImpress.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic/impress-slider.less">
       <provider selected="true" editor-type-id="text-editor">
@@ -975,20 +863,99 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/news/neujahresempfang.html">
+    <entry file="file://$PROJECT_DIR$/news/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="599">
-          <caret line="51" column="72" selection-start-line="51" selection-start-column="72" selection-end-line="51" selection-end-column="72" />
+        <state relative-caret-position="72">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index-bakImpress.html">
+    <entry file="file://$PROJECT_DIR$/news/neujahresempfang.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news/kif-2019.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mitmachen.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="98" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mitmachen.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news/xmas2019.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="33" lean-forward="true" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/lssc_loader_news.less">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news/gesundheitstag-2019.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/news.less">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/index-snippet.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="101" column="35" selection-start-line="101" selection-start-column="35" selection-end-line="101" selection-end-column="35" />
+        <state relative-caret-position="774">
+          <caret line="101" column="35" lean-forward="true" selection-start-line="101" selection-start-column="35" selection-end-line="101" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/team.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news/neujahresempfang.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="31" column="252" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="252" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="31" column="93" selection-start-line="31" selection-start-column="93" selection-end-line="31" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/css/themes/generic/newsportal.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="138" column="23" lean-forward="true" selection-start-line="138" selection-start-column="23" selection-end-line="138" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news/index-snippet.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="43" column="38" lean-forward="true" selection-start-line="40" selection-end-line="43" selection-end-column="38" />
         </state>
       </provider>
     </entry>

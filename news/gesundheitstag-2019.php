@@ -9,9 +9,9 @@ $baseURL = "../";
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <title>News - Studentischer Sanitätsdienst der TU Dresden</title>
-    <link rel="shortcut icon" type="image/x-icon" href="icons/favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="../icons/favicon.ico">
 
-<?php include_once($baseURL."common-includes.php"); ?>
+<?php include_once("../common-includes.php"); ?>
 
        <!--
          ***********************************
@@ -25,7 +25,7 @@ $baseURL = "../";
          ***********************************
          ** specific css files
          *********************************** -->
-       <link rel="stylesheet" type="text/css" href="/src/css/lssc_loader_news.css" />
+       <link rel="stylesheet" type="text/css" href="../src/css/lssc_loader_news.css" />
 </head>
 
 <!--Preloader-->

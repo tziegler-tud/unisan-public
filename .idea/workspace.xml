@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aaaf2f20-d3dc-4eb7-8f99-4d9649c26d78" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/newsfeed-index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/newsfeed-index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/index-snippet.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/index-snippet.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -324,6 +325,7 @@
       <workItem from="1590438847660" duration="6396000" />
       <workItem from="1590493332956" duration="8661000" />
       <workItem from="1590521604975" duration="2923000" />
+      <workItem from="1590528236037" duration="767000" />
     </task>
     <servers />
   </component>
@@ -351,14 +353,14 @@
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
     <state x="535" y="240" width="909" height="640" key="EditFileWatcherDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1590418663078" />
-    <state x="742" y="300" width="495" height="541" key="FileChooserDialogImpl" timestamp="1590521671155">
+    <state x="742" y="300" width="495" height="548" key="FileChooserDialogImpl" timestamp="1590528313591">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state x="742" y="300" width="495" height="541" key="FileChooserDialogImpl/70.27.1850.1053@70.27.1850.1053" timestamp="1590521671155" />
-    <state x="484" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1590521672391">
+    <state x="742" y="300" width="495" height="548" key="FileChooserDialogImpl/70.27.1850.1053@70.27.1850.1053" timestamp="1590528313591" />
+    <state x="484" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1590528314278">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state x="484" y="188" width="1022" height="737" key="SettingsEditor/70.27.1850.1053@70.27.1850.1053" timestamp="1590521672391" />
+    <state x="484" y="188" width="1022" height="737" key="SettingsEditor/70.27.1850.1053@70.27.1850.1053" timestamp="1590528314278" />
     <state x="659" y="252" key="run.anything.popup" timestamp="1590444554852">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>

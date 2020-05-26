@@ -25,7 +25,7 @@ $baseURL = "../";
          ***********************************
          ** specific css files
          *********************************** -->
-       <link rel="stylesheet" type="text/css" href="/src/releases/1.01-okt19/css/lssc_loader_news.css" />
+       <link rel="stylesheet" type="text/css" href="/src/releases/1.01-20apr11/css/lssc_loader_news.css" />
 </head>
 
 <!--Preloader-->
@@ -38,6 +38,7 @@ $baseURL = "../";
 
 <?php include_once("news.html"); ?>
 <?php include_once("5gworld.html"); ?>
+<?php include_once("news-footer.html"); ?>
 
 </div>
 </section>

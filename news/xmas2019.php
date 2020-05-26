@@ -25,7 +25,7 @@ $baseURL = "../";
          ***********************************
          ** specific css files
          *********************************** -->
-       <link rel="stylesheet" type="text/css" href="/src/releases/1.01-dec10/css/lssc_loader_news.css" />
+       <link rel="stylesheet" type="text/css" href="/src/releases/1.01-20apr11/css/lssc_loader_news.css" />
 </head>
 
 <!--Preloader-->

@@ -35,6 +35,10 @@
     display: block;
   }
 }
+#wrapper .ul-head {
+  font-weight: bold;
+  font-size: 90%;
+}
 #wrapper .ul-head:before {
   content: "  ";
 }

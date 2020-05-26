@@ -376,7 +376,7 @@ newsfeed
 }
 .newsfeed .newsfeed-container {
   display: flex;
-  flex-flow: column wrap;
+  flex-flow: row wrap;
   width: 100%;
 }
 @media only screen and (min-width: 75em), only screen and (min-width: 50em) and (max-width: 75em) and (orientation: landscape) {

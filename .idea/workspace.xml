@@ -2,152 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aaaf2f20-d3dc-4eb7-8f99-4d9649c26d78" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/.Rhistory" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/dev.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/fonts.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/loader.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/lss_loader.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/lssc_loader.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/lssc_loader.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/lssc_loader_impressum.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/lssc_loader_impressum.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/lssc_loader_index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/lssc_loader_index.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/lssc_loader_index.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/lssc_loader_kontakt.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/lssc_loader_kontakt.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/lssc_loader_kurse.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/lssc_loader_kurse.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/lssc_loader_mitmachen.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/lssc_loader_mitmachen.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/lssc_loader_news.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/lssc_loader_news.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/lssc_loader_san.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/lssc_loader_san.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/lssc_loader_team.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/lssc_loader_team.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/lssc_loader_topic.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/lssc_loader_topic.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/lssc_loader_welcome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/lssc_loader_welcome.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/no-js.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/preloader.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/preloader.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/blizzard/common.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/blizzard/content.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/blizzard/drop-down-menu.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/blizzard/footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/blizzard/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/blizzard/loader.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/common/common.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/common/content.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/common/drop-down-menu.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/common/footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/common/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/common/loader.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/animations.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/animations.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/color-rules.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/color-rules.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/common.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/common.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/contact-bak.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/contact-bak.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/contact-form.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/contact-form.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/contact-new.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/content.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/drop-down-menu.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/drop-down-menu.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/footer.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/impress-slider.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/impress-slider.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/impressum.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/impressum.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/index.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/kontakt-box.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/kontakt-box.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/kontakt.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/kontakt.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/kurse.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/kurse.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/loader.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/loader.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/mitmachen.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/mitmachen.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/news.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/news.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/newsfeed-index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/newsfeed-index.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/newsportal.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/no-js-dash.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/no-js-dash.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/sanitaetsdienst.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/sanitaetsdienst.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/team.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/team.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/topic.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/topic.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/variables.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/variables.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/welcome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/welcome.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/workinprogress.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/workinprogress.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/lssc_loader_impressum.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/midnight-blue/common.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/midnight-blue/content.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/midnight-blue/drop-down-menu.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/midnight-blue/footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/midnight-blue/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/midnight-blue/loader.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/midnight/common.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/midnight/content.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/midnight/drop-down-menu.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/midnight/footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/midnight/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/midnight/loader.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/js/common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/js/dev.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/js/footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/js/index/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/js/index/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/js/index/init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/js/init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/js/kontakt/contact-form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/js/kontakt/init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/js/kontakt/kontakt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/js/menu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/js/mitmachen/init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/js/news/covid19/init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/js/team/init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/js/welcome/init.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-includes.php" beforeDir="false" afterPath="$PROJECT_DIR$/common-includes.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/5gworld.php" beforeDir="false" afterPath="$PROJECT_DIR$/news/5gworld.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/covid19.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/covid19.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/covid19.php" beforeDir="false" afterPath="$PROJECT_DIR$/news/covid19.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/gesundheitstag-2019.php" beforeDir="false" afterPath="$PROJECT_DIR$/news/gesundheitstag-2019.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/news/index-snippet.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/index-snippet.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/kif-2019.php" beforeDir="false" afterPath="$PROJECT_DIR$/news/kif-2019.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/neujahresempfang.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/neujahresempfang.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/neujahresempfang.php" beforeDir="false" afterPath="$PROJECT_DIR$/news/neujahresempfang.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/semesterauftakt.php" beforeDir="false" afterPath="$PROJECT_DIR$/news/semesterauftakt.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/sommerfest-wu.php" beforeDir="false" afterPath="$PROJECT_DIR$/news/sommerfest-wu.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/xmas2019.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/xmas2019.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/xmas2019.php" beforeDir="false" afterPath="$PROJECT_DIR$/news/xmas2019.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_topic.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_topic.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/common.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/common.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/common.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/newsportal.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/newsportal.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/newsportal.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/newsportal.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/topic.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/topic.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/topic.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/topic.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/releases/1.01-20apr11/css/themes/generic/animations.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20apr11/css/themes/generic/animations.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/topics/covid19/content.html" beforeDir="false" afterPath="$PROJECT_DIR$/topics/covid19/content.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -468,7 +324,7 @@
       <workItem from="1590418696358" duration="4454000" />
       <workItem from="1590438847660" duration="6396000" />
       <workItem from="1590493332956" duration="8661000" />
-      <workItem from="1590521604975" duration="1569000" />
+      <workItem from="1590521604975" duration="2923000" />
     </task>
     <servers />
   </component>

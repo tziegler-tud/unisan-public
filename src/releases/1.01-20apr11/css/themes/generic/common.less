@@ -1,5 +1,6 @@
 @import 'color-rules.less';
 @import 'variables.less';
+@import 'animations.less';
 
 body {
     padding:            0;
@@ -836,6 +837,19 @@ a.inline-link {
 
        }
     }
+    &.light-v2 {
+        background-color:   transparent;
+        color:              @akzent-color;
+        border:             1px solid @akzent-color;
+        display:            inline-block;
+        padding:            0.5em 1em;
+        margin:             .5em .5em;
+        &:hover {
+            background-color: @link-hover-color-v2;
+            cursor:         pointer;
+            .transition(background-color,200ms);
+        }
+    }
 }
 
 
@@ -1329,6 +1343,32 @@ special classes
 
 }
 
+.color-generic-v5 {
+    @col:                  @content-font-color-v5;
+    @bg:       @content-bg-color-v5;
+    background-color:       @bg;
+    color:                  @col;
+
+    .color-invert {
+        color:              @bg;
+        background-color:   @col;
+    }
+
+}
+
+.color-generic-v5-inverse {
+    @bg:       @content-font-color-v5;
+    @col:                  @content-bg-color-v5;
+    background-color:       @bg;
+    color:                  @col;
+
+    .color-invert {
+        color:              @bg;
+        background-color:   @col;
+    }
+
+}
+
 
 
 .color-white {
@@ -1391,6 +1431,7 @@ text styling
 .akzent {
     color: @akzent-color;
 }
+
 
 /* breadcrumbs */
 

@@ -772,6 +772,22 @@ a.inline-link.external::before {
   -webkit-transform: scaleX(1);
   transform: scaleX(1);
 }
+.content-link .light-v2 {
+  background-color: transparent;
+  color: #c31d34;
+  border: 1px solid #c31d34;
+  display: inline-block;
+  padding: 0.5em 1em;
+  margin: 0.5em 0.5em;
+}
+.content-link .light-v2:hover {
+  background-color: #f5f1f0;
+  cursor: pointer;
+  -webkit-transition: background-color 200ms ease;
+  -moz-transition: background-color 200ms ease;
+  -o-transition: background-color 200ms ease;
+  transition: background-color 200ms ease;
+}
 .send-a-fish {
   color: white;
   display: inline-block;
@@ -1141,6 +1157,22 @@ special classes
   color: #ffffff;
   background-color: #1e3b48;
 }
+.color-generic-v5 {
+  background-color: #f0f0f0;
+  color: #00293c;
+}
+.color-generic-v5 .color-invert {
+  color: #f0f0f0;
+  background-color: #00293c;
+}
+.color-generic-v5-inverse {
+  background-color: #00293c;
+  color: #f0f0f0;
+}
+.color-generic-v5-inverse .color-invert {
+  color: #00293c;
+  background-color: #f0f0f0;
+}
 .color-white {
   background-color: #ffffff;
   color: #00293c;
@@ -1173,6 +1205,18 @@ special classes
 }
 .no-js .content-section .sec-labeled-left .sec-label {
   height: 100vh;
+}
+/**
+text styling
+**/
+.force-inline {
+  display: inline !important;
+}
+.bold {
+  font-weight: bold !important;
+}
+.akzent {
+  color: #c31d34;
 }
 /* breadcrumbs */
 .nomobile {

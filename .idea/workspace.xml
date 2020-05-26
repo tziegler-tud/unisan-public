@@ -2,15 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aaaf2f20-d3dc-4eb7-8f99-4d9649c26d78" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/news/news-footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/themes/generic/newsfeed-index.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20apr11/css/themes/generic/newsfeed-index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20apr11/css/themes/generic/newsfeed-index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/unisan.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/unisan.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-snippet.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-snippet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/5gworld.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/5gworld.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/covid19.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/covid19.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/gesundheitstag-2019.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/gesundheitstag-2019.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/news/index-snippet.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/index-snippet.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/news/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/kif-2019.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/kif-2019.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/neujahresempfang.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/neujahresempfang.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/neujahresempfang.php" beforeDir="false" afterPath="$PROJECT_DIR$/news/neujahresempfang.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/news/news.php" beforeDir="false" afterPath="$PROJECT_DIR$/news/news.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/semesterauftakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/semesterauftakt.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/sommerfest-wu.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/sommerfest-wu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/xmas2019.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/xmas2019.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_news.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_news.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_news.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_news.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/color-rules.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/color-rules.less" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/themes/generic/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/common.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/themes/generic/common.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/common.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/newsfeed-lidl-imgbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/newsfeed-lidl-imgbox.less" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/themes/generic/newsportal.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/newsportal.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/themes/generic/newsportal.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/newsportal.less" afterDir="false" />
-
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-20apr11/css/lssc_loader.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20apr11/css/lssc_loader.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-20apr11/css/lssc_loader_index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20apr11/css/lssc_loader_index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-20apr11/css/lssc_loader_index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20apr11/css/lssc_loader_index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-20apr11/css/lssc_loader_news.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20apr11/css/lssc_loader_news.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-20apr11/css/lssc_loader_news.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20apr11/css/lssc_loader_news.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-20apr11/css/themes/generic/color-rules.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20apr11/css/themes/generic/color-rules.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-20apr11/css/themes/generic/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20apr11/css/themes/generic/common.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-20apr11/css/themes/generic/common.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20apr11/css/themes/generic/common.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-20apr11/css/themes/generic/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20apr11/css/themes/generic/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-20apr11/css/themes/generic/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20apr11/css/themes/generic/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-20apr11/css/themes/generic/newsfeed-lidl-imgbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-20apr11/css/themes/generic/newsfeed-lidl-imgbox.less" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +81,6 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1cP0lF3fMdtZcK5MZBmP9u9eloJ" />
-
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -62,7 +95,6 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="13.11.0" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-
     <property name="list.type.of.created.stylesheet" value="Less" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -77,21 +109,12 @@
       <recent name="$PROJECT_DIR$/src/js/contact" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/modules/lidl" />
-      <recent name="$PROJECT_DIR$/lib/lidl/1.01-apr20" />
-      <recent name="$PROJECT_DIR$/src/releases/1.01-20apr11" />
-      <recent name="$PROJECT_DIR$/src/js/news/covid19" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
-
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/css/themes/generic" />
+      <recent name="$PROJECT_DIR$/src/releases/1.01-20apr11/css" />
       <recent name="$PROJECT_DIR$/news" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes/generic" />
-      <recent name="$PROJECT_DIR$/src/releases/1.01-dec10/css/themes" />
+      <recent name="$PROJECT_DIR$/src/css" />
+      <recent name="$PROJECT_DIR$/src/css/themes/generic" />
+      <recent name="$PROJECT_DIR$/src/releases/1.01-20apr11/css/themes/generic" />
     </key>
-
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -332,13 +355,16 @@
       <workItem from="1578391791783" duration="1749000" />
       <workItem from="1578404192770" duration="606000" />
       <workItem from="1582290364457" duration="2076000" />
-
       <workItem from="1582296208396" duration="468000" />
       <workItem from="1586369697058" duration="5322000" />
       <workItem from="1586387211799" duration="692000" />
       <workItem from="1586609403840" duration="7235000" />
       <workItem from="1586793165871" duration="47000" />
       <workItem from="1587920215636" duration="1414000" />
+      <workItem from="1590417575664" duration="1106000" />
+      <workItem from="1590418696358" duration="4454000" />
+      <workItem from="1590438847660" duration="6396000" />
+      <workItem from="1590493332956" duration="606000" />
     </task>
     <servers />
   </component>
@@ -358,15 +384,26 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="742" y="300" width="495" height="520" key="FileChooserDialogImpl" timestamp="1590415117146">
+    <state x="747" y="251" width="476" height="619" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1590423017951">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state x="742" y="300" width="495" height="520" key="FileChooserDialogImpl/70.27.1850.1053@70.27.1850.1053" timestamp="1590415117146" />
-    <state x="484" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1590415118223">
+    <state x="747" y="251" width="476" height="619" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1590423017951" />
+    <state x="535" y="240" width="909" height="640" key="EditFileWatcherDialog" timestamp="1590418663078">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state x="484" y="188" width="1022" height="737" key="SettingsEditor/70.27.1850.1053@70.27.1850.1053" timestamp="1590415118223" />
-
+    <state x="535" y="240" width="909" height="640" key="EditFileWatcherDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1590418663078" />
+    <state x="742" y="300" width="495" height="541" key="FileChooserDialogImpl" timestamp="1590493949413">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="742" y="300" width="495" height="541" key="FileChooserDialogImpl/70.27.1850.1053@70.27.1850.1053" timestamp="1590493949413" />
+    <state x="484" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1590493950363">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="484" y="188" width="1022" height="737" key="SettingsEditor/70.27.1850.1053@70.27.1850.1053" timestamp="1590493950363" />
+    <state x="659" y="252" key="run.anything.popup" timestamp="1590444554852">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="659" y="252" key="run.anything.popup/70.27.1850.1053@70.27.1850.1053" timestamp="1590444554852" />
   </component>
   <component name="masterDetails">
     <states>

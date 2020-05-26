@@ -38,8 +38,9 @@ $baseURL = "../";
 
 <?php include_once("news.html"); ?>
 //include news body here
-</div>
 
+<?php include_once("news-footer.html"); ?>
+</div>
 
 <?php include_once($baseURL."footer.html"); ?>
 

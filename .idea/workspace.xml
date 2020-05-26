@@ -326,6 +326,7 @@
       <workItem from="1590493332956" duration="8661000" />
       <workItem from="1590521604975" duration="2923000" />
       <workItem from="1590528236037" duration="767000" />
+      <workItem from="1590534109969" duration="649000" />
     </task>
     <servers />
   </component>
@@ -353,14 +354,18 @@
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
     <state x="535" y="240" width="909" height="640" key="EditFileWatcherDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1590418663078" />
-    <state x="742" y="300" width="495" height="548" key="FileChooserDialogImpl" timestamp="1590528313591">
+    <state x="742" y="300" width="495" height="555" key="FileChooserDialogImpl" timestamp="1590534147715">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state x="742" y="300" width="495" height="548" key="FileChooserDialogImpl/70.27.1850.1053@70.27.1850.1053" timestamp="1590528313591" />
-    <state x="484" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1590528314278">
+    <state x="742" y="300" width="495" height="555" key="FileChooserDialogImpl/70.27.1850.1053@70.27.1850.1053" timestamp="1590534147715" />
+    <state x="484" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1590534149055">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state x="484" y="188" width="1022" height="737" key="SettingsEditor/70.27.1850.1053@70.27.1850.1053" timestamp="1590528314278" />
+    <state x="484" y="188" width="1022" height="737" key="SettingsEditor/70.27.1850.1053@70.27.1850.1053" timestamp="1590534149055" />
+    <state x="763" y="473" width="464" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590534737720">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="763" y="473" width="464" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/70.27.1850.1053@70.27.1850.1053" timestamp="1590534737720" />
     <state x="659" y="252" key="run.anything.popup" timestamp="1590444554852">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>

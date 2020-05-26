@@ -1,0 +1,143 @@
+@import 'color-rules.less';
+@import 'variables.less';
+
+/**
+newsfeed
+ */
+
+.newsfeed {
+
+  width: 90%;
+  margin: 0 auto;
+  font-size: 90%;
+
+  @media @desktop, @tablet-landscape {
+    width: 100%;
+    max-width: 60em;
+  }
+
+
+
+  .newsfeed-container {
+    display:      flex;
+    flex-flow:    column wrap;
+    width:        100%;
+
+    @media @desktop, @tablet-landscape {
+      flex-flow: row wrap;
+    }
+
+    .news-item {
+
+      flex:       0 0 100%;
+      margin:     .5em 0;
+      display: block;
+
+      @media @desktop, @tablet-landscape {
+        flex:    1 1 30%;
+      }
+
+      &:hover {
+        .news-item-inner {
+          .news-image {
+            img {
+
+            }
+          }
+        }
+      }
+
+      .news-item-inner {
+
+        text-align:       left;
+        height:           100%;
+        background-color: @news-item-bg;
+        position:         relative;
+        display:          flex;
+        flex-flow:        column wrap;
+
+        @media @desktop, @tablet-landscape {
+          margin:           0 1em;
+        }
+
+        >div {
+          flex: 0 0 1%; //fallback, as min-content is not supported by chrome atm
+          flex: 0 0 min-content;
+
+        }
+
+
+
+
+
+        .news-date {
+
+          position:   absolute;
+          top:        1em;
+          left:       0;
+
+          display: block;
+          padding: .5em 1em;
+
+          font-size: 80%;
+          font-weight: lighter;
+          font-stretch: condensed;
+
+          background-color: @col3;
+          color:            @nav-font-color;
+
+
+
+        }
+
+        .news-image {
+          width:    100%;
+          height:   0;
+          overflow: hidden;
+          padding-bottom: 50%;
+          position: relative;
+
+          flex: none;
+
+
+          img {
+            width: 100%;
+          }
+
+          .thumbnail-credit {
+            position: absolute;
+            right: 0;
+            top: 0;
+
+            display: block;
+            padding: .5em .5em;
+
+            background-color: @col1;
+            color: #fff;
+
+            writing-mode: vertical-rl;
+            text-orientation: mixed;
+            font-weight: lighter;
+            font-size: 60%;
+          }
+
+        }
+
+        .news-heading {
+          width: 80%;
+          margin: 1em auto;
+          font-weight: normal;
+
+          font-size: 110%;
+        }
+
+        .news-link {
+          border-top:    1px solid #fff;
+          margin-top: auto;
+          font-size: 70%;
+
+        }
+      }
+    }
+  }
+}

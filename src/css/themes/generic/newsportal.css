@@ -31,12 +31,12 @@ Ids
 .newsportal-link {
   margin-left: 1em !important;
 }
+#social-img {
+  max-width: 500px;
+}
 /**
 Classes
  */
-#newsportal {
-  font-size: 80%;
-}
 .newsfeed {
   width: 90%;
   margin: 0 auto;

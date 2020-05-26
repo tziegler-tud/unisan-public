@@ -634,7 +634,7 @@ button {
 }
 @media only screen and (min-width: 75em) {
   .header-image-overlay .overlay-title {
-    font-size: 200%;
+    font-size: 180%;
     width: 30%;
   }
 }
@@ -656,7 +656,7 @@ button {
   display: none;
   position: absolute;
   bottom: 1em;
-  font-size: 120%;
+  font-size: 110%;
   margin-bottom: 3em;
   width: 50%;
 }
@@ -935,8 +935,9 @@ content sections
   font-weight: normal;
 }
 .sec-content-img {
-  margin: 2em 10% 1em 10%;
-  width: 80%;
+  margin: 1em 0;
+  width: 100%;
+  overflow: hidden;
 }
 @media only screen and (min-width: 75em) {
   .sec-content-img {
@@ -946,25 +947,10 @@ content sections
 }
 .sec-content-img img {
   width: 100%;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .sec-content-img.img-fullheight img {
   width: auto;
   height: 100%;
-}
-.sec-content-img {
-  margin: 2em 10% 1em 10%;
-  width: 80%;
-}
-@media only screen and (min-width: 75em) {
-  .sec-content-img {
-    width: 40%;
-    margin: 0 0 0 5%;
-  }
-}
-.sec-content-img img {
-  width: 100%;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .sec-icons img {
   width: 50%;
@@ -1152,7 +1138,7 @@ a.inline-link.external::before {
   -webkit-transform: scaleX(1);
   transform: scaleX(1);
 }
-.content-link .light-v2 {
+.content-link.light-v2 {
   background-color: transparent;
   color: #c31d34;
   border: 1px solid #c31d34;
@@ -1160,7 +1146,7 @@ a.inline-link.external::before {
   padding: 0.5em 1em;
   margin: 0.5em 0.5em;
 }
-.content-link .light-v2:hover {
+.content-link.light-v2:hover {
   background-color: #f5f1f0;
   cursor: pointer;
   -webkit-transition: background-color 200ms ease;
@@ -1598,6 +1584,9 @@ text styling
 .akzent {
   color: #c31d34;
 }
+.reduce-fontsize {
+  font-size: 80%;
+}
 /* breadcrumbs */
 .nomobile {
   display: none !important;
@@ -1647,6 +1636,12 @@ text styling
 }
 .breadcrumbs .breadcrumbs-part.first:before {
   content: "" !important;
+}
+/*
+layout helpers
+ */
+.margin-top {
+  margin-top: 4em;
 }
 #f2 #contact-mobile .cm-part {
   outline: 1px solid #fffcf5;

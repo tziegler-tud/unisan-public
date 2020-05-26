@@ -33,9 +33,9 @@
    *********************************** -->
 
 
-    <script src="/src/releases/1.01-20apr11/js/init.js"></script>
-    <script src="/src/releases/1.01-20apr11/js/common.js"></script>
-    <script src="/src/releases/1.01-20apr11/js/footer.js"></script>
+    <script src="/src/releases/1.01-20may26/js/init.js"></script>
+    <script src="/src/releases/1.01-20may26/js/common.js"></script>
+    <script src="/src/releases/1.01-20may26/js/footer.js"></script>
 
 
     <!--
@@ -51,10 +51,10 @@
       ***********************************
       ** css files
       *********************************** -->
-    <link rel="stylesheet" type="text/css" href="/src/releases/1.01-20apr11/css/preloader.css"/>
-    <link rel="stylesheet" type="text/css" href="/src/releases/1.01-20apr11/css/lssc_loader.css" />
+    <link rel="stylesheet" type="text/css" href="/src/releases/1.01-20may26/css/preloader.css"/>
+    <link rel="stylesheet" type="text/css" href="/src/releases/1.01-20may26/css/lssc_loader.css" />
     <!--
      ***********************************
      ** no js fallback
      *********************************** -->
-    <noscript><link rel="stylesheet" type="text/css" href="/src/releases/1.01-20apr11/css/no-js.css" /></noscript>
+    <noscript><link rel="stylesheet" type="text/css" href="/src/releases/1.01-20may26/css/no-js.css" /></noscript>

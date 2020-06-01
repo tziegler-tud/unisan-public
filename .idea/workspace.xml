@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aaaf2f20-d3dc-4eb7-8f99-4d9649c26d78" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/news/index-snippet.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/index-snippet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-20may26/css/lssc_loader_index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/lssc_loader_index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-20may26/css/lssc_loader_news.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/lssc_loader_news.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/newsfeed-index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/newsfeed-index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/newsfeed-index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/newsfeed-index.less" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -326,7 +330,7 @@
       <workItem from="1590521604975" duration="2923000" />
       <workItem from="1590528236037" duration="767000" />
       <workItem from="1590534109969" duration="781000" />
-      <workItem from="1591007956149" duration="9095000" />
+      <workItem from="1591007956149" duration="9788000" />
     </task>
     <servers />
   </component>

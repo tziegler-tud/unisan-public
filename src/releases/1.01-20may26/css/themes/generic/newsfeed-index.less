@@ -32,22 +32,13 @@ newsfeed
       flex:       0 0 100%;
       margin:     .5em 0;
       display: block;
+      cursor: default;
 
       @media @desktop, @tablet-landscape {
         flex:    1 1 30%;
       }
 
-      &:hover {
-        .news-item-inner {
-          .news-image {
-            img {
-              -webkit-transform: scale(1.05);
-              transform: scale(1.05);
-              filter: brightness(80%);
-            }
-          }
-        }
-      }
+
 
       .news-item-inner {
 
@@ -58,9 +49,20 @@ newsfeed
         display:          flex;
         flex-flow:        column wrap;
         max-width:        500px;
+        cursor:           pointer;
 
         @media @desktop, @tablet-landscape {
           margin:           0 1em;
+        }
+
+        &:hover {
+          .news-image {
+            img {
+              -webkit-transform: scale(1.05);
+              transform: scale(1.05);
+              filter: brightness(80%);
+            }
+          }
         }
 
         >div {
@@ -134,7 +136,6 @@ newsfeed
           width: 80%;
           margin: 1em auto;
           font-weight: lighter;
-
           font-size: 130%;
         }
 

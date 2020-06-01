@@ -13,6 +13,7 @@
     var navBarHeight = undefined;
     var didScroll = false;
     var lastScrollTop = 0;
+    var self;
 
     /**
      * Constructor for Nav object
@@ -38,6 +39,7 @@
         var navBarHeight = this.navBarDom.clientHeight;
 
         init();
+        self = this;
     };
 
     nav.Nav.prototype.writeNavBarCss = function(){
@@ -223,9 +225,11 @@
 
             if (newstate) {
                 menuDom.classList.add("menu-active");
+                navBarDom.classList.add("nav-fixed");
             }
             else {
-                menuDom.classList.remove("menu-active");
+                self.menuDom.classList.remove("menu-active");
+                self.navBarDom.classList.remove("nav-fixed");
             }
             state = newstate;
             return state;
@@ -247,7 +251,7 @@
 
         if(Math.abs(scrollTop - lastScrollTop) < delta)//did not scroll
         {
-           lidl.debug('console.log("did not scroll")',lidl.debugCategory.SCROLL);
+            lidl.debug('console.log("did not scroll")',lidl.debugCategory.SCROLL);
             return;
         }
         if(scrollTop - lastScrollTop > delta && scrollTop > navBarHeight) //scrolled down > navBarHeight

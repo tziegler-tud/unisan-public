@@ -1,8 +1,8 @@
-@projectroot: "../../..";
+@projectroot: "../../../..";
 @import "@{projectroot}/src/css/themes/generic/color-rules.less";
 @import "@{projectroot}/src/css/themes/generic/variables.less";
 
-@bg-color: #f0f0f0;
+@bg-color: #fff;
 @font-color: #111;
 
 
@@ -40,8 +40,9 @@
         }
 
         .lidl-imagebox-image-label {
-          font-size: 80%;
+          font-size: 90%;
           position: relative;
+          font-weight: lighter;
           background-color: @bg-color;
           color: @font-color;
           margin-bottom: 1em;
@@ -138,7 +139,6 @@
 
           background-color: transparent;
           border: 1px solid #333;
-          border-radius: 50%;
 
           cursor: pointer;
         }

@@ -16,12 +16,6 @@
 /**
 Ids
  */
-#wrapper {
-  font-size: 130%;
-  width: 100vw;
-  margin: 75px 0 0 0;
-  color: #333;
-}
 #content-wrapper {
   font-size: 100%;
   display: block;

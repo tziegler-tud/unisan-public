@@ -27,7 +27,7 @@
   overflow: hidden;
   display: flex;
   flex-flow: row wrap;
-  background: #f0f0f0;
+  background: #fff;
   -webkit-transition: 500ms ease;
   -moz-transition: 500ms ease;
   -o-transition: 500ms ease;
@@ -40,9 +40,10 @@
   width: 100%;
 }
 .lidl-imagebox.style-default .lidl-imagebox-container .lidl-imagebox-slider .lidl-imagebox-image .lidl-imagebox-image-label {
-  font-size: 80%;
+  font-size: 90%;
   position: relative;
-  background-color: #f0f0f0;
+  font-weight: lighter;
+  background-color: #fff;
   color: #111;
   margin-bottom: 1em;
 }
@@ -85,7 +86,7 @@
 .lidl-imagebox.style-default .lidl-imagebox-nav {
   font-size: 70%;
   padding: 5px;
-  background-color: #f0f0f0;
+  background-color: #fff;
   color: #111;
   border-top: 1px solid #111;
 }
@@ -107,7 +108,6 @@
   height: 0.6em;
   background-color: transparent;
   border: 1px solid #333;
-  border-radius: 50%;
   cursor: pointer;
 }
 .lidl-imagebox.style-default .lidl-imagebox-nav.nav-bottom .lidl-imagebox-nav-label .nav-dot-active {

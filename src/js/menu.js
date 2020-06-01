@@ -13,6 +13,7 @@
     var navBarHeight = undefined;
     var didScroll = false;
     var lastScrollTop = 0;
+    var self;
 
     /**
      * Constructor for Nav object
@@ -38,6 +39,7 @@
         var navBarHeight = this.navBarDom.clientHeight;
 
         init();
+        self = this;
     };
 
     nav.Nav.prototype.writeNavBarCss = function(){
@@ -223,9 +225,11 @@
 
             if (newstate) {
                 menuDom.classList.add("menu-active");
+                navBarDom.classList.add("nav-fixed");
             }
             else {
-                menuDom.classList.remove("menu-active");
+                self.menuDom.classList.remove("menu-active");
+                self.navBarDom.classList.remove("nav-fixed");
             }
             state = newstate;
             return state;

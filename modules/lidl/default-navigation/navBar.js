@@ -31,13 +31,13 @@
 
             navBar.NavBar = function(domId){
                 self = this;
-                navComponent.NavComponent.call(this, domId,true,true);
+                navComponent.NavComponent.call(this, domId,true,false);
 
                 var mc = new Hammer.Manager(self.ref);
                 mc.add(new Hammer.Pan({direction: Hammer.DIRECTION_DOWN, threshold: 20}));
                 mc.on("pan", dragHandler);
 
-                this.action = false;
+                this.action = true;
 
 
             };
@@ -46,31 +46,44 @@
             });
 
             navBar.NavBar.prototype.activate = function(){
-                this.ref.classList.add("nav-active");
+                //this.ref.classList.add("nav-active"); //used to hide bar on scrolling
+                this.ref.classList.add("nav-fixed");
+                this.ref.classList.remove("nav-mobile-absolute");
             };
             navBar.NavBar.prototype.deactivate = function(){
-                this.ref.classList.remove("nav-active");
+                //this.ref.classList.add("nav-active"); //used to hide bar on scrolling
+                this.ref.classList.remove("nav-fixed");
+                this.ref.classList.add("nav-mobile-absolute");
             };
 
 
-            var dragHandler = function(ev){
-                console.log("panning...");
-                var lastPos = 0;
-                var el = ev.target;
+            // var dragHandler = function(ev){
+            //     console.log("panning...");
+            //     var lastPos = 0;
+            //     var el = ev.target;
+            //
+            //     if(!isDragging){
+            //         var s = el.style.top;
+            //         lastPos = parseInt(s.substr(0,s.length-2));
+            //     }
+            //     var pos = ev.deltaY + lastPos;
+            //     self.setState(true);
+            //
+            //     if (ev.isFinal) {
+            //         console.log("panning finished");
+            //         isDragging = false;
+            //     }
+            //
+            //
+            // };
 
-                if(!isDragging){
-                    var s = el.style.top;
-                    lastPos = parseInt(s.substr(0,s.length-2));
+            navBar.NavBar.prototype.toggle = function(){
+                if(this.state){
+                    this.setState(false);
                 }
-                var pos = ev.deltaY + lastPos;
-                self.setState(true);
-
-                if (ev.isFinal) {
-                    console.log("panning finished");
-                    isDragging = false;
+                else {
+                    this.setState(true);
                 }
-
-
             };
 
 

@@ -251,7 +251,7 @@
 
         if(Math.abs(scrollTop - lastScrollTop) < delta)//did not scroll
         {
-           lidl.debug('console.log("did not scroll")',lidl.debugCategory.SCROLL);
+            lidl.debug('console.log("did not scroll")',lidl.debugCategory.SCROLL);
             return;
         }
         if(scrollTop - lastScrollTop > delta && scrollTop > navBarHeight) //scrolled down > navBarHeight

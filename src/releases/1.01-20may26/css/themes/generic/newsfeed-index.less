@@ -20,7 +20,7 @@ newsfeed
 
   .newsfeed-container {
     display:      flex;
-    flex-flow:    column wrap;
+    flex-flow:    row wrap;
     width:        100%;
 
     @media @desktop, @tablet-landscape {
@@ -41,7 +41,9 @@ newsfeed
         .news-item-inner {
           .news-image {
             img {
-
+              -webkit-transform: scale(1.05);
+              transform: scale(1.05);
+              filter: brightness(80%);
             }
           }
         }
@@ -55,6 +57,7 @@ newsfeed
         position:         relative;
         display:          flex;
         flex-flow:        column wrap;
+        max-width:        500px;
 
         @media @desktop, @tablet-landscape {
           margin:           0 1em;
@@ -102,6 +105,10 @@ newsfeed
 
           img {
             width: 100%;
+            -webkit-transform:  scale(1);
+            transform:          scale(1);
+            filter:             brightness(100%);
+            .transition(500ms);
           }
 
           .thumbnail-credit {
@@ -126,9 +133,9 @@ newsfeed
         .news-heading {
           width: 80%;
           margin: 1em auto;
-          font-weight: normal;
+          font-weight: lighter;
 
-          font-size: 110%;
+          font-size: 130%;
         }
 
         .news-link {
@@ -138,6 +145,14 @@ newsfeed
 
         }
       }
+    }
+  }
+  .newsportal-link{
+
+    margin-left: 0 !important;
+
+    @media @desktop, @tablet-landscape {
+      margin-left: 1em !important;
     }
   }
 }

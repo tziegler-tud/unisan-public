@@ -6,13 +6,14 @@
   width: 100%;
 
   .news-container {
-    width: 80%;
+    width: 100%;
     margin: 0 auto;
-    font-size: 80%;
+    font-size: 90%;
 
     @media @desktop, @tablet-landscape {
       width: 50%;
       max-width: 750px;
+      font-size: 80%;
     }
 
     .news-part {
@@ -24,7 +25,10 @@
     }
 
     .news-heading{
-      font-size: 160%;
+      font-size: 120%;
+      @media @desktop, @tablet-landscape {
+        font-size: 160%;
+      }
 
       h2 {
         font-size: 130%;

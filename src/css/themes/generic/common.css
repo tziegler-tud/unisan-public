@@ -62,6 +62,7 @@ body {
   margin: 0;
   width: 100vw;
   max-width: 100%;
+  overflow-x: hidden;
   background-color: #00293c;
   font-family: "Open Sans", sans-serif;
 }

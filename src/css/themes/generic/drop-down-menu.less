@@ -106,10 +106,20 @@
 
 
   .nav-fixed {
-    //TODO: show only when scrolling up
-    position: fixed;
-    top: 0;
-    left: 0;
+
+    @media @desktop,@tablet-landscape {
+      position: fixed;
+      top: 0;
+      left: 0;
+    }
+
+    @media @tablet-portrait, @phone {
+
+      //TODO: show only when scrolling up
+      position: fixed;
+      top: 0;
+      left: 0;
+    }
   }
   .nav-mobile-absolute {
 

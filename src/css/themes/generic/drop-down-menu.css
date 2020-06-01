@@ -97,10 +97,19 @@
   position: absolute;
   right: 10px;
 }
-.nav .nav-fixed {
-  position: fixed;
-  top: 0;
-  left: 0;
+@media only screen and (min-width: 75em), only screen and (min-width: 50em) and (max-width: 75em) and (orientation: landscape) {
+  .nav .nav-fixed {
+    position: fixed;
+    top: 0;
+    left: 0;
+  }
+}
+@media only screen and (min-width: 50em) and (max-width: 75em) and (orientation: portrait), only screen and (max-width: 50em) {
+  .nav .nav-fixed {
+    position: fixed;
+    top: 0;
+    left: 0;
+  }
 }
 .nav .nav-mobile-absolute {
   position: absolute;

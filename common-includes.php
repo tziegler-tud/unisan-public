@@ -19,13 +19,13 @@
     <script src="/modules/other/countTo.js"></script>
     <script src="/modules/waypoints/jquery.waypoints.min.js"></script>
 
-    <script src="/modules/lidl/1.01-apr20/core/lidl-0.1b.js"></script>
-    <script src="/modules/lidl/1.01-apr20/imagebox/lidl-imagebox.js"></script>
+    <script src="/modules/lidl/1.01-may20/core/lidl-0.1b.js"></script>
+    <script src="/modules/lidl/1.01-may20/imagebox/lidl-imagebox.js"></script>
 
-    <script src="/modules/lidl/1.01-apr20/default-navigation/nav.js"></script>
-    <script src="/modules/lidl/1.01-apr20/default-navigation/navComponent.js"></script>
-    <script src="/modules/lidl/1.01-apr20/default-navigation/navBar.js"></script>
-    <script src="/modules/lidl/1.01-apr20/default-navigation/menu.js"></script>
+    <script src="/modules/lidl/1.01-may20/default-navigation/nav.js"></script>
+    <script src="/modules/lidl/1.01-may20/default-navigation/navComponent.js"></script>
+    <script src="/modules/lidl/1.01-may20/default-navigation/navBar.js"></script>
+    <script src="/modules/lidl/1.01-may20/default-navigation/menu.js"></script>
 
     <!--
    ***********************************
@@ -44,7 +44,7 @@
       *********************************** -->
 
     <link rel="stylesheet" type="text/css" href="/modules/hamburgers/hamburgers.css"/>
-    <link rel="stylesheet" type="text/css" href="/modules/lidl/1.01-apr20/imagebox/imagebox-less.css" />
+    <link rel="stylesheet" type="text/css" href="/modules/lidl/1.01-may20/imagebox/imagebox-less.css" />
 
 
     <!--

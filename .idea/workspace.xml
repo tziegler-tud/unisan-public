@@ -2,28 +2,64 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aaaf2f20-d3dc-4eb7-8f99-4d9649c26d78" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/lidl/1.01-may20/core/errors.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/lidl/1.01-may20/core/lidl-0.1b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/lidl/1.01-may20/default-navigation/default-navigation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/lidl/1.01-may20/default-navigation/menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/lidl/1.01-may20/default-navigation/nav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/lidl/1.01-may20/default-navigation/navBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/lidl/1.01-may20/default-navigation/navComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/lidl/1.01-may20/default-navigation/navObject.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/lidl/1.01-may20/imagebox/imagebox-less.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/lidl/1.01-may20/imagebox/imagebox-less.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/lidl/1.01-may20/imagebox/imagebox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/lidl/1.01-may20/imagebox/lidl-imagebox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/lidl/1.01-may20/slider/lidl-slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/lidl/1.01-may20/slider/slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/news/common-includes-news.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/lssc_loader_index.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/js/news/init.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/lidl/1.01-apr20/default-navigation/nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/modules/lidl/1.01-apr20/default-navigation/nav.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/lidl/1.01-apr20/default-navigation/navBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/modules/lidl/1.01-apr20/default-navigation/navBar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/lidl/1.01-apr20/imagebox/imagebox-less.css" beforeDir="false" afterPath="$PROJECT_DIR$/modules/lidl/1.01-apr20/imagebox/imagebox-less.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/lidl/1.01-apr20/imagebox/imagebox-less.less" beforeDir="false" afterPath="$PROJECT_DIR$/modules/lidl/1.01-apr20/imagebox/imagebox-less.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-includes.php" beforeDir="false" afterPath="$PROJECT_DIR$/common-includes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-snippet.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-snippet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurse.html" beforeDir="false" afterPath="$PROJECT_DIR$/kurse.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modules/lidl/default-navigation/nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/modules/lidl/default-navigation/nav.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modules/lidl/default-navigation/navBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/modules/lidl/default-navigation/navBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/5gworld.php" beforeDir="false" afterPath="$PROJECT_DIR$/news/5gworld.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/covid19.php" beforeDir="false" afterPath="$PROJECT_DIR$/news/covid19.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/gesundheitstag-2019.php" beforeDir="false" afterPath="$PROJECT_DIR$/news/gesundheitstag-2019.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/kif-2019.php" beforeDir="false" afterPath="$PROJECT_DIR$/news/kif-2019.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/neujahresempfang.php" beforeDir="false" afterPath="$PROJECT_DIR$/news/neujahresempfang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/news.php" beforeDir="false" afterPath="$PROJECT_DIR$/news/news.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/semesterauftakt.php" beforeDir="false" afterPath="$PROJECT_DIR$/news/semesterauftakt.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/sommerfest-wu.php" beforeDir="false" afterPath="$PROJECT_DIR$/news/sommerfest-wu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/xmas2019.php" beforeDir="false" afterPath="$PROJECT_DIR$/news/xmas2019.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/lssc_loader.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/common.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/common.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/common.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_news.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_news.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/animations.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/animations.less" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/themes/generic/drop-down-menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/drop-down-menu.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/themes/generic/drop-down-menu.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/drop-down-menu.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/news.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/news.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/news.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/news.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/newsfeed-index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/newsfeed-index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/newsfeed-index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/newsfeed-index.less" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/themes/generic/newsportal.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/newsportal.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/themes/generic/newsportal.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/newsportal.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/menu.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/releases/1.01-20may26/css/lssc_loader.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/lssc_loader.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-20may26/css/lssc_loader_index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/lssc_loader_index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-20may26/css/lssc_loader_news.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/lssc_loader_news.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/common.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/common.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/common.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/newsportal.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/newsportal.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/newsportal.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/newsportal.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/releases/1.01-20may26/js/menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/js/menu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/news.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/news.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/news.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/news.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/newsfeed-index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/newsfeed-index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/newsfeed-index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/newsfeed-index.less" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +76,8 @@
         <option value="CSS File" />
         <option value="XSLT Stylesheet" />
         <option value="Less File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -73,7 +109,7 @@
     <property name="NewWatcherDialog.advanced.open" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="13.11.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/modules/lidl/1.01-apr20/default-navigation" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="list.type.of.created.stylesheet" value="Less" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -88,11 +124,11 @@
       <recent name="$PROJECT_DIR$/src/js/contact" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/modules/lidl" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/news" />
       <recent name="$PROJECT_DIR$/modules/lidl/1.01-apr20/default-navigation" />
       <recent name="$PROJECT_DIR$/modules/lidl/default-navigation" />
-      <recent name="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic" />
-      <recent name="$PROJECT_DIR$/src/releases" />
-      <recent name="$PROJECT_DIR$/src/releases/1.01-20apr11/css" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -347,7 +383,7 @@
       <workItem from="1590521604975" duration="2923000" />
       <workItem from="1590528236037" duration="767000" />
       <workItem from="1590534109969" duration="781000" />
-      <workItem from="1591007956149" duration="5233000" />
+      <workItem from="1591007956149" duration="8681000" />
     </task>
     <servers />
   </component>
@@ -383,14 +419,18 @@
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
     <state x="484" y="188" width="1022" height="737" key="SettingsEditor/70.27.1850.1053@70.27.1850.1053" timestamp="1591008005505" />
-    <state x="763" y="473" width="464" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590534737720">
+    <state x="763" y="473" width="464" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591016976663">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state x="763" y="473" width="464" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/70.27.1850.1053@70.27.1850.1053" timestamp="1590534737720" />
-    <state x="659" y="252" key="run.anything.popup" timestamp="1590444554852">
+    <state x="763" y="473" width="464" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/70.27.1850.1053@70.27.1850.1053" timestamp="1591016976663" />
+    <state x="563" y="230" width="863" height="646" key="find.popup" timestamp="1591016077012">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state x="659" y="252" key="run.anything.popup/70.27.1850.1053@70.27.1850.1053" timestamp="1590444554852" />
+    <state x="563" y="230" width="863" height="646" key="find.popup/70.27.1850.1053@70.27.1850.1053" timestamp="1591016077012" />
+    <state x="659" y="252" key="run.anything.popup" timestamp="1591014028395">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="659" y="252" key="run.anything.popup/70.27.1850.1053@70.27.1850.1053" timestamp="1591014028395" />
   </component>
   <component name="masterDetails">
     <states>

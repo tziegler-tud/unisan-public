@@ -12,22 +12,21 @@ $baseURL = "../";
     <link rel="shortcut icon" type="image/x-icon" href="icons/favicon.ico">
 
 <?php include_once($baseURL."common-includes.php"); ?>
+<?php include_once("common-includes-news.php"); ?>
 
        <!--
          ***********************************
          ** specific js libs
          *********************************** -->
 
-       <script src="/src/js/news/init.js"></script>
        <script src="/src/js/kontakt/kontakt.js"></script>
-       <script src="/src/js/news/covid19/init.js"></script>
+       <script src="/src/releases/1.01-20may26/js/news/covid19/init.js"></script>
 
 
        <!--
          ***********************************
          ** specific css files
          *********************************** -->
-       <link rel="stylesheet" type="text/css" href="/src/releases/1.01-20apr11/css/lssc_loader_news.css" />
 </head>
 
 <!--Preloader-->

@@ -1,7 +1,7 @@
 @import 'fonts.css';
 @import 'dev.css';
 @import '../../modules/lidl/slider/slider.css';
-@import '../../modules/jquery-ui-1.12.1/jquery-ui.css';
+@import '../../lib/jquery-ui-1.12.1/jquery-ui.css';
 .noselect {
   -webkit-touch-callout: none;
   /* iOS Safari */
@@ -101,10 +101,19 @@
   position: absolute;
   right: 10px;
 }
-.nav .nav-fixed {
-  position: fixed;
-  top: 0;
-  left: 0;
+@media only screen and (min-width: 75em), only screen and (min-width: 50em) and (max-width: 75em) and (orientation: landscape) {
+  .nav .nav-fixed {
+    position: fixed;
+    top: 0;
+    left: 0;
+  }
+}
+@media only screen and (min-width: 50em) and (max-width: 75em) and (orientation: portrait), only screen and (max-width: 50em) {
+  .nav .nav-fixed {
+    position: fixed;
+    top: 0;
+    left: 0;
+  }
 }
 .nav .nav-mobile-absolute {
   position: absolute;
@@ -433,6 +442,7 @@ body {
   margin: 0;
   width: 100vw;
   max-width: 100%;
+  overflow-x: hidden;
   background-color: #00293c;
   font-family: "Open Sans", sans-serif;
 }

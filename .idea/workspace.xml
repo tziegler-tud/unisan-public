@@ -3,18 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="aaaf2f20-d3dc-4eb7-8f99-4d9649c26d78" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/releases/1.01-20may26/css/lssc_loader_index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/lssc_loader_index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/releases/1.01-20may26/css/lssc_loader_news.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/lssc_loader_news.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/newsfeed-index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/newsfeed-index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/newsfeed-index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20may26/css/themes/generic/newsfeed-index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-snippet.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-snippet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/nav.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/index/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/index/init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics/covid19/content.html" beforeDir="false" afterPath="$PROJECT_DIR$/topics/covid19/content.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="unisan" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -46,7 +45,6 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -56,7 +54,7 @@
     <property name="NewWatcherDialog.advanced.open" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="13.11.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/css/themes/generic" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="Less" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -71,11 +69,11 @@
       <recent name="$PROJECT_DIR$/src/js/contact" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/css/themes/generic" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/modules/lidl" />
       <recent name="$PROJECT_DIR$/news" />
       <recent name="$PROJECT_DIR$/modules/lidl/1.01-apr20/default-navigation" />
-      <recent name="$PROJECT_DIR$/modules/lidl/default-navigation" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -330,7 +328,16 @@
       <workItem from="1590521604975" duration="2923000" />
       <workItem from="1590528236037" duration="767000" />
       <workItem from="1590534109969" duration="781000" />
-      <workItem from="1591007956149" duration="9788000" />
+      <workItem from="1591007956149" duration="9939000" />
+      <workItem from="1591045476033" duration="1965000" />
+      <workItem from="1591197250838" duration="517000" />
+      <workItem from="1591197778736" duration="36000" />
+      <workItem from="1591378268984" duration="994000" />
+      <workItem from="1591380732544" duration="669000" />
+      <workItem from="1591404675146" duration="162000" />
+      <workItem from="1591405460139" duration="681000" />
+      <workItem from="1591701661405" duration="75000" />
+      <workItem from="1591702269032" duration="2820000" />
     </task>
     <servers />
   </component>
@@ -344,7 +351,7 @@
     </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
@@ -358,14 +365,14 @@
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
     <state x="535" y="240" width="909" height="640" key="EditFileWatcherDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1590418663078" />
-    <state x="742" y="300" width="495" height="555" key="FileChooserDialogImpl" timestamp="1591008004687">
+    <state x="742" y="300" width="495" height="569" key="FileChooserDialogImpl" timestamp="1591702274620">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state x="742" y="300" width="495" height="555" key="FileChooserDialogImpl/70.27.1850.1053@70.27.1850.1053" timestamp="1591008004687" />
-    <state x="484" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1591008005505">
+    <state x="742" y="300" width="495" height="569" key="FileChooserDialogImpl/70.27.1850.1053@70.27.1850.1053" timestamp="1591702274620" />
+    <state x="484" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1591702275244">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state x="484" y="188" width="1022" height="737" key="SettingsEditor/70.27.1850.1053@70.27.1850.1053" timestamp="1591008005505" />
+    <state x="484" y="188" width="1022" height="737" key="SettingsEditor/70.27.1850.1053@70.27.1850.1053" timestamp="1591702275244" />
     <state x="763" y="473" width="464" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591016976663">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>

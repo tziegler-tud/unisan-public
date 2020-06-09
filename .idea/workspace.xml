@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aaaf2f20-d3dc-4eb7-8f99-4d9649c26d78" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-snippet.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-snippet.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/nav.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/index/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/index/init.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/topics/covid19/content.html" beforeDir="false" afterPath="$PROJECT_DIR$/topics/covid19/content.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/footer-slim.html" beforeDir="false" afterPath="$PROJECT_DIR$/footer-slim.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -337,7 +331,7 @@
       <workItem from="1591404675146" duration="162000" />
       <workItem from="1591405460139" duration="681000" />
       <workItem from="1591701661405" duration="75000" />
-      <workItem from="1591702269032" duration="2820000" />
+      <workItem from="1591702269032" duration="2999000" />
     </task>
     <servers />
   </component>

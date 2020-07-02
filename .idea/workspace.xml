@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aaaf2f20-d3dc-4eb7-8f99-4d9649c26d78" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/footer-slim.html" beforeDir="false" afterPath="$PROJECT_DIR$/footer-slim.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -332,7 +332,6 @@
       <workItem from="1591405460139" duration="681000" />
       <workItem from="1591701661405" duration="75000" />
       <workItem from="1591702269032" duration="2999000" />
-      <workItem from="1591733419354" duration="1514000" />
     </task>
     <servers />
   </component>
@@ -360,14 +359,14 @@
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
     <state x="535" y="240" width="909" height="640" key="EditFileWatcherDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1590418663078" />
-    <state x="742" y="300" width="495" height="569" key="FileChooserDialogImpl" timestamp="1591733425860">
+    <state x="742" y="300" width="495" height="569" key="FileChooserDialogImpl" timestamp="1591702274620">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state x="742" y="300" width="495" height="569" key="FileChooserDialogImpl/70.27.1850.1053@70.27.1850.1053" timestamp="1591733425860" />
-    <state x="484" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1591733426423">
+    <state x="742" y="300" width="495" height="569" key="FileChooserDialogImpl/70.27.1850.1053@70.27.1850.1053" timestamp="1591702274620" />
+    <state x="484" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1591702275244">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
-    <state x="484" y="188" width="1022" height="737" key="SettingsEditor/70.27.1850.1053@70.27.1850.1053" timestamp="1591733426423" />
+    <state x="484" y="188" width="1022" height="737" key="SettingsEditor/70.27.1850.1053@70.27.1850.1053" timestamp="1591702275244" />
     <state x="763" y="473" width="464" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591016976663">
       <screen x="70" y="27" width="1850" height="1053" />
     </state>

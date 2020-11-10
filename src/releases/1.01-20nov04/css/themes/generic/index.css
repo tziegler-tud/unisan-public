@@ -750,5 +750,13 @@ body > .btn-jmptop {
 }
 #sec0 #content0 #content0-img {
   min-height: 100%;
-  background-image: url("/images/index/content/teaser_covid.jpg");
+  background-image: url("/images/index/content/teaser_covid3.jpg");
+}
+#sec0 .impress-container {
+  color: #333;
+  background-color: rgba(250, 250, 250, 0.95);
+  text-align: left;
+}
+#sec0 .impress-container .content-text {
+  font-size: 70%;
 }

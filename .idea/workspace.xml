@@ -2,7 +2,239 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aaaf2f20-d3dc-4eb7-8f99-4d9649c26d78" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/footer-slim.html" beforeDir="false" afterPath="$PROJECT_DIR$/footer-slim.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/lssc_loader_index.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/lssc_loader_index.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/lssc_loader_news.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/lssc_loader_news.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/lssc_loader_san.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/kontakt-box.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/kontakt-box.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/newsfeed-index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/newsfeed-index.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/newsportal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/newsportal.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-includes.php" beforeDir="false" afterPath="$PROJECT_DIR$/common-includes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/menu/525c0201-15cb-4f22-9f5a-7a62d932c9c6.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-snippet.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-snippet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kontakt.html" beforeDir="false" afterPath="$PROJECT_DIR$/kontakt.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurse.html" beforeDir="false" afterPath="$PROJECT_DIR$/kurse.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/index-snippet.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/index-snippet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/lssc_loader_index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/lssc_loader_index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/css/themes/generic/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/themes/generic/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-dec10/js/index/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-dec10/js/index/init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/.Rhistory" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/.Rhistory" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/dev.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/dev.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/fonts.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/fonts.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/loader.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/loader.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/lss_loader.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/lss_loader.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/lssc_loader.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/common.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/lssc_loader.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/lssc_loader.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/lssc_loader_impressum.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/lssc_loader_impressum.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/lssc_loader_impressum.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/lssc_loader_impressum.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/lssc_loader_index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/lssc_loader_index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/lssc_loader_kontakt.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/lssc_loader_kontakt.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/lssc_loader_kontakt.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/lssc_loader_kontakt.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/lssc_loader_kurse.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/lssc_loader_kurse.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/lssc_loader_kurse.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/lssc_loader_kurse.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/lssc_loader_mitmachen.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/lssc_loader_mitmachen.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/lssc_loader_mitmachen.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/lssc_loader_mitmachen.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/lssc_loader_news.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/lssc_loader_news.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/lssc_loader_san.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/lssc_loader_san.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/lssc_loader_san.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/lssc_loader_team.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/lssc_loader_team.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/lssc_loader_team.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/lssc_loader_team.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/lssc_loader_welcome.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/lssc_loader_welcome.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/lssc_loader_welcome.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/lssc_loader_welcome.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/no-js.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/no-js.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/preloader.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/preloader.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/preloader.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/preloader.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/blizzard/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/blizzard/common.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/blizzard/content.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/blizzard/content.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/blizzard/drop-down-menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/blizzard/drop-down-menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/blizzard/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/blizzard/footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/blizzard/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/blizzard/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/blizzard/loader.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/blizzard/loader.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/common/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/common/common.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/common/content.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/common/content.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/common/drop-down-menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/common/drop-down-menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/common/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/common/footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/common/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/common/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/common/loader.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/common/loader.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/animations.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/animations.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/animations.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/animations.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/color-rules.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/color-rules.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/color-rules.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/color-rules.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/common.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/common.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/contact-bak.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/contact-bak.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/contact-bak.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/contact-bak.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/contact-form.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/contact-form.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/contact-form.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/contact-form.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/contact-new.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/contact-new.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/content.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/content.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/drop-down-menu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/drop-down-menu.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/footer.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/footer.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/impressum.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/impressum.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/impressum.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/impressum.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/kontakt-box.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/kontakt-box.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/kontakt.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/kontakt.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/kontakt.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/kontakt.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/kurse.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/kurse.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/kurse.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/kurse.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/loader.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/loader.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/loader.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/loader.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/mitmachen.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/mitmachen.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/mitmachen.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/mitmachen.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/news.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/news.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/news.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/news.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/newsfeed-lidl-imgbox.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/impress-slider.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/newsfeed-lidl-imgbox.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/no-js-dash.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/no-js-dash.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/no-js-dash.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/no-js-dash.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/sanitaetsdienst.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/sanitaetsdienst.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/sanitaetsdienst.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/sanitaetsdienst.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/team.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/team.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/team.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/team.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/variables.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/variables.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/variables.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/variables.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/welcome.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/welcome.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/welcome.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/welcome.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/workinprogress.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/workinprogress.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/generic/workinprogress.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/workinprogress.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/lssc_loader_impressum.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/lssc_loader_impressum.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/midnight-blue/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/midnight-blue/common.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/midnight-blue/content.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/midnight-blue/content.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/midnight-blue/drop-down-menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/midnight-blue/drop-down-menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/midnight-blue/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/midnight-blue/footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/midnight-blue/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/midnight-blue/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/midnight-blue/loader.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/midnight-blue/loader.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/midnight/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/midnight/common.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/midnight/content.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/midnight/content.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/midnight/drop-down-menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/midnight/drop-down-menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/midnight/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/midnight/footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/midnight/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/midnight/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/css/themes/midnight/loader.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/midnight/loader.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/js/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/js/common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/js/dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/js/dev.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/js/footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/js/footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/js/index/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/js/index/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/js/index/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/js/index/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/js/index/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/js/index/init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/js/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/js/init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/js/kontakt/contact-form.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/js/kontakt/contact-form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/js/kontakt/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/js/kontakt/init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/js/kontakt/kontakt.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/js/kontakt/kontakt.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/js/menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/js/menu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/js/mitmachen/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/js/mitmachen/init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/js/team/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/js/team/init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt19/js/welcome/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/js/welcome/init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/.Rhistory" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/js/news/init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/dev.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/fonts.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/loader.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/lss_loader.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/lssc_loader.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/lssc_loader.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/lssc_loader.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/lssc_loader_impressum.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/lssc_loader_impressum.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/lssc_loader_index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/lssc_loader_index.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/lssc_loader_kontakt.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/lssc_loader_kontakt.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/lssc_loader_kurse.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/lssc_loader_kurse.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/lssc_loader_mitmachen.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/lssc_loader_mitmachen.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/lssc_loader_news.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/lssc_loader_news.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/lssc_loader_san.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/lssc_loader_san.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/lssc_loader_team.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/lssc_loader_team.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/lssc_loader_topic.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/lssc_loader_welcome.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/lssc_loader_topic.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/lssc_loader_welcome.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/no-js.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/preloader.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/preloader.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/common/common.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/common/content.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/common/drop-down-menu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/common/footer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/common/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/common/loader.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/animations.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/animations.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/color-rules.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/color-rules.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/common.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/common.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/common.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/contact-bak.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/contact-bak.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/contact-form.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/contact-form.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/contact-new.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/content.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/drop-down-menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/drop-down-menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/drop-down-menu.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/drop-down-menu.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/footer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/footer.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/impressum.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/impressum.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/lssc_loader_index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/kontakt-box.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/kontakt-box.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/kontakt.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/kontakt.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/kurse.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/kurse.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/loader.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/loader.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/mitmachen.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/mitmachen.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/news.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/news.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/newsfeed-lidl-imgbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/newsfeed-lidl-imgbox.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/impress-slider.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/no-js-dash.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/no-js-dash.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/sanitaetsdienst.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/sanitaetsdienst.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/team.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/team.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/variables.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/variables.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/welcome.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/topic.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/welcome.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/topic.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/workinprogress.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/generic/workinprogress.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/css/themes/lssc_loader_impressum.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/js/common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/js/dev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/js/footer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/js/index/config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/js/index/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/js/index/init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/js/init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/js/kontakt/contact-form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/js/kontakt/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/js/news/covid19/init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/js/kontakt/kontakt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/js/menu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/js/mitmachen/init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/js/team/init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-okt29/js/welcome/init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/team.php" beforeDir="false" afterPath="$PROJECT_DIR$/team.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics/covid19/content.html" beforeDir="false" afterPath="$PROJECT_DIR$/topics/covid19/content.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,19 +287,19 @@
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/releases" />
+      <recent name="$PROJECT_DIR$/src/css/themes/generic" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/modules/lidl" />
+      <recent name="$PROJECT_DIR$/news" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/topics" />
       <recent name="$PROJECT_DIR$/src/releases/1.01-dec10/css" />
       <recent name="$PROJECT_DIR$/src/releases/1.01-okt19/css" />
       <recent name="$PROJECT_DIR$/news" />
       <recent name="$PROJECT_DIR$/src/js/contact" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/css/themes/generic" />
-      <recent name="$PROJECT_DIR$/src" />
-      <recent name="$PROJECT_DIR$/modules/lidl" />
-      <recent name="$PROJECT_DIR$/news" />
-      <recent name="$PROJECT_DIR$/modules/lidl/1.01-apr20/default-navigation" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -332,6 +564,7 @@
       <workItem from="1591405460139" duration="681000" />
       <workItem from="1591701661405" duration="75000" />
       <workItem from="1591702269032" duration="2999000" />
+      <workItem from="1605014646465" duration="7806000" />
     </task>
     <servers />
   </component>
@@ -351,34 +584,26 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="747" y="251" width="476" height="619" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1590423017951">
-      <screen x="70" y="27" width="1850" height="1053" />
+    <state x="743" y="298" width="495" height="520" key="FileChooserDialogImpl" timestamp="1605014826049">
+      <screen x="72" y="22" width="1848" height="1058" />
     </state>
-    <state x="747" y="251" width="476" height="619" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1590423017951" />
-    <state x="535" y="240" width="909" height="640" key="EditFileWatcherDialog" timestamp="1590418663078">
-      <screen x="70" y="27" width="1850" height="1053" />
+    <state x="743" y="298" width="495" height="520" key="FileChooserDialogImpl/72.22.1848.1058@72.22.1848.1058" timestamp="1605014826049" />
+    <state x="485" y="186" width="1022" height="737" key="SettingsEditor" timestamp="1605014827042">
+      <screen x="72" y="22" width="1848" height="1058" />
     </state>
-    <state x="535" y="240" width="909" height="640" key="EditFileWatcherDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1590418663078" />
-    <state x="742" y="300" width="495" height="569" key="FileChooserDialogImpl" timestamp="1591702274620">
-      <screen x="70" y="27" width="1850" height="1053" />
+    <state x="485" y="186" width="1022" height="737" key="SettingsEditor/72.22.1848.1058@72.22.1848.1058" timestamp="1605014827042" />
+    <state x="767" y="466" width="458" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604746244649">
+      <screen x="72" y="22" width="1848" height="1058" />
     </state>
-    <state x="742" y="300" width="495" height="569" key="FileChooserDialogImpl/70.27.1850.1053@70.27.1850.1053" timestamp="1591702274620" />
-    <state x="484" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1591702275244">
-      <screen x="70" y="27" width="1850" height="1053" />
+    <state x="767" y="466" width="458" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/72.22.1848.1058@72.22.1848.1058" timestamp="1604746244649" />
+    <state x="687" y="261" width="618" height="580" key="find.popup" timestamp="1604746242388">
+      <screen x="72" y="22" width="1848" height="1058" />
     </state>
-    <state x="484" y="188" width="1022" height="737" key="SettingsEditor/70.27.1850.1053@70.27.1850.1053" timestamp="1591702275244" />
-    <state x="763" y="473" width="464" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591016976663">
-      <screen x="70" y="27" width="1850" height="1053" />
+    <state x="687" y="261" width="618" height="580" key="find.popup/72.22.1848.1058@72.22.1848.1058" timestamp="1604746242388" />
+    <state x="660" y="251" key="run.anything.popup" timestamp="1604746232812">
+      <screen x="72" y="22" width="1848" height="1058" />
     </state>
-    <state x="763" y="473" width="464" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/70.27.1850.1053@70.27.1850.1053" timestamp="1591016976663" />
-    <state x="563" y="230" width="863" height="646" key="find.popup" timestamp="1591016077012">
-      <screen x="70" y="27" width="1850" height="1053" />
-    </state>
-    <state x="563" y="230" width="863" height="646" key="find.popup/70.27.1850.1053@70.27.1850.1053" timestamp="1591016077012" />
-    <state x="659" y="252" key="run.anything.popup" timestamp="1591014028395">
-      <screen x="70" y="27" width="1850" height="1053" />
-    </state>
-    <state x="659" y="252" key="run.anything.popup/70.27.1850.1053@70.27.1850.1053" timestamp="1591014028395" />
+    <state x="660" y="251" key="run.anything.popup/72.22.1848.1058@72.22.1848.1058" timestamp="1604746232812" />
   </component>
   <component name="masterDetails">
     <states>

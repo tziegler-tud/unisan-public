@@ -66,11 +66,11 @@ $(document).ready (function () {
     var mc2 = new Hammer.Manager(imgBox02.getContainerDomElement());
     mc2.add(new Hammer.Swipe({direction: Hammer.DIRECTION_HORIZONTAL, threshold: 30}));
     mc2.on('swipeleft', function () {
-        console.log("swipe left detected");
+        // console.log("swipe left detected");
         imgBox02.nextImage();
     });
     mc2.on('swiperight', function () {
-        console.log("swipe right detected");
+        // console.log("swipe right detected");
         imgBox02.prevImage();
     });
 

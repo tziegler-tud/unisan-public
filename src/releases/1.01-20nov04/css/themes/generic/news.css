@@ -35,6 +35,9 @@
   display: block;
   margin-bottom: 1em;
 }
+.news-article .news-container .news-part.large {
+  font-size: 120%;
+}
 .news-article .news-container .news-heading {
   font-size: 120%;
 }

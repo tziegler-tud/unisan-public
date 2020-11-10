@@ -11,7 +11,7 @@ $baseURL = "../";
     <title>Studentischer Sanitätsdienst der TU Dresden</title>
     <link rel="shortcut icon" type="image/x-icon" href="../icons/favicon.ico">
 
-    <script src="../src/releases/1.01-dec10/js/index/config.js"></script>
+    <script src="../src/releases/1.01-20nov04/js/index/config.js"></script>
 
     <?php include_once("../common-includes.php"); ?>
 
@@ -27,7 +27,7 @@ $baseURL = "../";
          ***********************************
          ** specific css files
          *********************************** -->
-        <link rel="stylesheet" type="text/css" href="../src/css/themes/generic/newsportal.css" />
+        <link rel="stylesheet" type="text/css" href="/src/releases/1.01-20nov04/css/themes/generic/newsportal.css" />
 
 </head>
 <body>

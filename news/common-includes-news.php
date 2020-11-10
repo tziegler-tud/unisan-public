@@ -19,7 +19,7 @@
    ** js files
    *********************************** -->
 
-        <script src="../src/releases/1.01-20may26/js/news/init.js"></script>
+        <script src="../src/releases/1.01-20nov04/js/news/init.js"></script>
 
 
     <!--
@@ -33,7 +33,7 @@
       ***********************************
       ** css files
       *********************************** -->
-        <link rel="stylesheet" type="text/css" href="../src/releases/1.01-20may26/css/lssc_loader_news.css" />
+        <link rel="stylesheet" type="text/css" href="/src/releases/1.01-20nov04/css/lssc_loader_news.css" />
 
     <!--
      ***********************************

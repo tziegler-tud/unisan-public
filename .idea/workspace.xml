@@ -3,14 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="aaaf2f20-d3dc-4eb7-8f99-4d9649c26d78" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-snippet.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-snippet.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/common-includes-news.php" beforeDir="false" afterPath="$PROJECT_DIR$/news/common-includes-news.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/covid19.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/covid19.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/index-snippet.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/index-snippet.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/news/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/news/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/lssc_loader_news.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/lssc_loader_news.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/news.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/news.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/news.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-20nov04/css/themes/generic/news.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -340,7 +333,17 @@
       <workItem from="1591405460139" duration="681000" />
       <workItem from="1591701661405" duration="75000" />
       <workItem from="1591702269032" duration="2999000" />
-      <workItem from="1605014646465" duration="9270000" />
+      <workItem from="1605014646465" duration="10295000" />
+      <workItem from="1605095170981" duration="602000" />
+      <workItem from="1605276005306" duration="631000" />
+      <workItem from="1605357287230" duration="156000" />
+      <workItem from="1605362331257" duration="1200000" />
+      <workItem from="1605615782697" duration="40000" />
+      <workItem from="1606138437046" duration="641000" />
+      <workItem from="1606203924597" duration="11000" />
+      <workItem from="1606204363848" duration="660000" />
+      <workItem from="1606302061219" duration="7000" />
+      <workItem from="1606467207315" duration="249000" />
     </task>
     <servers />
   </component>
@@ -360,14 +363,16 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="743" y="298" width="495" height="520" key="FileChooserDialogImpl" timestamp="1605014826049">
-      <screen x="72" y="22" width="1848" height="1058" />
+    <state x="743" y="302" width="495" height="525" key="FileChooserDialogImpl" timestamp="1606467217822">
+      <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="743" y="298" width="495" height="520" key="FileChooserDialogImpl/72.22.1848.1058@72.22.1848.1058" timestamp="1605014826049" />
-    <state x="485" y="186" width="1022" height="737" key="SettingsEditor" timestamp="1605014827042">
-      <screen x="72" y="22" width="1848" height="1058" />
+    <state x="743" y="298" width="495" height="520" key="FileChooserDialogImpl/72.22.1848.1058@72.22.1848.1058" timestamp="1605276013108" />
+    <state x="743" y="302" width="495" height="525" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1606467217822" />
+    <state x="485" y="190" width="1022" height="737" key="SettingsEditor" timestamp="1606467218440">
+      <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="485" y="186" width="1022" height="737" key="SettingsEditor/72.22.1848.1058@72.22.1848.1058" timestamp="1605014827042" />
+    <state x="485" y="186" width="1022" height="737" key="SettingsEditor/72.22.1848.1058@72.22.1848.1058" timestamp="1605276013855" />
+    <state x="485" y="190" width="1022" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1606467218440" />
     <state x="767" y="466" width="458" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604746244649">
       <screen x="72" y="22" width="1848" height="1058" />
     </state>

@@ -1,0 +1,140 @@
+@import 'color-rules.less';
+@import 'variables.less';
+
+#content-top {
+  height: auto;
+  @media @desktop, @tablet-landscape {
+    //display: none !important;
+  }
+}
+
+#sec01 {
+  width: 100%;
+  #content01 {
+    #content01-img {
+      min-height: 100%;
+      background-image:   url("/images/index/content/dies2021.jpg");
+      @media @phone, @desktop, @tablet-landscape {
+        min-height: auto;
+        background-image: none;
+        .video-container {
+          display: block;
+        }
+      }
+    }
+  }
+}
+
+.link-external {
+  color: #fff;
+  font-size: 80% !important;
+
+  .link-external-icon {
+    width: .75em;
+    height: .75em;
+    margin-left: 1ex;
+  }
+}
+
+
+.video-container {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: 1;
+  text-align: center;
+
+  @media @phone {
+    //position: relative;
+    //height: auto;
+    //
+    //
+    //video {
+    //  width: 100%;
+    //  height: auto;
+    //  object-fit: contain;
+    //
+    //}
+  }
+
+  video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+
+  }
+}
+
+.impress--dies {
+  .sec-style-impress {
+    .bg-img {
+      .bg-helper {
+
+      }
+    }
+  }
+  .impress-container {
+    background-color: rgba(0,0,0,0.5) !important;
+
+    position: relative;
+    z-index: 2;
+    .impress-inner {
+      margin-bottom: 2em;
+
+      .impress-text {
+        .label {
+          margin-bottom: 2em;
+          font-variant: small-caps;
+          color: #222;
+          font-size: 130%;
+          background-color: #efefef;
+        }
+        .impress-text-mono {
+          font-family: Monospace;
+        }
+        .impress--dies-date {
+          font-variant: small-caps;
+          font-size: 110%;
+        }
+        .impress--dies-text {
+          white-space: normal;
+          font-size: 90%;
+          &.margin-bottom {
+            margin-bottom: 1em;
+          }
+
+          .double-line-wrapper {
+            display:block;
+            width: 100%;
+            margin-bottom: 5px !important;
+            .double-line {
+              margin-bottom: 0 !important;
+              display: inline-block;
+              clear: both;
+              float: none;
+            }
+          }
+
+          .highlight{
+            font-size: 100%;
+            color: #00293c;
+            background-color: #f5f5f5;
+            padding-right: 1ex;
+            font-weight: bold;
+            font-family: "Comfortaa Light", "Open Sans", Sans;
+
+          }
+          .impress--dies-emp {
+            font-variant: small-caps;
+            font-size: 110%;
+          }
+        }
+      }
+    }
+  }
+
+
+}

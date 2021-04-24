@@ -7,7 +7,7 @@
     <title>Studentischer Sanitätsdienst der TU Dresden</title>
     <link rel="shortcut icon" type="image/x-icon" href="icons/favicon.ico">
 
-    <script src="/src/releases/1.01-20nov04/js/index/config.js"></script>
+    <script src="/src/releases/1.01-21apr24/js/index/config.js"></script>
 
     <?php include_once("common-includes.php"); ?>
 
@@ -16,8 +16,8 @@
          ** specific js libs
          *********************************** -->
 
-         <script src="/src/releases/1.01-20nov04/js/index/init.js"></script>
-         <script src="/src/releases/1.01-20nov04/js/index/index.js"></script>
+         <script src="/src/releases/1.01-21apr24/js/index/init.js"></script>
+         <script src="/src/releases/1.01-21apr24/js/index/index.js"></script>
      
 
 
@@ -25,7 +25,8 @@
          ***********************************
          ** specific css files
          *********************************** -->
-       <link rel="stylesheet" type="text/css" href="/src/releases/1.01-20nov04/css/lssc_loader_index.css" />
+       <link rel="stylesheet" type="text/css" href="/src/releases/1.01-21apr24/css/lssc_loader_index.css" />
+       <link rel="stylesheet" type="text/css" href="/src/releases/1.01-21apr24/css/themes/generic/impress-dies.css" />
 
 </head>
 <body>

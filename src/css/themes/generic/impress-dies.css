@@ -1,0 +1,7 @@
+#sec01 #content01 #content01-img {
+  min-height: 100%;
+  background-image: url("/images/index/content/dies2021.jpg");
+}
+.impress--dies .impress-inner .impress-text .label {
+  font-variant: small-caps;
+}

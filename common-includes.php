@@ -51,10 +51,10 @@
       ***********************************
       ** css files
       *********************************** -->
-    <link rel="stylesheet" type="text/css" href="/src/releases/1.01-20nov04/css/preloader.css"/>
-    <link rel="stylesheet" type="text/css" href="/src/releases/1.01-20nov04/css/lssc_loader.css" />
+    <link rel="stylesheet" type="text/css" href="/src/releases/1.01-21apr24/css/preloader.css"/>
+    <link rel="stylesheet" type="text/css" href="/src/releases/1.01-21apr24/css/lssc_loader.css" />
     <!--
      ***********************************
      ** no js fallback
      *********************************** -->
-    <noscript><link rel="stylesheet" type="text/css" href="/src/releases/1.01-20nov04/css/no-js.css" /></noscript>
+    <noscript><link rel="stylesheet" type="text/css" href="/src/releases/1.01-21apr24/css/no-js.css" /></noscript>

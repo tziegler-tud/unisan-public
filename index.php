@@ -25,8 +25,8 @@
          ***********************************
          ** specific css files
          *********************************** -->
-       <link rel="stylesheet" type="text/css" href="/src/releases/1.01-21apr24/css/lssc_loader_index.css" />
-       <link rel="stylesheet" type="text/css" href="/src/releases/1.01-21apr24/css/themes/generic/impress-dies.css" />
+       <link rel="stylesheet" type="text/css" href="src/releases/1.01-21apr24/css/lssc_loader_index.css" />
+       <link rel="stylesheet" type="text/css" href="src/releases/1.01-21apr24/css/themes/generic/impress-dies.css" />
 
 </head>
 <body>

@@ -4,11 +4,7 @@
     <list default="true" id="aaaf2f20-d3dc-4eb7-8f99-4d9649c26d78" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index-snippet.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-snippet.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/releases/1.01-21apr24/css/lssc_loader_index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-21apr24/css/lssc_loader_index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/releases/1.01-21apr24/css/themes/generic/impress-dies.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-21apr24/css/themes/generic/impress-dies.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/releases/1.01-21apr24/css/themes/generic/impress-dies.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-21apr24/css/themes/generic/impress-dies.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/releases/1.01-21apr24/css/themes/generic/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-21apr24/css/themes/generic/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/releases/1.01-21apr24/css/themes/generic/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-21apr24/css/themes/generic/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos/dies.mp4" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +51,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="13.11.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="13.11.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/releases/1.01-21apr24/css/themes/generic" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="Less" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -357,7 +353,8 @@
       <workItem from="1618597886446" duration="1487000" />
       <workItem from="1618648634868" duration="154000" />
       <workItem from="1618648828831" duration="213000" />
-      <workItem from="1619249948020" duration="14364000" />
+      <workItem from="1619249948020" duration="15047000" />
+      <workItem from="1619280921778" duration="26000" />
     </task>
     <servers />
   </component>

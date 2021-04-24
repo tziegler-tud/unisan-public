@@ -3,7 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="aaaf2f20-d3dc-4eb7-8f99-4d9649c26d78" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common-includes.php" beforeDir="false" afterPath="$PROJECT_DIR$/common-includes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-snippet.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-snippet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-21apr24/css/lssc_loader_index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-21apr24/css/lssc_loader_index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-21apr24/css/themes/generic/impress-dies.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-21apr24/css/themes/generic/impress-dies.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-21apr24/css/themes/generic/impress-dies.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-21apr24/css/themes/generic/impress-dies.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-21apr24/css/themes/generic/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-21apr24/css/themes/generic/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-21apr24/css/themes/generic/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-21apr24/css/themes/generic/index.less" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -352,7 +357,7 @@
       <workItem from="1618597886446" duration="1487000" />
       <workItem from="1618648634868" duration="154000" />
       <workItem from="1618648828831" duration="213000" />
-      <workItem from="1619249948020" duration="11913000" />
+      <workItem from="1619249948020" duration="14364000" />
     </task>
     <servers />
   </component>

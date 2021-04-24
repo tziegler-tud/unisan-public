@@ -78,7 +78,7 @@ Toggle Views
 .teaser-large {
   display: none;
   min-height: 700px;
-  font-size: 100%;
+  font-size: 90%;
 }
 @media only screen and (min-width: 75em), only screen and (min-width: 50em) and (max-width: 75em) and (orientation: landscape) {
   .teaser-large {
@@ -87,12 +87,12 @@ Toggle Views
 }
 @media only screen and (min-width: 85em) and (max-width: 95em) {
   .teaser-large {
-    font-size: 80%;
+    font-size: 70%;
   }
 }
 @media only screen and (min-width: 75em) and (max-width: 85em) {
   .teaser-large {
-    font-size: 80%;
+    font-size: 70%;
   }
 }
 @media only screen and (min-width: 50em) and (max-width: 75em) and (orientation: landscape) {
@@ -405,7 +405,7 @@ gallery
   float: left;
   clear: left;
   max-width: 90%;
-  font-size: 300%;
+  font-size: 260%;
   color: #ffffff;
   background-position: 100% 0;
   background-size: 200% 100%;

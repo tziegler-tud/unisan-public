@@ -13,10 +13,19 @@
   /* Non-prefixed version, currently
                                   supported by Chrome and Opera */
 }
-#content-top {
-  height: auto;
-}
 @media only screen and (min-width: 75em), only screen and (min-width: 50em) and (max-width: 75em) and (orientation: landscape) {
+}
+#content-top .highlight {
+  font-size: 100%;
+  color: #00293c;
+  background-color: #f5f5f5;
+  padding-right: 1ex;
+  font-weight: bold;
+  font-family: "Comfortaa Light", "Open Sans", Sans;
+}
+#content-top .impress--dies-emp {
+  font-variant: small-caps;
+  font-size: 110%;
 }
 #sec01 {
   width: 100%;
@@ -64,9 +73,6 @@
   background-color: rgba(0, 0, 0, 0.5) !important;
   position: relative;
   z-index: 2;
-}
-.impress--dies .impress-container .impress-inner {
-  margin-bottom: 2em;
 }
 .impress--dies .impress-container .impress-inner .impress-text .label {
   margin-bottom: 2em;

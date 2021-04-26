@@ -44,6 +44,14 @@ $(document).ready (function () {
             }, 25);
         });
     }
+    else {
+        var video = document.getElementById("impress-video-element");
+        var videoSource = document.getElementById("impress-video-element-source");
+        video.pause();
+        videoSource.src = "videos/dies_mobile.mp4";
+        video.load();
+        video.play();
+    }
 
 
 

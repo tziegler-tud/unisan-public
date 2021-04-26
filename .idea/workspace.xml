@@ -4,6 +4,9 @@
     <list default="true" id="aaaf2f20-d3dc-4eb7-8f99-4d9649c26d78" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index-snippet.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-snippet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/index/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/index/init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/releases/1.01-21apr24/js/index/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/releases/1.01-21apr24/js/index/init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos/dies_short.mp4" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -353,7 +356,9 @@
       <workItem from="1618648634868" duration="154000" />
       <workItem from="1618648828831" duration="213000" />
       <workItem from="1619249948020" duration="15047000" />
-      <workItem from="1619280921778" duration="240000" />
+      <workItem from="1619280921778" duration="299000" />
+      <workItem from="1619341600289" duration="49000" />
+      <workItem from="1619422148066" duration="1257000" />
     </task>
     <servers />
   </component>

@@ -2,11 +2,6 @@ var lidlRTO;
 
 $(document).ready (function () {
 
-        e
-
-
-
-
     var phone = window.matchMedia("only screen and (max-width: 50em)");
 
     if (!phone.matches) { // If media query matches
@@ -25,6 +20,10 @@ $(document).ready (function () {
                 waiting = false;
             }, 25);
         });
+    }
+    else {
+        var video = document.getElementById("impress-video-element");
+        video.src = "videos/dies_mobile.mp4";
     }
 
 

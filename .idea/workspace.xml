@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="aaaf2f20-d3dc-4eb7-8f99-4d9649c26d78" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index-snippet.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-snippet.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/welcome/welcome.html" beforeDir="false" afterPath="$PROJECT_DIR$/welcome/welcome.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common-includes.php" beforeDir="false" afterPath="$PROJECT_DIR$/common-includes.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aaaf2f20-d3dc-4eb7-8f99-4d9649c26d78" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/video-teaser.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index-snippet.html" beforeDir="false" afterPath="$PROJECT_DIR$/index-snippet.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kurse.html" beforeDir="false" afterPath="$PROJECT_DIR$/kurse.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/index-snippet.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/index-snippet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/neujahresempfang.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/neujahresempfang.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/news-footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/news-footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/topics/covid19/content.html" beforeDir="false" afterPath="$PROJECT_DIR$/topics/covid19/content.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +40,9 @@
     <exe-path />
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="1cP0lF3fMdtZcK5MZBmP9u9eloJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />

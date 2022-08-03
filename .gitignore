@@ -1,6 +1,6 @@
 .idea/*
 .idea/workspace.xml
-#./images/*
-#./news/*
-#./icons/*
-#./node_modules
+./images/*
+./news/*
+./icons/*
+./node_modules

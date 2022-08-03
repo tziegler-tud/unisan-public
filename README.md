@@ -2,7 +2,6 @@
 ## Front-End files used for the website of our beloved student group.
 ### Author: Tom Ziegler
 #### Contributers: 
- * Fritz Windisch
 
 running here: https://unisan-dresden.de
 
@@ -12,9 +11,8 @@ running here: https://unisan-dresden.de
 
 
 
-### Purpose
-In times of WordPress, Wix, etc., handcrafted website have become almost a rarity. We want to share our efforts with any webdesign enthusiast out there. Get inspired, re-use our code, contribute with your improvals. 
-Though putting much effort keeping the code clean and readable, you might find yourself having a hard time digging throught all of it. If you have any questions regarding this project, feel free to ask me.
+### Current State
+
 There's still a lot of documentation to be done, and code to be cleaned up. 
 
 ### Tech
@@ -31,7 +29,7 @@ A detailed list of required browser capabilities and must-support features is pl
 ### Dependencies
 
 Our project uses [LESS](http://lesscss.org/) to generate css files.
-This project comes with it's own little "js framework", which essentially emerged during project development. 
+This project comes with it's own little js framework, which essentially emerged during project development. (Now discontinued here, but used in another project) 
 
 ### Usage
 
